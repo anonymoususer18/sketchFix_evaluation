@@ -1,0 +1,2312 @@
+Week.java-mem-23-0 Week.java-mem-23-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-4-7 Week.java-ca-4-7
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-mem-5-4 Week.java-mem-5-4
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-25-1 Week.java-ca-25-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-8-0 Week.java-ca-8-0
+
+Week.java-ca-28-9 Week.java-ca-28-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-18-6 Week.java-ca-18-6
+     [java] Generate 5 candidates for the type int: [week, LAST_WEEK_IN_YEAR, year, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 152
+
+Week.java-ca-25-9 Week.java-ca-25-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-21-1 Week.java-ca-21-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-27-1 Week.java-ca-27-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-43-1 Week.java-ca-43-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-43-0 Week.java-ca-43-0
+
+Week.java-ca-8-7 Week.java-ca-8-7
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-am-34-0 Week.java-am-34-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-42-5 Week.java-ca-42-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-cm-5-2 Week.java-cm-5-2
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-mem-41-1 Week.java-mem-41-1
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 1
+
+Week.java-ca-9-7 Week.java-ca-9-7
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-mem-5-0 Week.java-mem-5-0
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 2
+
+Week.java-ca-29-3 Week.java-ca-29-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-32-6 Week.java-ca-32-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-35-7 Week.java-ca-35-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-26-7 Week.java-ca-26-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-cm-10-5 Week.java-cm-10-5
+
+Week.java-cm-5-20 Week.java-cm-5-20
+     [java] Generate 4 candidates for the type int: [tempWeek, LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 98
+
+Week.java-ca-32-2 Week.java-ca-32-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-27-9 Week.java-ca-27-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-cm-16-7 Week.java-cm-16-7
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-23-9 Week.java-ca-23-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-am-7-1 Week.java-am-7-1
+     [java] Generate 2 candidates for the type class java.util.Date: [time, null]
+     [java] Space: 2
+
+Week.java-ca-14-4 Week.java-ca-14-4
+
+Week.java-cm-5-31 Week.java-cm-5-31
+
+Week.java-ca-28-8 Week.java-ca-28-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-am-27-0 Week.java-am-27-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-25-0 Week.java-ca-25-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-ca-31-5 Week.java-ca-31-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-cm-5-14 Week.java-cm-5-14
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-5-5 Week.java-ca-5-5
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-3-3 Week.java-ca-3-3
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-34-6 Week.java-ca-34-6
+
+Week.java-ca-39-5 Week.java-ca-39-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-34-3 Week.java-ca-34-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-10-6 Week.java-ca-10-6
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-mem-34-0 Week.java-mem-34-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-24-2 Week.java-ca-24-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-am-24-0 Week.java-am-24-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-37-8 Week.java-ca-37-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-8-4 Week.java-ca-8-4
+
+Week.java-cm-16-4 Week.java-cm-16-4
+     [java] Generate 3 candidates for the type int: [yyyy, tempWeek, 0]
+     [java] Space: 56
+
+Week.java-cm-16-18 Week.java-cm-16-18
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-16-8 Week.java-ca-16-8
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-4-4 Week.java-ca-4-4
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-30-0 Week.java-ca-30-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-cm-9-0 Week.java-cm-9-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-34-9 Week.java-ca-34-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-14-6 Week.java-ca-14-6
+
+Week.java-am-36-0 Week.java-am-36-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-cr-9-0 Week.java-cr-9-0
+
+Week.java-ca-18-5 Week.java-ca-18-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-am-16-1 Week.java-am-16-1
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 1
+
+Week.java-ca-5-7 Week.java-ca-5-7
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-5-8 Week.java-ca-5-8
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-10-3 Week.java-ca-10-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-am-38-0 Week.java-am-38-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-mem-33-0 Week.java-mem-33-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-41-2 Week.java-ca-41-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-am-5-4 Week.java-am-5-4
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-7-8 Week.java-ca-7-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-41-7 Week.java-ca-41-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-am-21-1 Week.java-am-21-1
+
+Week.java-ca-37-9 Week.java-ca-37-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-om-5-0 Week.java-om-5-0
+
+Week.java-cr-5-1 Week.java-cr-5-1
+
+Week.java-ca-45-5 Week.java-ca-45-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-am-5-1 Week.java-am-5-1
+
+Week.java-cm-5-6 Week.java-cm-5-6
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-43-4 Week.java-ca-43-4
+
+Week.java-am-32-0 Week.java-am-32-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-30-5 Week.java-ca-30-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-29-7 Week.java-ca-29-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-cm-5-32 Week.java-cm-5-32
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-cm-21-7 Week.java-cm-21-7
+
+Week.java-ca-36-2 Week.java-ca-36-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-16-0 Week.java-ca-16-0
+     [java] Generate 3 candidates for the type int: [yyyy, tempWeek, 0]
+     [java] Space: 56
+
+Week.java-ca-26-5 Week.java-ca-26-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-28-1 Week.java-ca-28-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-26-3 Week.java-ca-26-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-39-7 Week.java-ca-39-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-10-0 Week.java-ca-10-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-42-6 Week.java-ca-42-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-28-7 Week.java-ca-28-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-mem-7-0 Week.java-mem-7-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-20-5 Week.java-ca-20-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-28-0 Week.java-ca-28-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-ca-3-0 Week.java-ca-3-0
+
+Week.java-cm-21-1 Week.java-cm-21-1
+
+Week.java-ca-20-7 Week.java-ca-20-7
+     [java] Generate 7 candidates for the type int: [week, year, week, LAST_WEEK_IN_YEAR, year, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 296
+
+Week.java-mem-5-1 Week.java-mem-5-1
+
+Week.java-ca-24-4 Week.java-ca-24-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-40-0 Week.java-ca-40-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-mem-0-0 Week.java-mem-0-0
+     [java] Generate 2 candidates for the type class java.util.Date: [time, null]
+     [java] Space: 2
+
+Week.java-cm-5-17 Week.java-cm-5-17
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-am-9-0 Week.java-am-9-0
+     [java] Generate 2 candidates for the type class java.util.Locale: [locale, null]
+     [java] Space: 2
+
+Week.java-ca-30-4 Week.java-ca-30-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-9-3 Week.java-cm-9-3
+
+Week.java-mem-43-0 Week.java-mem-43-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-43-3 Week.java-ca-43-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-cm-21-6 Week.java-cm-21-6
+     [java] Generate 7 candidates for the type int: [week, year, week, LAST_WEEK_IN_YEAR, year, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 296
+
+Week.java-ca-29-8 Week.java-ca-29-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-11-4 Week.java-ca-11-4
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-40-9 Week.java-ca-40-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-26-8 Week.java-ca-26-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-16-5 Week.java-ca-16-5
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-cm-16-15 Week.java-cm-16-15
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-33-0 Week.java-ca-33-0
+
+Week.java-ca-33-4 Week.java-ca-33-4
+
+Week.java-ca-7-7 Week.java-ca-7-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-9-1 Week.java-cm-9-1
+
+Week.java-om-5-4 Week.java-om-5-4
+
+Week.java-ca-33-1 Week.java-ca-33-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-mem-15-0 Week.java-mem-15-0
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 1
+
+Week.java-am-3-0 Week.java-am-3-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-cr-21-0 Week.java-cr-21-0
+
+Week.java-ca-34-7 Week.java-ca-34-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-cr-10-0 Week.java-cr-10-0
+
+Week.java-cm-5-25 Week.java-cm-5-25
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-0-3 Week.java-ca-0-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-21-10 Week.java-cm-21-10
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-2-6 Week.java-ca-2-6
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-am-26-0 Week.java-am-26-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-15-2 Week.java-ca-15-2
+
+Week.java-ca-39-8 Week.java-ca-39-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-31-6 Week.java-ca-31-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-5-4 Week.java-cm-5-4
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-ca-42-4 Week.java-ca-42-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-11-1 Week.java-ca-11-1
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-am-29-0 Week.java-am-29-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-19-2 Week.java-ca-19-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-5-4 Week.java-ca-5-4
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-cm-21-14 Week.java-cm-21-14
+     [java] Generate 7 candidates for the type int: [week, year, week, LAST_WEEK_IN_YEAR, year, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 296
+
+Week.java-ca-7-4 Week.java-ca-7-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-25-2 Week.java-ca-25-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-6-3 Week.java-ca-6-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-45-2 Week.java-ca-45-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-14-5 Week.java-ca-14-5
+
+Week.java-ca-32-1 Week.java-ca-32-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-mem-25-0 Week.java-mem-25-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-cm-16-9 Week.java-cm-16-9
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cr-16-0 Week.java-cr-16-0
+
+Week.java-ca-34-5 Week.java-ca-34-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-om-5-1 Week.java-om-5-1
+
+Week.java-cm-5-34 Week.java-cm-5-34
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-24-3 Week.java-ca-24-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-11-2 Week.java-ca-11-2
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-19-1 Week.java-ca-19-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-19-6 Week.java-ca-19-6
+     [java] Generate 7 candidates for the type int: [week, year, week, LAST_WEEK_IN_YEAR, year, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 296
+
+Week.java-cm-5-0 Week.java-cm-5-0
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-ca-38-9 Week.java-ca-38-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-cm-5-3 Week.java-cm-5-3
+
+Week.java-ca-36-3 Week.java-ca-36-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-am-5-0 Week.java-am-5-0
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 2
+
+Week.java-ca-41-5 Week.java-ca-41-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-35-4 Week.java-ca-35-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-3-4 Week.java-ca-3-4
+
+Week.java-cm-5-23 Week.java-cm-5-23
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-18-3 Week.java-ca-18-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-8-5 Week.java-ca-8-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-mem-27-0 Week.java-mem-27-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-21-7 Week.java-ca-21-7
+     [java] Generate 7 candidates for the type int: [week, year, week, LAST_WEEK_IN_YEAR, year, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 296
+
+Week.java-am-28-0 Week.java-am-28-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-23-1 Week.java-ca-23-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-24-0 Week.java-ca-24-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-ca-3-1 Week.java-ca-3-1
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-ca-3-2 Week.java-ca-3-2
+
+Week.java-om-5-5 Week.java-om-5-5
+
+Week.java-ca-32-7 Week.java-ca-32-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-cm-0-3 Week.java-cm-0-3
+
+Week.java-am-41-1 Week.java-am-41-1
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 1
+
+Week.java-ca-42-9 Week.java-ca-42-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-26-4 Week.java-ca-26-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-7-0 Week.java-ca-7-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-cm-5-38 Week.java-cm-5-38
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-16-13 Week.java-cm-16-13
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-om-16-0 Week.java-om-16-0
+
+Week.java-ca-8-1 Week.java-ca-8-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-23-6 Week.java-ca-23-6
+
+Week.java-cm-5-5 Week.java-cm-5-5
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-am-45-0 Week.java-am-45-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-mem-5-5 Week.java-mem-5-5
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-mem-30-0 Week.java-mem-30-0
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 1
+
+Week.java-ca-31-1 Week.java-ca-31-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-40-5 Week.java-ca-40-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-7-1 Week.java-ca-7-1
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-34-8 Week.java-ca-34-8
+
+Week.java-mem-7-1 Week.java-mem-7-1
+     [java] Generate 2 candidates for the type class java.util.Date: [time, null]
+     [java] Space: 2
+
+Week.java-ca-35-1 Week.java-ca-35-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-40-2 Week.java-ca-40-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-3-7 Week.java-ca-3-7
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-0-0 Week.java-ca-0-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-31-9 Week.java-ca-31-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-39-3 Week.java-ca-39-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-36-6 Week.java-ca-36-6
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-37-0 Week.java-ca-37-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-mem-4-0 Week.java-mem-4-0
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 2
+
+Week.java-am-7-0 Week.java-am-7-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-am-39-1 Week.java-am-39-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-9-6 Week.java-ca-9-6
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-6-8 Week.java-ca-6-8
+
+Week.java-ca-2-1 Week.java-ca-2-1
+     [java] Generate 3 candidates for the type int: [yyyy, tempWeek, 0]
+     [java] Space: 56
+
+Week.java-ca-28-6 Week.java-ca-28-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-42-2 Week.java-ca-42-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-15-0 Week.java-ca-15-0
+
+Week.java-ca-11-9 Week.java-ca-11-9
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-5-19 Week.java-cm-5-19
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-5-35 Week.java-cm-5-35
+
+Week.java-ca-39-6 Week.java-ca-39-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-41-4 Week.java-ca-41-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-16-16 Week.java-cm-16-16
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-16-4 Week.java-ca-16-4
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-40-4 Week.java-ca-40-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-32-4 Week.java-ca-32-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-0-6 Week.java-cm-0-6
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-30-8 Week.java-ca-30-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-31-4 Week.java-ca-31-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-30-1 Week.java-ca-30-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-21-2 Week.java-ca-21-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-27-6 Week.java-ca-27-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-19-4 Week.java-ca-19-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-45-6 Week.java-ca-45-6
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-25-4 Week.java-ca-25-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-mem-5-2 Week.java-mem-5-2
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 2
+
+Week.java-cm-10-6 Week.java-cm-10-6
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-cm-0-0 Week.java-cm-0-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-am-11-0 Week.java-am-11-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-26-2 Week.java-ca-26-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-7-3 Week.java-ca-7-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-8-6 Week.java-ca-8-6
+
+Week.java-ca-4-9 Week.java-ca-4-9
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-5-39 Week.java-cm-5-39
+
+Week.java-ca-3-6 Week.java-ca-3-6
+
+Week.java-cm-5-26 Week.java-cm-5-26
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-9-5 Week.java-cm-9-5
+
+Week.java-ca-0-7 Week.java-ca-0-7
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-cm-16-11 Week.java-cm-16-11
+     [java] Generate 5 candidates for the type int: [yyyy, tempWeek, LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 152
+
+Week.java-ca-15-7 Week.java-ca-15-7
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 76
+
+Week.java-ca-9-3 Week.java-ca-9-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-om-16-2 Week.java-om-16-2
+
+Week.java-cm-16-8 Week.java-cm-16-8
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-35-5 Week.java-ca-35-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-am-43-0 Week.java-am-43-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-24-5 Week.java-ca-24-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-am-41-0 Week.java-am-41-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-9-2 Week.java-ca-9-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-am-16-0 Week.java-am-16-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-cm-9-4 Week.java-cm-9-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-4-2 Week.java-ca-4-2
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-35-6 Week.java-ca-35-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-5-29 Week.java-cm-5-29
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-0-4 Week.java-cm-0-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-29-0 Week.java-ca-29-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-ca-19-0 Week.java-ca-19-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-23-0 Week.java-ca-23-0
+
+Week.java-mem-40-0 Week.java-mem-40-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-am-29-1 Week.java-am-29-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-cm-16-10 Week.java-cm-16-10
+     [java] Generate 5 candidates for the type int: [yyyy, tempWeek, LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 152
+
+Week.java-ca-16-1 Week.java-ca-16-1
+     [java] Generate 3 candidates for the type int: [yyyy, tempWeek, 0]
+     [java] Space: 56
+
+Week.java-ca-0-6 Week.java-ca-0-6
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-10-1 Week.java-ca-10-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-2-2 Week.java-ca-2-2
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-am-42-0 Week.java-am-42-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-43-6 Week.java-ca-43-6
+
+Week.java-ca-10-2 Week.java-ca-10-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-29-4 Week.java-ca-29-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-0-5 Week.java-cm-0-5
+
+Week.java-am-31-0 Week.java-am-31-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-35-9 Week.java-ca-35-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-40-3 Week.java-ca-40-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-am-15-0 Week.java-am-15-0
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 1
+
+Week.java-ca-11-5 Week.java-ca-11-5
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-27-5 Week.java-ca-27-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-31-2 Week.java-ca-31-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-am-0-0 Week.java-am-0-0
+     [java] Generate 2 candidates for the type class java.util.Date: [time, null]
+     [java] Space: 2
+
+Week.java-ca-38-6 Week.java-ca-38-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-21-5 Week.java-ca-21-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-14-2 Week.java-ca-14-2
+
+Week.java-ca-18-4 Week.java-ca-18-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-19-3 Week.java-ca-19-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-31-0 Week.java-ca-31-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-cm-5-8 Week.java-cm-5-8
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-cm-10-0 Week.java-cm-10-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-38-8 Week.java-ca-38-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-om-16-1 Week.java-om-16-1
+
+Week.java-ca-34-1 Week.java-ca-34-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-cm-9-2 Week.java-cm-9-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-3-9 Week.java-ca-3-9
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-20-0 Week.java-ca-20-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-mem-45-0 Week.java-mem-45-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-42-8 Week.java-ca-42-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-mem-31-1 Week.java-mem-31-1
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 1
+
+Week.java-ca-23-4 Week.java-ca-23-4
+
+Week.java-mem-14-0 Week.java-mem-14-0
+     [java] Generate 2 candidates for the type class java.util.Date: [time, null]
+     [java] Space: 2
+
+Week.java-ca-27-4 Week.java-ca-27-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-mem-3-0 Week.java-mem-3-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-8-2 Week.java-ca-8-2
+
+Week.java-ca-36-1 Week.java-ca-36-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-6-1 Week.java-ca-6-1
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-6-2 Week.java-ca-6-2
+
+Week.java-am-5-5 Week.java-am-5-5
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-43-5 Week.java-ca-43-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-28-3 Week.java-ca-28-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-cm-10-4 Week.java-cm-10-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-21-8 Week.java-cm-21-8
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-om-5-2 Week.java-om-5-2
+
+Week.java-ca-5-0 Week.java-ca-5-0
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-cm-16-12 Week.java-cm-16-12
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-4-5 Week.java-ca-4-5
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-39-1 Week.java-ca-39-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-cm-16-0 Week.java-cm-16-0
+     [java] Generate 3 candidates for the type int: [yyyy, tempWeek, 0]
+     [java] Space: 56
+
+Week.java-ca-37-1 Week.java-ca-37-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-20-6 Week.java-ca-20-6
+     [java] Generate 7 candidates for the type int: [week, year, week, LAST_WEEK_IN_YEAR, year, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 296
+
+Week.java-ca-0-4 Week.java-ca-0-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-24-6 Week.java-ca-24-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-10-5 Week.java-ca-10-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-45-1 Week.java-ca-45-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-mem-39-1 Week.java-mem-39-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-45-0 Week.java-ca-45-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-28-5 Week.java-ca-28-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-41-1 Week.java-ca-41-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-cm-21-4 Week.java-cm-21-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-37-4 Week.java-ca-37-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-21-12 Week.java-cm-21-12
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-14-0 Week.java-ca-14-0
+
+Week.java-ca-6-7 Week.java-ca-6-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-am-5-2 Week.java-am-5-2
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 2
+
+Week.java-ca-38-4 Week.java-ca-38-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cr-5-3 Week.java-cr-5-3
+
+Week.java-cm-9-7 Week.java-cm-9-7
+
+Week.java-mem-29-0 Week.java-mem-29-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-9-1 Week.java-ca-9-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-mem-29-1 Week.java-mem-29-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-41-9 Week.java-ca-41-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-0-1 Week.java-ca-0-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-cm-5-37 Week.java-cm-5-37
+
+Week.java-ca-28-4 Week.java-ca-28-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-9-6 Week.java-cm-9-6
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-am-21-0 Week.java-am-21-0
+     [java] Generate 3 candidates for the type int: [week, year, 0]
+     [java] Space: 3
+
+Week.java-mem-21-0 Week.java-mem-21-0
+     [java] Generate 3 candidates for the type int: [week, year, 0]
+     [java] Space: 3
+
+Week.java-am-8-1 Week.java-am-8-1
+     [java] Generate 2 candidates for the type class java.util.Locale: [locale, null]
+     [java] Space: 2
+
+Week.java-ca-33-5 Week.java-ca-33-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-42-1 Week.java-ca-42-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-32-3 Week.java-ca-32-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-cm-5-9 Week.java-cm-5-9
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-ca-41-0 Week.java-ca-41-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-ca-42-3 Week.java-ca-42-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-29-2 Week.java-ca-29-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-18-1 Week.java-ca-18-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-39-2 Week.java-ca-39-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-35-0 Week.java-ca-35-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-ca-33-3 Week.java-ca-33-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-21-3 Week.java-ca-21-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-9-4 Week.java-ca-9-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-37-2 Week.java-ca-37-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-27-8 Week.java-ca-27-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-am-40-1 Week.java-am-40-1
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 1
+
+Week.java-ca-2-4 Week.java-ca-2-4
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-mem-5-6 Week.java-mem-5-6
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 1
+
+Week.java-ca-38-7 Week.java-ca-38-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-30-2 Week.java-ca-30-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-am-8-0 Week.java-am-8-0
+     [java] Generate 2 candidates for the type class java.util.TimeZone: [zone, null]
+     [java] Space: 2
+
+Week.java-am-6-0 Week.java-am-6-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-26-9 Week.java-ca-26-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-24-7 Week.java-ca-24-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-0-2 Week.java-ca-0-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-21-0 Week.java-ca-21-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-42-0 Week.java-ca-42-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-am-23-0 Week.java-am-23-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-cm-16-2 Week.java-cm-16-2
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-40-1 Week.java-ca-40-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-7-9 Week.java-ca-7-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-4-8 Week.java-ca-4-8
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-26-6 Week.java-ca-26-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-mem-10-0 Week.java-mem-10-0
+     [java] Generate 2 candidates for the type class java.util.TimeZone: [zone, null]
+     [java] Space: 2
+
+Week.java-ca-4-3 Week.java-ca-4-3
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-mem-16-1 Week.java-mem-16-1
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 1
+
+Week.java-ca-4-1 Week.java-ca-4-1
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-ca-33-6 Week.java-ca-33-6
+
+Week.java-ca-39-4 Week.java-ca-39-4
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-7-5 Week.java-ca-7-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-5-36 Week.java-cm-5-36
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-43-2 Week.java-ca-43-2
+
+Week.java-ca-5-6 Week.java-ca-5-6
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-10-1 Week.java-cm-10-1
+
+Week.java-am-4-1 Week.java-am-4-1
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 2
+
+Week.java-ca-37-6 Week.java-ca-37-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-20-4 Week.java-ca-20-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-3-5 Week.java-ca-3-5
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-mem-40-1 Week.java-mem-40-1
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 1
+
+Week.java-ca-14-1 Week.java-ca-14-1
+
+Week.java-cr-5-2 Week.java-cr-5-2
+
+Week.java-ca-34-4 Week.java-ca-34-4
+
+Week.java-ca-20-2 Week.java-ca-20-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-10-7 Week.java-ca-10-7
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-cm-10-2 Week.java-cm-10-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-27-3 Week.java-ca-27-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-11-0 Week.java-ca-11-0
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-ca-36-4 Week.java-ca-36-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-27-7 Week.java-ca-27-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-6-0 Week.java-ca-6-0
+
+Week.java-cm-0-7 Week.java-cm-0-7
+
+Week.java-cm-16-5 Week.java-cm-16-5
+     [java] Generate 3 candidates for the type int: [yyyy, tempWeek, 0]
+     [java] Space: 56
+
+Week.java-ca-15-6 Week.java-ca-15-6
+
+Week.java-ca-26-0 Week.java-ca-26-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-ca-15-5 Week.java-ca-15-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 6
+
+Week.java-ca-38-2 Week.java-ca-38-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-35-2 Week.java-ca-35-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-am-10-0 Week.java-am-10-0
+     [java] Generate 2 candidates for the type class java.util.TimeZone: [zone, null]
+     [java] Space: 2
+
+Week.java-mem-42-0 Week.java-mem-42-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-36-7 Week.java-ca-36-7
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-40-8 Week.java-ca-40-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-am-33-0 Week.java-am-33-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-21-6 Week.java-ca-21-6
+     [java] Generate 7 candidates for the type int: [week, year, week, LAST_WEEK_IN_YEAR, year, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 296
+
+Week.java-mem-37-0 Week.java-mem-37-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-28-2 Week.java-ca-28-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-cm-5-1 Week.java-cm-5-1
+
+Week.java-ca-14-3 Week.java-ca-14-3
+
+Week.java-cm-5-21 Week.java-cm-5-21
+     [java] Generate 4 candidates for the type int: [tempWeek, LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 98
+
+Week.java-ca-7-6 Week.java-ca-7-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-21-5 Week.java-cm-21-5
+
+Week.java-ca-2-8 Week.java-ca-2-8
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-33-2 Week.java-ca-33-2
+
+Week.java-am-5-3 Week.java-am-5-3
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 2
+
+Week.java-cm-16-3 Week.java-cm-16-3
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-11-8 Week.java-ca-11-8
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-25-7 Week.java-ca-25-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-23-3 Week.java-ca-23-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-16-6 Week.java-ca-16-6
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-38-1 Week.java-ca-38-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-mem-4-1 Week.java-mem-4-1
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 2
+
+Week.java-ca-18-7 Week.java-ca-18-7
+     [java] Generate 5 candidates for the type int: [week, LAST_WEEK_IN_YEAR, year, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 152
+
+Week.java-cm-5-11 Week.java-cm-5-11
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-mem-38-0 Week.java-mem-38-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-36-5 Week.java-ca-36-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-23-2 Week.java-ca-23-2
+
+Week.java-ca-9-5 Week.java-ca-9-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-om-0-0 Week.java-om-0-0
+
+Week.java-ca-15-3 Week.java-ca-15-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 6
+
+Week.java-ca-5-1 Week.java-ca-5-1
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-ca-6-4 Week.java-ca-6-4
+
+Week.java-ca-11-3 Week.java-ca-11-3
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-mem-31-0 Week.java-mem-31-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-30-3 Week.java-ca-30-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-mem-36-0 Week.java-mem-36-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-cm-10-3 Week.java-cm-10-3
+
+Week.java-am-31-1 Week.java-am-31-1
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 1
+
+Week.java-ca-11-7 Week.java-ca-11-7
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-41-6 Week.java-ca-41-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-37-5 Week.java-ca-37-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-cm-21-3 Week.java-cm-21-3
+
+Week.java-mem-8-0 Week.java-mem-8-0
+     [java] Generate 2 candidates for the type class java.util.TimeZone: [zone, null]
+     [java] Space: 2
+
+Week.java-ca-6-9 Week.java-ca-6-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-cm-21-11 Week.java-cm-21-11
+
+Week.java-mem-24-0 Week.java-mem-24-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-15-4 Week.java-ca-15-4
+
+Week.java-mem-5-7 Week.java-mem-5-7
+
+Week.java-ca-16-9 Week.java-ca-16-9
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-16-19 Week.java-cm-16-19
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-5-24 Week.java-cm-5-24
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-mem-16-0 Week.java-mem-16-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-cm-16-17 Week.java-cm-16-17
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-35-8 Week.java-ca-35-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-am-39-0 Week.java-am-39-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-37-3 Week.java-ca-37-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-24-9 Week.java-ca-24-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-cm-21-0 Week.java-cm-21-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-2-5 Week.java-ca-2-5
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-16-3 Week.java-ca-16-3
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-mem-30-1 Week.java-mem-30-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-6-5 Week.java-ca-6-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-36-0 Week.java-ca-36-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-2-9 Week.java-ca-2-9
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-am-25-0 Week.java-am-25-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-cm-5-7 Week.java-cm-5-7
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-20-3 Week.java-ca-20-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-41-8 Week.java-ca-41-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-29-6 Week.java-ca-29-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-32-5 Week.java-ca-32-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-cm-5-15 Week.java-cm-5-15
+
+Week.java-cm-5-16 Week.java-cm-5-16
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-cm-5-22 Week.java-cm-5-22
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-30-9 Week.java-ca-30-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-4-0 Week.java-ca-4-0
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-ca-40-6 Week.java-ca-40-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-5-2 Week.java-ca-5-2
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-2-0 Week.java-ca-2-0
+     [java] Generate 3 candidates for the type int: [yyyy, tempWeek, 0]
+     [java] Space: 56
+
+Week.java-cm-5-13 Week.java-cm-5-13
+
+Week.java-ca-39-0 Week.java-ca-39-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-mem-11-0 Week.java-mem-11-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-32-0 Week.java-ca-32-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-cm-5-27 Week.java-cm-5-27
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-30-6 Week.java-ca-30-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-24-1 Week.java-ca-24-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-ca-3-8 Week.java-ca-3-8
+
+Week.java-am-4-0 Week.java-am-4-0
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 2
+
+Week.java-mem-35-0 Week.java-mem-35-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-am-5-7 Week.java-am-5-7
+
+Week.java-ca-19-7 Week.java-ca-19-7
+     [java] Generate 7 candidates for the type int: [week, year, week, LAST_WEEK_IN_YEAR, year, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 296
+
+Week.java-mem-41-0 Week.java-mem-41-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-14-7 Week.java-ca-14-7
+
+Week.java-cm-10-7 Week.java-cm-10-7
+
+Week.java-ca-32-9 Week.java-ca-32-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-mem-8-1 Week.java-mem-8-1
+     [java] Generate 2 candidates for the type class java.util.Locale: [locale, null]
+     [java] Space: 2
+
+Week.java-ca-31-7 Week.java-ca-31-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-29-1 Week.java-ca-29-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-mem-39-0 Week.java-mem-39-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-mem-26-0 Week.java-mem-26-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-0-5 Week.java-ca-0-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-7-2 Week.java-ca-7-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-30-7 Week.java-ca-30-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-am-5-6 Week.java-am-5-6
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 1
+
+Week.java-cm-5-12 Week.java-cm-5-12
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 26
+
+Week.java-mem-28-0 Week.java-mem-28-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-29-9 Week.java-ca-29-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-cm-21-9 Week.java-cm-21-9
+
+Week.java-ca-38-3 Week.java-ca-38-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-23-7 Week.java-ca-23-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-om-10-0 Week.java-om-10-0
+
+Week.java-am-37-0 Week.java-am-37-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-27-2 Week.java-ca-27-2
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-cm-5-30 Week.java-cm-5-30
+     [java] Generate 4 candidates for the type int: [tempWeek, LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 98
+
+Week.java-om-9-0 Week.java-om-9-0
+
+Week.java-ca-9-0 Week.java-ca-9-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-10-4 Week.java-ca-10-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-6-6 Week.java-ca-6-6
+
+Week.java-mem-5-3 Week.java-mem-5-3
+     [java] Generate 2 candidates for the type int: [tempWeek, 0]
+     [java] Space: 2
+
+Week.java-cm-5-10 Week.java-cm-5-10
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-15-1 Week.java-ca-15-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 148
+
+Week.java-ca-38-0 Week.java-ca-38-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-cm-5-18 Week.java-cm-5-18
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-19-5 Week.java-ca-19-5
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-41-3 Week.java-ca-41-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-mem-32-0 Week.java-mem-32-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-5-3 Week.java-ca-5-3
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-45-4 Week.java-ca-45-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cm-16-14 Week.java-cm-16-14
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-8-3 Week.java-ca-8-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-21-4 Week.java-ca-21-4
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-cr-21-1 Week.java-cr-21-1
+
+Week.java-ca-25-3 Week.java-ca-25-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-45-3 Week.java-ca-45-3
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-am-30-1 Week.java-am-30-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-ca-18-2 Week.java-ca-18-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-37-7 Week.java-ca-37-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-cm-0-1 Week.java-cm-0-1
+
+Week.java-cr-5-0 Week.java-cr-5-0
+
+Week.java-am-14-0 Week.java-am-14-0
+     [java] Generate 2 candidates for the type class java.util.Date: [time, null]
+     [java] Space: 2
+
+Week.java-ca-34-0 Week.java-ca-34-0
+
+Week.java-om-5-3 Week.java-om-5-3
+
+Week.java-ca-2-3 Week.java-ca-2-3
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-27-0 Week.java-ca-27-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 20
+
+Week.java-ca-5-9 Week.java-ca-5-9
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-am-40-0 Week.java-am-40-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-mem-9-0 Week.java-mem-9-0
+     [java] Generate 2 candidates for the type class java.util.Locale: [locale, null]
+     [java] Space: 2
+
+Week.java-ca-38-5 Week.java-ca-38-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-35-3 Week.java-ca-35-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-cm-16-6 Week.java-cm-16-6
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-ca-23-5 Week.java-ca-23-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-34-2 Week.java-ca-34-2
+
+Week.java-om-21-0 Week.java-om-21-0
+
+Week.java-cm-5-33 Week.java-cm-5-33
+
+Week.java-ca-24-8 Week.java-ca-24-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-am-30-0 Week.java-am-30-0
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 1
+
+Week.java-ca-2-7 Week.java-ca-2-7
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-23-8 Week.java-ca-23-8
+
+Week.java-ca-26-1 Week.java-ca-26-1
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 20
+
+Week.java-cm-16-1 Week.java-cm-16-1
+     [java] Generate 3 candidates for the type int: [yyyy, tempWeek, 0]
+     [java] Space: 56
+
+Week.java-cm-21-2 Week.java-cm-21-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-mem-21-1 Week.java-mem-21-1
+
+Week.java-ca-11-6 Week.java-ca-11-6
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-16-7 Week.java-ca-16-7
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-40-7 Week.java-ca-40-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-29-5 Week.java-ca-29-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-45-7 Week.java-ca-45-7
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-32-8 Week.java-ca-32-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-cr-16-1 Week.java-cr-16-1
+
+Week.java-ca-43-7 Week.java-ca-43-7
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-20-1 Week.java-ca-20-1
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-ca-31-8 Week.java-ca-31-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-ca-33-7 Week.java-ca-33-7
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-mem-6-0 Week.java-mem-6-0
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 2
+
+Week.java-ca-25-5 Week.java-ca-25-5
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+Week.java-ca-25-6 Week.java-ca-25-6
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-am-35-0 Week.java-am-35-0
+     [java] Generate 3 candidates for the type class java.util.Calendar: [c, calendar, null]
+     [java] Space: 3
+
+Week.java-cm-0-2 Week.java-cm-0-2
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-31-3 Week.java-ca-31-3
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 179
+
+Week.java-ca-4-6 Week.java-ca-4-6
+     [java] Generate 1 candidates for the type byte: [null]
+     [java] Space: 4
+
+Week.java-ca-39-9 Week.java-ca-39-9
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 86
+
+Week.java-ca-18-0 Week.java-ca-18-0
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 98
+
+Week.java-cm-21-15 Week.java-cm-21-15
+
+Week.java-ca-25-8 Week.java-ca-25-8
+     [java] Generate 3 candidates for the type int: [LAST_WEEK_IN_YEAR, FIRST_WEEK_IN_YEAR, 0]
+     [java] Space: 56
+
+Week.java-cr-0-0 Week.java-cr-0-0
+
+Week.java-cm-21-13 Week.java-cm-21-13
+
+Week.java-ca-16-2 Week.java-ca-16-2
+     [java] Generate 2 candidates for the type class java.util.Calendar: [calendar, null]
+     [java] Space: 10
+
+Week.java-cm-5-28 Week.java-cm-5-28
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Space: 4
+
+Week.java-ca-42-7 Week.java-ca-42-7
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+

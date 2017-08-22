@@ -1,0 +1,5 @@
+FastMath.java-mem-0-2 12.2383770943
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java]  Hole 0	a
+     [java] Space: 1
+

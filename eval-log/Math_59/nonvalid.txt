@@ -1,0 +1,754 @@
+FastMath.java-mem-1-3 FastMath.java-mem-1-3
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+FastMath.java-ca-1-1 FastMath.java-ca-1-1
+
+FastMath.java-ca-0-7 FastMath.java-ca-0-7
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 10
+
+MersenneTwister.java-mem-15-0 MersenneTwister.java-mem-15-0
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 2
+
+MersenneTwister.java-ca-27-5 MersenneTwister.java-ca-27-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-mem-23-0 MersenneTwister.java-mem-23-0
+     [java] Generate 7 candidates for the type int: [k, j, i, mti, M, N, 0]
+     [java] Space: 7
+
+MersenneTwister.java-ca-30-3 MersenneTwister.java-ca-30-3
+
+MersenneTwister.java-ca-22-2 MersenneTwister.java-ca-22-2
+
+MersenneTwister.java-ca-9-5 MersenneTwister.java-ca-9-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-om-24-0 MersenneTwister.java-om-24-0
+
+MersenneTwister.java-ca-30-5 MersenneTwister.java-ca-30-5
+     [java] Generate 3 candidates for the type class [I: [mt, MAG01, null]
+     [java] Space: 20
+
+MersenneTwister.java-cm-18-2 MersenneTwister.java-cm-18-2
+
+MersenneTwister.java-am-16-0 MersenneTwister.java-am-16-0
+     [java] Generate 3 candidates for the type long: [l, serialVersionUID, null]
+     [java] Space: 3
+
+MersenneTwister.java-am-18-0 MersenneTwister.java-am-18-0
+     [java] Generate 6 candidates for the type int: [j, i, mti, M, N, 0]
+     [java] Space: 6
+
+MersenneTwister.java-ca-11-3 MersenneTwister.java-ca-11-3
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-mem-24-1 MersenneTwister.java-mem-24-1
+     [java] Generate 7 candidates for the type int: [k, j, i, mti, M, N, 0]
+     [java] Space: 7
+
+FastMath.java-am-0-3 FastMath.java-am-0-3
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-12-1 MersenneTwister.java-ca-12-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-mem-24-0 MersenneTwister.java-mem-24-0
+     [java] Generate 7 candidates for the type int: [k, j, i, mti, M, N, 0]
+     [java] Space: 7
+
+MersenneTwister.java-ca-9-0 MersenneTwister.java-ca-9-0
+
+MersenneTwister.java-ca-22-1 MersenneTwister.java-ca-22-1
+
+MersenneTwister.java-ca-31-4 MersenneTwister.java-ca-31-4
+
+MersenneTwister.java-ca-23-5 MersenneTwister.java-ca-23-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-12-2 MersenneTwister.java-ca-12-2
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-am-15-2 MersenneTwister.java-am-15-2
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 2
+
+MersenneTwister.java-ca-14-3 MersenneTwister.java-ca-14-3
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-25-2 MersenneTwister.java-ca-25-2
+
+MersenneTwister.java-ca-22-0 MersenneTwister.java-ca-22-0
+     [java] Generate 3 candidates for the type long: [l, serialVersionUID, null]
+     [java] Space: 56
+
+MersenneTwister.java-ca-26-2 MersenneTwister.java-ca-26-2
+
+MersenneTwister.java-am-26-1 MersenneTwister.java-am-26-1
+
+MersenneTwister.java-ca-17-3 MersenneTwister.java-ca-17-3
+
+FastMath.java-mem-0-1 FastMath.java-mem-0-1
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-27-0 MersenneTwister.java-ca-27-0
+
+MersenneTwister.java-mem-26-2 MersenneTwister.java-mem-26-2
+
+MersenneTwister.java-cm-11-2 MersenneTwister.java-cm-11-2
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-9-2 MersenneTwister.java-ca-9-2
+
+MersenneTwister.java-ca-29-1 MersenneTwister.java-ca-29-1
+
+MersenneTwister.java-ca-27-4 MersenneTwister.java-ca-27-4
+
+MersenneTwister.java-ca-20-5 MersenneTwister.java-ca-20-5
+
+MersenneTwister.java-ca-23-0 MersenneTwister.java-ca-23-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-am-30-0 MersenneTwister.java-am-30-0
+     [java] Generate 3 candidates for the type long: [longMT, serialVersionUID, null]
+     [java] Space: 3
+
+FastMath.java-am-0-0 FastMath.java-am-0-0
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-7-3 MersenneTwister.java-ca-7-3
+     [java] Generate 3 candidates for the type class [I: [mt, MAG01, null]
+     [java] Space: 20
+
+FastMath.java-ca-0-6 FastMath.java-ca-0-6
+
+MersenneTwister.java-ca-13-2 MersenneTwister.java-ca-13-2
+
+FastMath.java-ca-1-6 FastMath.java-ca-1-6
+
+MersenneTwister.java-ca-16-5 MersenneTwister.java-ca-16-5
+
+MersenneTwister.java-ca-8-0 MersenneTwister.java-ca-8-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-ca-11-4 MersenneTwister.java-ca-11-4
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-ca-14-1 MersenneTwister.java-ca-14-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-ca-8-1 MersenneTwister.java-ca-8-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-ca-20-1 MersenneTwister.java-ca-20-1
+
+MersenneTwister.java-ca-16-1 MersenneTwister.java-ca-16-1
+
+MersenneTwister.java-ca-21-1 MersenneTwister.java-ca-21-1
+
+MersenneTwister.java-ca-29-0 MersenneTwister.java-ca-29-0
+
+MersenneTwister.java-ca-13-0 MersenneTwister.java-ca-13-0
+
+MersenneTwister.java-om-15-0 MersenneTwister.java-om-15-0
+
+MersenneTwister.java-cm-22-3 MersenneTwister.java-cm-22-3
+
+MersenneTwister.java-om-11-0 MersenneTwister.java-om-11-0
+
+MersenneTwister.java-cm-24-0 MersenneTwister.java-cm-24-0
+
+MersenneTwister.java-ca-26-1 MersenneTwister.java-ca-26-1
+
+MersenneTwister.java-ca-7-5 MersenneTwister.java-ca-7-5
+     [java] Generate 3 candidates for the type long: [seed, serialVersionUID, null]
+     [java] Space: 56
+
+FastMath.java-am-1-1 FastMath.java-am-1-1
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-29-5 MersenneTwister.java-ca-29-5
+     [java] Generate 3 candidates for the type class [I: [mt, MAG01, null]
+     [java] Space: 20
+
+MersenneTwister.java-mem-7-1 MersenneTwister.java-mem-7-1
+     [java] Generate 3 candidates for the type long: [seed, serialVersionUID, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-15-4 MersenneTwister.java-ca-15-4
+
+FastMath.java-ca-0-0 FastMath.java-ca-0-0
+
+MersenneTwister.java-ca-16-4 MersenneTwister.java-ca-16-4
+
+MersenneTwister.java-ca-8-4 MersenneTwister.java-ca-8-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-mem-26-1 MersenneTwister.java-mem-26-1
+
+MersenneTwister.java-ca-25-3 MersenneTwister.java-ca-25-3
+
+MersenneTwister.java-ca-19-4 MersenneTwister.java-ca-19-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-cm-11-1 MersenneTwister.java-cm-11-1
+
+MersenneTwister.java-ca-31-2 MersenneTwister.java-ca-31-2
+
+MersenneTwister.java-cm-24-1 MersenneTwister.java-cm-24-1
+
+FastMath.java-ca-1-5 FastMath.java-ca-1-5
+
+MersenneTwister.java-ca-22-5 MersenneTwister.java-ca-22-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-25-0 MersenneTwister.java-ca-25-0
+
+MersenneTwister.java-am-24-1 MersenneTwister.java-am-24-1
+     [java] Generate 7 candidates for the type int: [k, j, i, mti, M, N, 0]
+     [java] Space: 7
+
+MersenneTwister.java-cm-11-4 MersenneTwister.java-cm-11-4
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-ca-20-2 MersenneTwister.java-ca-20-2
+
+MersenneTwister.java-ca-22-4 MersenneTwister.java-ca-22-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+FastMath.java-mem-1-0 FastMath.java-mem-1-0
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-15-5 MersenneTwister.java-ca-15-5
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+MersenneTwister.java-cm-18-3 MersenneTwister.java-cm-18-3
+
+MersenneTwister.java-ca-9-1 MersenneTwister.java-ca-9-1
+
+MersenneTwister.java-ca-21-2 MersenneTwister.java-ca-21-2
+
+MersenneTwister.java-cm-11-5 MersenneTwister.java-cm-11-5
+
+MersenneTwister.java-ca-23-4 MersenneTwister.java-ca-23-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-17-0 MersenneTwister.java-ca-17-0
+
+MersenneTwister.java-cm-24-4 MersenneTwister.java-cm-24-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-28-1 MersenneTwister.java-ca-28-1
+
+MersenneTwister.java-ca-19-0 MersenneTwister.java-ca-19-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-ca-26-5 MersenneTwister.java-ca-26-5
+
+MersenneTwister.java-mem-27-0 MersenneTwister.java-mem-27-0
+     [java] Generate 5 candidates for the type long: [l, l1, l0, serialVersionUID, null]
+     [java] Space: 5
+
+MersenneTwister.java-cm-24-3 MersenneTwister.java-cm-24-3
+
+MersenneTwister.java-ca-29-2 MersenneTwister.java-ca-29-2
+
+MersenneTwister.java-ca-28-4 MersenneTwister.java-ca-28-4
+     [java] Generate 3 candidates for the type class [I: [mt, MAG01, null]
+     [java] Space: 20
+
+MersenneTwister.java-ca-11-5 MersenneTwister.java-ca-11-5
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+FastMath.java-mem-1-2 FastMath.java-mem-1-2
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-12-0 MersenneTwister.java-ca-12-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-ca-12-3 MersenneTwister.java-ca-12-3
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-mem-30-0 MersenneTwister.java-mem-30-0
+     [java] Generate 3 candidates for the type long: [longMT, serialVersionUID, null]
+     [java] Space: 3
+
+MersenneTwister.java-am-27-0 MersenneTwister.java-am-27-0
+     [java] Generate 5 candidates for the type long: [l, l1, l0, serialVersionUID, null]
+     [java] Space: 5
+
+MersenneTwister.java-ca-20-4 MersenneTwister.java-ca-20-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+FastMath.java-am-1-0 FastMath.java-am-1-0
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-14-4 MersenneTwister.java-ca-14-4
+
+FastMath.java-ca-0-5 FastMath.java-ca-0-5
+
+MersenneTwister.java-cm-22-1 MersenneTwister.java-cm-22-1
+     [java] Generate 3 candidates for the type long: [l, serialVersionUID, null]
+     [java] Space: 56
+
+MersenneTwister.java-ca-24-3 MersenneTwister.java-ca-24-3
+
+MersenneTwister.java-ca-13-5 MersenneTwister.java-ca-13-5
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-ca-7-1 MersenneTwister.java-ca-7-1
+
+FastMath.java-ca-1-3 FastMath.java-ca-1-3
+
+MersenneTwister.java-ca-12-5 MersenneTwister.java-ca-12-5
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-ca-8-3 MersenneTwister.java-ca-8-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-cr-18-0 MersenneTwister.java-cr-18-0
+
+MersenneTwister.java-ca-26-0 MersenneTwister.java-ca-26-0
+
+MersenneTwister.java-ca-19-5 MersenneTwister.java-ca-19-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-cr-22-0 MersenneTwister.java-cr-22-0
+
+MersenneTwister.java-om-18-0 MersenneTwister.java-om-18-0
+
+MersenneTwister.java-ca-21-4 MersenneTwister.java-ca-21-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+FastMath.java-am-0-1 FastMath.java-am-0-1
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-am-24-0 MersenneTwister.java-am-24-0
+     [java] Generate 7 candidates for the type int: [k, j, i, mti, M, N, 0]
+     [java] Space: 7
+
+MersenneTwister.java-ca-24-0 MersenneTwister.java-ca-24-0
+
+FastMath.java-am-1-3 FastMath.java-am-1-3
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-cm-18-4 MersenneTwister.java-cm-18-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-31-5 MersenneTwister.java-ca-31-5
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+MersenneTwister.java-ca-20-3 MersenneTwister.java-ca-20-3
+
+MersenneTwister.java-am-26-0 MersenneTwister.java-am-26-0
+
+MersenneTwister.java-ca-27-2 MersenneTwister.java-ca-27-2
+
+MersenneTwister.java-ca-8-5 MersenneTwister.java-ca-8-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-am-7-1 MersenneTwister.java-am-7-1
+     [java] Generate 3 candidates for the type long: [seed, serialVersionUID, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-7-2 MersenneTwister.java-ca-7-2
+     [java] Generate 3 candidates for the type class [I: [mt, MAG01, null]
+     [java] Space: 20
+
+MersenneTwister.java-ca-17-4 MersenneTwister.java-ca-17-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-30-2 MersenneTwister.java-ca-30-2
+
+MersenneTwister.java-ca-25-5 MersenneTwister.java-ca-25-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-17-2 MersenneTwister.java-ca-17-2
+
+MersenneTwister.java-ca-24-4 MersenneTwister.java-ca-24-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-13-3 MersenneTwister.java-ca-13-3
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-cm-18-5 MersenneTwister.java-cm-18-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-28-0 MersenneTwister.java-ca-28-0
+
+MersenneTwister.java-am-15-1 MersenneTwister.java-am-15-1
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 2
+
+MersenneTwister.java-ca-21-3 MersenneTwister.java-ca-21-3
+
+MersenneTwister.java-ca-24-1 MersenneTwister.java-ca-24-1
+
+MersenneTwister.java-ca-28-2 MersenneTwister.java-ca-28-2
+
+MersenneTwister.java-ca-28-3 MersenneTwister.java-ca-28-3
+
+MersenneTwister.java-mem-26-0 MersenneTwister.java-mem-26-0
+
+MersenneTwister.java-ca-12-4 MersenneTwister.java-ca-12-4
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-cm-22-4 MersenneTwister.java-cm-22-4
+
+MersenneTwister.java-mem-16-0 MersenneTwister.java-mem-16-0
+     [java] Generate 3 candidates for the type long: [l, serialVersionUID, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-15-0 MersenneTwister.java-ca-15-0
+
+MersenneTwister.java-cm-18-1 MersenneTwister.java-cm-18-1
+     [java] Generate 3 candidates for the type long: [l, serialVersionUID, null]
+     [java] Space: 56
+
+MersenneTwister.java-ca-19-1 MersenneTwister.java-ca-19-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-am-15-0 MersenneTwister.java-am-15-0
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 2
+
+MersenneTwister.java-ca-19-3 MersenneTwister.java-ca-19-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-mem-22-0 MersenneTwister.java-mem-22-0
+     [java] Generate 6 candidates for the type int: [j, i, mti, M, N, 0]
+     [java] Space: 6
+
+FastMath.java-mem-0-3 FastMath.java-mem-0-3
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-23-2 MersenneTwister.java-ca-23-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-cr-11-0 MersenneTwister.java-cr-11-0
+
+MersenneTwister.java-ca-31-0 MersenneTwister.java-ca-31-0
+
+MersenneTwister.java-ca-29-3 MersenneTwister.java-ca-29-3
+
+MersenneTwister.java-ca-18-1 MersenneTwister.java-ca-18-1
+
+FastMath.java-ca-0-4 FastMath.java-ca-0-4
+
+MersenneTwister.java-ca-18-3 MersenneTwister.java-ca-18-3
+
+FastMath.java-mem-0-0 FastMath.java-mem-0-0
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-21-0 MersenneTwister.java-ca-21-0
+     [java] Generate 3 candidates for the type long: [l, serialVersionUID, null]
+     [java] Space: 56
+
+FastMath.java-ca-1-4 FastMath.java-ca-1-4
+
+MersenneTwister.java-mem-30-1 MersenneTwister.java-mem-30-1
+
+MersenneTwister.java-ca-23-3 MersenneTwister.java-ca-23-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+FastMath.java-ca-0-3 FastMath.java-ca-0-3
+
+MersenneTwister.java-ca-9-4 MersenneTwister.java-ca-9-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-13-4 MersenneTwister.java-ca-13-4
+
+MersenneTwister.java-ca-16-2 MersenneTwister.java-ca-16-2
+
+MersenneTwister.java-ca-11-0 MersenneTwister.java-ca-11-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-cm-11-3 MersenneTwister.java-cm-11-3
+
+MersenneTwister.java-ca-25-4 MersenneTwister.java-ca-25-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-cm-24-5 MersenneTwister.java-cm-24-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-18-0 MersenneTwister.java-ca-18-0
+     [java] Generate 3 candidates for the type long: [l, serialVersionUID, null]
+     [java] Space: 56
+
+MersenneTwister.java-ca-17-5 MersenneTwister.java-ca-17-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-15-3 MersenneTwister.java-ca-15-3
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+FastMath.java-mem-1-1 FastMath.java-mem-1-1
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-cm-18-0 MersenneTwister.java-cm-18-0
+     [java] Generate 3 candidates for the type long: [l, serialVersionUID, null]
+     [java] Space: 56
+
+MersenneTwister.java-ca-22-3 MersenneTwister.java-ca-22-3
+
+MersenneTwister.java-ca-16-3 MersenneTwister.java-ca-16-3
+
+MersenneTwister.java-ca-9-3 MersenneTwister.java-ca-9-3
+
+MersenneTwister.java-ca-30-4 MersenneTwister.java-ca-30-4
+     [java] Generate 3 candidates for the type class [I: [mt, MAG01, null]
+     [java] Space: 20
+
+MersenneTwister.java-am-30-1 MersenneTwister.java-am-30-1
+     [java] Generate 3 candidates for the type long: [longMT, serialVersionUID, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-27-3 MersenneTwister.java-ca-27-3
+
+MersenneTwister.java-ca-11-1 MersenneTwister.java-ca-11-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-ca-29-4 MersenneTwister.java-ca-29-4
+     [java] Generate 3 candidates for the type class [I: [mt, MAG01, null]
+     [java] Space: 20
+
+MersenneTwister.java-am-26-2 MersenneTwister.java-am-26-2
+
+MersenneTwister.java-mem-15-1 MersenneTwister.java-mem-15-1
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 2
+
+MersenneTwister.java-ca-20-0 MersenneTwister.java-ca-20-0
+     [java] Generate 3 candidates for the type long: [l, serialVersionUID, null]
+     [java] Space: 56
+
+FastMath.java-am-1-2 FastMath.java-am-1-2
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 3
+
+MersenneTwister.java-am-8-0 MersenneTwister.java-am-8-0
+     [java] Generate 6 candidates for the type int: [j, i, mti, M, N, 0]
+     [java] Space: 6
+
+MersenneTwister.java-ca-26-4 MersenneTwister.java-ca-26-4
+
+FastMath.java-ca-0-2 FastMath.java-ca-0-2
+
+MersenneTwister.java-am-11-0 MersenneTwister.java-am-11-0
+
+MersenneTwister.java-cm-22-0 MersenneTwister.java-cm-22-0
+
+MersenneTwister.java-ca-14-0 MersenneTwister.java-ca-14-0
+
+MersenneTwister.java-ca-7-4 MersenneTwister.java-ca-7-4
+
+MersenneTwister.java-om-22-0 MersenneTwister.java-om-22-0
+
+MersenneTwister.java-cm-22-5 MersenneTwister.java-cm-22-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-8-2 MersenneTwister.java-ca-8-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-am-18-1 MersenneTwister.java-am-18-1
+     [java] Generate 6 candidates for the type int: [j, i, mti, M, N, 0]
+     [java] Space: 6
+
+MersenneTwister.java-mem-11-0 MersenneTwister.java-mem-11-0
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 4
+
+MersenneTwister.java-ca-15-2 MersenneTwister.java-ca-15-2
+
+MersenneTwister.java-ca-23-1 MersenneTwister.java-ca-23-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+MersenneTwister.java-ca-24-5 MersenneTwister.java-ca-24-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-17-1 MersenneTwister.java-ca-17-1
+
+MersenneTwister.java-ca-27-1 MersenneTwister.java-ca-27-1
+
+MersenneTwister.java-ca-15-1 MersenneTwister.java-ca-15-1
+
+MersenneTwister.java-cm-24-2 MersenneTwister.java-cm-24-2
+
+MersenneTwister.java-ca-18-5 MersenneTwister.java-ca-18-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-19-2 MersenneTwister.java-ca-19-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-ca-28-5 MersenneTwister.java-ca-28-5
+     [java] Generate 3 candidates for the type class [I: [mt, MAG01, null]
+     [java] Space: 20
+
+MersenneTwister.java-mem-7-0 MersenneTwister.java-mem-7-0
+     [java] Generate 3 candidates for the type long: [seed, serialVersionUID, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-16-0 MersenneTwister.java-ca-16-0
+
+FastMath.java-ca-1-7 FastMath.java-ca-1-7
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java] Space: 10
+
+MersenneTwister.java-ca-31-3 MersenneTwister.java-ca-31-3
+     [java] Generate 3 candidates for the type class [I: [mt, MAG01, null]
+     [java] Space: 20
+
+MersenneTwister.java-ca-11-2 MersenneTwister.java-ca-11-2
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-31-1 MersenneTwister.java-ca-31-1
+
+MersenneTwister.java-am-23-0 MersenneTwister.java-am-23-0
+     [java] Generate 7 candidates for the type int: [k, j, i, mti, M, N, 0]
+     [java] Space: 7
+
+MersenneTwister.java-mem-15-2 MersenneTwister.java-mem-15-2
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 2
+
+MersenneTwister.java-ca-18-2 MersenneTwister.java-ca-18-2
+
+MersenneTwister.java-ca-30-0 MersenneTwister.java-ca-30-0
+
+FastMath.java-ca-1-2 FastMath.java-ca-1-2
+
+MersenneTwister.java-am-22-0 MersenneTwister.java-am-22-0
+
+MersenneTwister.java-om-30-0 MersenneTwister.java-om-30-0
+
+MersenneTwister.java-cr-24-0 MersenneTwister.java-cr-24-0
+
+FastMath.java-am-0-2 FastMath.java-am-0-2
+
+MersenneTwister.java-mem-8-0 MersenneTwister.java-mem-8-0
+     [java] Generate 6 candidates for the type int: [j, i, mti, M, N, 0]
+     [java] Space: 6
+
+MersenneTwister.java-mem-18-1 MersenneTwister.java-mem-18-1
+     [java] Generate 6 candidates for the type int: [j, i, mti, M, N, 0]
+     [java] Space: 6
+
+MersenneTwister.java-ca-18-4 MersenneTwister.java-ca-18-4
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+FastMath.java-ca-1-0 FastMath.java-ca-1-0
+
+MersenneTwister.java-ca-14-2 MersenneTwister.java-ca-14-2
+
+MersenneTwister.java-ca-26-3 MersenneTwister.java-ca-26-3
+
+MersenneTwister.java-ca-7-0 MersenneTwister.java-ca-7-0
+
+MersenneTwister.java-ca-30-1 MersenneTwister.java-ca-30-1
+
+FastMath.java-ca-0-1 FastMath.java-ca-0-1
+
+MersenneTwister.java-ca-21-5 MersenneTwister.java-ca-21-5
+     [java] Generate 4 candidates for the type class [I: [seed, mt, MAG01, null]
+     [java] Space: 34
+
+MersenneTwister.java-ca-24-2 MersenneTwister.java-ca-24-2
+
+MersenneTwister.java-cm-22-2 MersenneTwister.java-cm-22-2
+
+MersenneTwister.java-mem-18-0 MersenneTwister.java-mem-18-0
+     [java] Generate 6 candidates for the type int: [j, i, mti, M, N, 0]
+     [java] Space: 6
+
+MersenneTwister.java-cm-11-0 MersenneTwister.java-cm-11-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-ca-25-1 MersenneTwister.java-ca-25-1
+
+MersenneTwister.java-am-7-0 MersenneTwister.java-am-7-0
+     [java] Generate 3 candidates for the type long: [seed, serialVersionUID, null]
+     [java] Space: 3
+
+MersenneTwister.java-ca-13-1 MersenneTwister.java-ca-13-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+MersenneTwister.java-ca-14-5 MersenneTwister.java-ca-14-5
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+

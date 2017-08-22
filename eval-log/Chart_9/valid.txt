@@ -1,0 +1,5 @@
+TimeSeries.java-cm-2-0 8.76622486115
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java]  Hole 0	endIndex<startIndex
+     [java] Space: 10
+

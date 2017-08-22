@@ -1,0 +1,1195 @@
+NormalDistributionImpl.java-ca-20-3 NormalDistributionImpl.java-ca-20-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 50
+
+UnivariateRealSolverUtils.java-ca-47-5 UnivariateRealSolverUtils.java-ca-47-5
+
+NormalDistributionImpl.java-ca-28-0 NormalDistributionImpl.java-ca-28-0
+
+AbstractContinuousDistribution.java-cm-1-2 AbstractContinuousDistribution.java-cm-1-2
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 98
+
+UnivariateRealSolverUtils.java-ca-49-5 UnivariateRealSolverUtils.java-ca-49-5
+
+AbstractContinuousDistribution.java-mem-40-0 AbstractContinuousDistribution.java-mem-40-0
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 4
+
+NormalDistributionImpl.java-ca-18-0 NormalDistributionImpl.java-ca-18-0
+
+AbstractContinuousDistribution.java-ca-39-2 AbstractContinuousDistribution.java-ca-39-2
+
+AbstractContinuousDistribution.java-am-37-0 AbstractContinuousDistribution.java-am-37-0
+     [java] Generate 3 candidates for the type double: [lowerBound, p, 0]
+     [java] Space: 3
+
+Erf.java-ca-32-1 Erf.java-ca-32-1
+
+UnivariateRealSolverUtils.java-ca-47-1 UnivariateRealSolverUtils.java-ca-47-1
+
+NormalDistributionImpl.java-ca-18-3 NormalDistributionImpl.java-ca-18-3
+
+AbstractContinuousDistribution.java-mem-37-0 AbstractContinuousDistribution.java-mem-37-0
+     [java] Generate 3 candidates for the type double: [lowerBound, p, 0]
+     [java] Space: 3
+
+NormalDistributionImpl.java-ca-16-0 NormalDistributionImpl.java-ca-16-0
+     [java] Generate 3 candidates for the type double: [lowerBound, p, 0]
+     [java] Space: 3
+
+UnivariateRealSolverUtils.java-ca-47-0 UnivariateRealSolverUtils.java-ca-47-0
+
+AbstractContinuousDistribution.java-ca-3-3 AbstractContinuousDistribution.java-ca-3-3
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 155
+
+AbstractContinuousDistribution.java-mem-1-2 AbstractContinuousDistribution.java-mem-1-2
+
+NormalDistributionImpl.java-am-23-0 NormalDistributionImpl.java-am-23-0
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 4
+
+NormalDistributionImpl.java-om-5-0 NormalDistributionImpl.java-om-5-0
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 4
+
+AbstractContinuousDistribution.java-cm-1-3 AbstractContinuousDistribution.java-cm-1-3
+
+NormalDistributionImpl.java-ca-6-2 NormalDistributionImpl.java-ca-6-2
+
+AbstractContinuousDistribution.java-ca-36-0 AbstractContinuousDistribution.java-ca-36-0
+
+NormalDistributionImpl.java-mem-28-1 NormalDistributionImpl.java-mem-28-1
+
+AbstractContinuousDistribution.java-ca-36-3 AbstractContinuousDistribution.java-ca-36-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type double: [p, 0]
+     [java] Space: 32
+
+UnivariateRealSolverUtils.java-am-45-0 UnivariateRealSolverUtils.java-am-45-0
+
+AbstractContinuousDistribution.java-mem-40-2 AbstractContinuousDistribution.java-mem-40-2
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 4
+
+UnivariateRealSolverUtils.java-ca-50-1 UnivariateRealSolverUtils.java-ca-50-1
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 4
+
+UnivariateRealSolverUtils.java-cm-50-4 UnivariateRealSolverUtils.java-cm-50-4
+
+AbstractContinuousDistribution.java-ca-38-0 AbstractContinuousDistribution.java-ca-38-0
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Space: 10
+
+AbstractContinuousDistribution.java-ca-38-3 AbstractContinuousDistribution.java-ca-38-3
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Space: 10
+
+NormalDistributionImpl.java-cm-10-7 NormalDistributionImpl.java-cm-10-7
+
+UnivariateRealSolverUtils.java-ca-46-5 UnivariateRealSolverUtils.java-ca-46-5
+
+UnivariateRealSolverUtils.java-ca-45-0 UnivariateRealSolverUtils.java-ca-45-0
+
+NormalDistributionImpl.java-mem-16-3 NormalDistributionImpl.java-mem-16-3
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+UnivariateRealSolverUtils.java-mem-48-1 UnivariateRealSolverUtils.java-mem-48-1
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+NormalDistributionImpl.java-ca-15-1 NormalDistributionImpl.java-ca-15-1
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 513
+
+UnivariateRealSolverUtils.java-ca-49-1 UnivariateRealSolverUtils.java-ca-49-1
+
+NormalDistributionImpl.java-cm-8-0 NormalDistributionImpl.java-cm-8-0
+
+NormalDistributionImpl.java-ca-24-2 NormalDistributionImpl.java-ca-24-2
+
+NormalDistributionImpl.java-am-13-0 NormalDistributionImpl.java-am-13-0
+
+UnivariateRealSolverUtils.java-cm-50-1 UnivariateRealSolverUtils.java-cm-50-1
+
+NormalDistributionImpl.java-cm-19-2 NormalDistributionImpl.java-cm-19-2
+
+NormalDistributionImpl.java-am-16-0 NormalDistributionImpl.java-am-16-0
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+AbstractContinuousDistribution.java-ca-39-5 AbstractContinuousDistribution.java-ca-39-5
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 44
+
+NormalDistributionImpl.java-mem-22-0 NormalDistributionImpl.java-mem-22-0
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+AbstractContinuousDistribution.java-cm-1-7 AbstractContinuousDistribution.java-cm-1-7
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+NormalDistributionImpl.java-am-16-2 NormalDistributionImpl.java-am-16-2
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+UnivariateRealSolverUtils.java-ca-48-5 UnivariateRealSolverUtils.java-ca-48-5
+
+Gamma.java-ca-17-3 Gamma.java-ca-17-3
+
+NormalDistributionImpl.java-cr-22-0 NormalDistributionImpl.java-cr-22-0
+
+NormalDistributionImpl.java-cr-8-0 NormalDistributionImpl.java-cr-8-0
+
+AbstractContinuousDistribution.java-ca-0-1 AbstractContinuousDistribution.java-ca-0-1
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 16
+
+NormalDistributionImpl.java-ca-28-2 NormalDistributionImpl.java-ca-28-2
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 16
+
+NormalDistributionImpl.java-cm-16-4 NormalDistributionImpl.java-cm-16-4
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 98
+
+UnivariateRealSolverUtils.java-ca-4-0 UnivariateRealSolverUtils.java-ca-4-0
+
+UnivariateRealSolverUtils.java-ca-50-4 UnivariateRealSolverUtils.java-ca-50-4
+
+NormalDistributionImpl.java-am-19-0 NormalDistributionImpl.java-am-19-0
+
+NormalDistributionImpl.java-ca-19-0 NormalDistributionImpl.java-ca-19-0
+
+NormalDistributionImpl.java-ca-24-1 NormalDistributionImpl.java-ca-24-1
+
+AbstractContinuousDistribution.java-cm-3-4 AbstractContinuousDistribution.java-cm-3-4
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [bracket, rootFindingFunction, null]
+     [java] Space: 20
+
+UnivariateRealSolverUtils.java-ca-43-2 UnivariateRealSolverUtils.java-ca-43-2
+
+Erf.java-am-31-0 Erf.java-am-31-0
+     [java] Generate 2 candidates for the type double: [x, 0]
+     [java] Space: 2
+
+NormalDistributionImpl.java-mem-16-0 NormalDistributionImpl.java-mem-16-0
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+Erf.java-mem-33-0 Erf.java-mem-33-0
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+AbstractContinuousDistribution.java-ca-3-7 AbstractContinuousDistribution.java-ca-3-7
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 130
+
+UnivariateRealSolverUtils.java-mem-51-1 UnivariateRealSolverUtils.java-mem-51-1
+
+NormalDistributionImpl.java-ca-16-3 NormalDistributionImpl.java-ca-16-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 50
+
+AbstractContinuousDistribution.java-ca-3-5 AbstractContinuousDistribution.java-ca-3-5
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, bracket, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 32
+
+NormalDistributionImpl.java-ca-7-3 NormalDistributionImpl.java-ca-7-3
+
+NormalDistributionImpl.java-am-10-1 NormalDistributionImpl.java-am-10-1
+
+NormalDistributionImpl.java-ca-9-1 NormalDistributionImpl.java-ca-9-1
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 498
+
+Erf.java-am-33-0 Erf.java-am-33-0
+     [java] Generate 3 candidates for the type double: [ret, x, 0]
+     [java] Space: 3
+
+NormalDistributionImpl.java-om-10-1 NormalDistributionImpl.java-om-10-1
+     [java] Generate 3 candidates for the type double: [ret, x, 0]
+     [java] Space: 3
+
+NormalDistributionImpl.java-ca-12-3 NormalDistributionImpl.java-ca-12-3
+
+NormalDistributionImpl.java-ca-23-2 NormalDistributionImpl.java-ca-23-2
+
+AbstractContinuousDistribution.java-am-1-0 AbstractContinuousDistribution.java-am-1-0
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, bracket, null]
+     [java] Space: 3
+
+NormalDistributionImpl.java-om-16-2 NormalDistributionImpl.java-om-16-2
+
+Gamma.java-ca-29-2 Gamma.java-ca-29-2
+
+Erf.java-am-32-0 Erf.java-am-32-0
+     [java] Generate 3 candidates for the type double: [ret, x, 0]
+     [java] Space: 13
+
+UnivariateRealSolverUtils.java-mem-51-0 UnivariateRealSolverUtils.java-mem-51-0
+
+NormalDistributionImpl.java-ca-22-1 NormalDistributionImpl.java-ca-22-1
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 190
+
+NormalDistributionImpl.java-cm-10-5 NormalDistributionImpl.java-cm-10-5
+
+NormalDistributionImpl.java-ca-14-3 NormalDistributionImpl.java-ca-14-3
+
+AbstractContinuousDistribution.java-cm-1-5 AbstractContinuousDistribution.java-cm-1-5
+
+AbstractContinuousDistribution.java-ca-3-1 AbstractContinuousDistribution.java-ca-3-1
+
+Gamma.java-ca-29-1 Gamma.java-ca-29-1
+
+NormalDistributionImpl.java-mem-19-0 NormalDistributionImpl.java-mem-19-0
+
+NormalDistributionImpl.java-cm-13-2 NormalDistributionImpl.java-cm-13-2
+
+UnivariateRealSolverUtils.java-om-51-0 UnivariateRealSolverUtils.java-om-51-0
+
+NormalDistributionImpl.java-ca-7-2 NormalDistributionImpl.java-ca-7-2
+
+NormalDistributionImpl.java-cm-13-0 NormalDistributionImpl.java-cm-13-0
+
+UnivariateRealSolverUtils.java-ca-47-4 UnivariateRealSolverUtils.java-ca-47-4
+
+MathException.java-ca-30-0 MathException.java-ca-30-0
+
+AbstractContinuousDistribution.java-ca-39-3 AbstractContinuousDistribution.java-ca-39-3
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 16
+
+NormalDistributionImpl.java-om-10-0 NormalDistributionImpl.java-om-10-0
+
+AbstractContinuousDistribution.java-ca-37-2 AbstractContinuousDistribution.java-ca-37-2
+
+AbstractContinuousDistribution.java-mem-40-1 AbstractContinuousDistribution.java-mem-40-1
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [bracket, rootFindingFunction, null]
+     [java] Space: 3
+
+UnivariateRealSolverUtils.java-ca-51-0 UnivariateRealSolverUtils.java-ca-51-0
+
+NormalDistributionImpl.java-cr-13-0 NormalDistributionImpl.java-cr-13-0
+
+AbstractContinuousDistribution.java-ca-38-1 AbstractContinuousDistribution.java-ca-38-1
+
+AbstractContinuousDistribution.java-ca-40-1 AbstractContinuousDistribution.java-ca-40-1
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 16
+
+NormalDistributionImpl.java-mem-10-1 NormalDistributionImpl.java-mem-10-1
+
+NormalDistributionImpl.java-ca-16-1 NormalDistributionImpl.java-ca-16-1
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 174
+
+NormalDistributionImpl.java-cr-21-0 NormalDistributionImpl.java-cr-21-0
+
+AbstractContinuousDistribution.java-am-1-2 AbstractContinuousDistribution.java-am-1-2
+
+NormalDistributionImpl.java-mem-10-0 NormalDistributionImpl.java-mem-10-0
+
+Erf.java-ca-33-1 Erf.java-ca-33-1
+     [java] Generate 3 candidates for the type double: [ret, x, 0]
+     [java] Generate 3 candidates for the type double: [ret, x, 0]
+     [java] Space: 94
+
+AbstractContinuousDistribution.java-ca-35-0 AbstractContinuousDistribution.java-ca-35-0
+
+NormalDistributionImpl.java-ca-22-3 NormalDistributionImpl.java-ca-22-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 50
+
+UnivariateRealSolverUtils.java-cm-51-0 UnivariateRealSolverUtils.java-cm-51-0
+
+Gamma.java-ca-17-1 Gamma.java-ca-17-1
+
+NormalDistributionImpl.java-ca-24-3 NormalDistributionImpl.java-ca-24-3
+
+MathException.java-ca-30-3 MathException.java-ca-30-3
+     [java] Generate 2 candidates for the type class java.lang.String: [pattern, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [pattern, null]
+     [java] Space: 12
+
+NormalDistributionImpl.java-mem-20-0 NormalDistributionImpl.java-mem-20-0
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+NormalDistributionImpl.java-am-24-0 NormalDistributionImpl.java-am-24-0
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+AbstractContinuousDistribution.java-cm-3-3 AbstractContinuousDistribution.java-cm-3-3
+
+UnivariateRealSolverUtils.java-ca-4-4 UnivariateRealSolverUtils.java-ca-4-4
+
+NormalDistributionImpl.java-cm-16-2 NormalDistributionImpl.java-cm-16-2
+
+AbstractContinuousDistribution.java-ov-40-0 AbstractContinuousDistribution.java-ov-40-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 1
+
+Erf.java-om-32-0 Erf.java-om-32-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 6
+
+UnivariateRealSolverUtils.java-ca-48-0 UnivariateRealSolverUtils.java-ca-48-0
+
+UnivariateRealSolverUtils.java-mem-47-1 UnivariateRealSolverUtils.java-mem-47-1
+
+Erf.java-ca-33-0 Erf.java-ca-33-0
+
+Erf.java-ov-31-0 Erf.java-ov-31-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 1
+
+Gamma.java-ca-17-0 Gamma.java-ca-17-0
+
+AbstractContinuousDistribution.java-am-40-1 AbstractContinuousDistribution.java-am-40-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 1
+
+UnivariateRealSolverUtils.java-om-50-1 UnivariateRealSolverUtils.java-om-50-1
+
+UnivariateRealSolverUtils.java-ca-49-3 UnivariateRealSolverUtils.java-ca-49-3
+
+AbstractContinuousDistribution.java-ca-1-2 AbstractContinuousDistribution.java-ca-1-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 1
+
+UnivariateRealSolverUtils.java-ca-48-3 UnivariateRealSolverUtils.java-ca-48-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 1
+
+NormalDistributionImpl.java-ca-10-1 NormalDistributionImpl.java-ca-10-1
+
+UnivariateRealSolverUtils.java-ca-50-2 UnivariateRealSolverUtils.java-ca-50-2
+
+AbstractContinuousDistribution.java-am-40-2 AbstractContinuousDistribution.java-am-40-2
+
+NormalDistributionImpl.java-ca-16-2 NormalDistributionImpl.java-ca-16-2
+
+UnivariateRealSolverUtils.java-mem-48-0 UnivariateRealSolverUtils.java-mem-48-0
+
+AbstractContinuousDistribution.java-ca-39-1 AbstractContinuousDistribution.java-ca-39-1
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 170
+
+UnivariateRealSolverUtils.java-ca-46-4 UnivariateRealSolverUtils.java-ca-46-4
+
+UnivariateRealSolverUtils.java-ca-4-5 UnivariateRealSolverUtils.java-ca-4-5
+
+UnivariateRealSolverUtils.java-ca-42-0 UnivariateRealSolverUtils.java-ca-42-0
+
+NormalDistributionImpl.java-ca-28-1 NormalDistributionImpl.java-ca-28-1
+
+NormalDistributionImpl.java-ca-8-2 NormalDistributionImpl.java-ca-8-2
+
+NormalDistributionImpl.java-ca-24-0 NormalDistributionImpl.java-ca-24-0
+
+NormalDistributionImpl.java-mem-8-0 NormalDistributionImpl.java-mem-8-0
+
+NormalDistributionImpl.java-ca-11-3 NormalDistributionImpl.java-ca-11-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 50
+
+AbstractContinuousDistribution.java-ca-1-5 AbstractContinuousDistribution.java-ca-1-5
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, bracket, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 32
+
+NormalDistributionImpl.java-ca-14-2 NormalDistributionImpl.java-ca-14-2
+
+UnivariateRealSolverUtils.java-ca-46-0 UnivariateRealSolverUtils.java-ca-46-0
+
+NormalDistributionImpl.java-am-5-0 NormalDistributionImpl.java-am-5-0
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+NormalDistributionImpl.java-ca-7-1 NormalDistributionImpl.java-ca-7-1
+
+NormalDistributionImpl.java-cm-22-1 NormalDistributionImpl.java-cm-22-1
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 98
+
+NormalDistributionImpl.java-mem-15-0 NormalDistributionImpl.java-mem-15-0
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 6
+
+NormalDistributionImpl.java-om-21-0 NormalDistributionImpl.java-om-21-0
+
+NormalDistributionImpl.java-cm-8-3 NormalDistributionImpl.java-cm-8-3
+
+AbstractContinuousDistribution.java-om-1-0 AbstractContinuousDistribution.java-om-1-0
+
+NormalDistributionImpl.java-am-8-0 NormalDistributionImpl.java-am-8-0
+
+NormalDistributionImpl.java-am-16-3 NormalDistributionImpl.java-am-16-3
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+AbstractContinuousDistribution.java-ca-1-7 AbstractContinuousDistribution.java-ca-1-7
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 44
+
+NormalDistributionImpl.java-ca-14-1 NormalDistributionImpl.java-ca-14-1
+
+UnivariateRealSolverUtils.java-ca-48-4 UnivariateRealSolverUtils.java-ca-48-4
+
+NormalDistributionImpl.java-mem-9-0 NormalDistributionImpl.java-mem-9-0
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 6
+
+NormalDistributionImpl.java-cm-16-3 NormalDistributionImpl.java-cm-16-3
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 6
+
+NormalDistributionImpl.java-cm-21-2 NormalDistributionImpl.java-cm-21-2
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+AbstractContinuousDistribution.java-cm-3-0 AbstractContinuousDistribution.java-cm-3-0
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Space: 10
+
+UnivariateRealSolverUtils.java-ca-50-5 UnivariateRealSolverUtils.java-ca-50-5
+
+Gamma.java-ca-29-3 Gamma.java-ca-29-3
+
+NormalDistributionImpl.java-mem-13-0 NormalDistributionImpl.java-mem-13-0
+
+Erf.java-ca-32-0 Erf.java-ca-32-0
+     [java] Generate 3 candidates for the type double: [ret, x, 0]
+     [java] Space: 56
+
+UnivariateRealSolverUtils.java-ca-45-3 UnivariateRealSolverUtils.java-ca-45-3
+
+NormalDistributionImpl.java-cm-10-6 NormalDistributionImpl.java-cm-10-6
+
+NormalDistributionImpl.java-ca-20-2 NormalDistributionImpl.java-ca-20-2
+
+NormalDistributionImpl.java-ca-9-3 NormalDistributionImpl.java-ca-9-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 56
+
+NormalDistributionImpl.java-ca-11-0 NormalDistributionImpl.java-ca-11-0
+
+AbstractContinuousDistribution.java-am-36-0 AbstractContinuousDistribution.java-am-36-0
+     [java] Generate 2 candidates for the type double: [p, 0]
+     [java] Space: 2
+
+AbstractContinuousDistribution.java-ca-40-6 AbstractContinuousDistribution.java-ca-40-6
+     [java] Generate 2 candidates for the type double: [p, 0]
+     [java] Space: 2
+
+MathException.java-ca-30-2 MathException.java-ca-30-2
+
+NormalDistributionImpl.java-cm-22-0 NormalDistributionImpl.java-cm-22-0
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 98
+
+NormalDistributionImpl.java-am-16-1 NormalDistributionImpl.java-am-16-1
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+AbstractContinuousDistribution.java-ca-3-2 AbstractContinuousDistribution.java-ca-3-2
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 490
+
+NormalDistributionImpl.java-am-28-0 NormalDistributionImpl.java-am-28-0
+
+AbstractContinuousDistribution.java-cm-3-2 AbstractContinuousDistribution.java-cm-3-2
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 98
+
+NormalDistributionImpl.java-cr-16-0 NormalDistributionImpl.java-cr-16-0
+
+AbstractContinuousDistribution.java-ca-36-2 AbstractContinuousDistribution.java-ca-36-2
+
+NormalDistributionImpl.java-cm-13-3 NormalDistributionImpl.java-cm-13-3
+
+NormalDistributionImpl.java-am-28-1 NormalDistributionImpl.java-am-28-1
+
+NormalDistributionImpl.java-am-10-0 NormalDistributionImpl.java-am-10-0
+
+NormalDistributionImpl.java-cm-5-2 NormalDistributionImpl.java-cm-5-2
+
+NormalDistributionImpl.java-cm-22-2 NormalDistributionImpl.java-cm-22-2
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+NormalDistributionImpl.java-mem-16-2 NormalDistributionImpl.java-mem-16-2
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+AbstractContinuousDistribution.java-ca-37-1 AbstractContinuousDistribution.java-ca-37-1
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 3 candidates for the type double: [lowerBound, p, 0]
+     [java] Space: 280
+
+NormalDistributionImpl.java-cm-8-2 NormalDistributionImpl.java-cm-8-2
+
+NormalDistributionImpl.java-ca-19-3 NormalDistributionImpl.java-ca-19-3
+
+AbstractContinuousDistribution.java-cr-1-0 AbstractContinuousDistribution.java-cr-1-0
+
+Gamma.java-ca-17-2 Gamma.java-ca-17-2
+
+UnivariateRealSolverUtils.java-am-48-1 UnivariateRealSolverUtils.java-am-48-1
+
+NormalDistributionImpl.java-cm-10-0 NormalDistributionImpl.java-cm-10-0
+
+UnivariateRealSolverUtils.java-am-46-1 UnivariateRealSolverUtils.java-am-46-1
+
+UnivariateRealSolverUtils.java-ca-45-2 UnivariateRealSolverUtils.java-ca-45-2
+
+NormalDistributionImpl.java-mem-24-0 NormalDistributionImpl.java-mem-24-0
+
+UnivariateRealSolverUtils.java-om-50-0 UnivariateRealSolverUtils.java-om-50-0
+
+MathException.java-ca-30-1 MathException.java-ca-30-1
+     [java] Generate 2 candidates for the type class [Ljava.lang.Object;: [arguments, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [pattern, null]
+     [java] Space: 12
+
+UnivariateRealSolverUtils.java-am-45-1 UnivariateRealSolverUtils.java-am-45-1
+
+UnivariateRealSolverUtils.java-ca-44-2 UnivariateRealSolverUtils.java-ca-44-2
+
+NormalDistributionImpl.java-am-5-1 NormalDistributionImpl.java-am-5-1
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+UnivariateRealSolverUtils.java-ca-47-2 UnivariateRealSolverUtils.java-ca-47-2
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+NormalDistributionImpl.java-ca-23-3 NormalDistributionImpl.java-ca-23-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 44
+
+NormalDistributionImpl.java-ca-19-2 NormalDistributionImpl.java-ca-19-2
+
+NormalDistributionImpl.java-om-16-3 NormalDistributionImpl.java-om-16-3
+
+NormalDistributionImpl.java-cm-16-5 NormalDistributionImpl.java-cm-16-5
+
+NormalDistributionImpl.java-ca-10-3 NormalDistributionImpl.java-ca-10-3
+
+Erf.java-cr-32-0 Erf.java-cr-32-0
+
+NormalDistributionImpl.java-ca-28-3 NormalDistributionImpl.java-ca-28-3
+
+NormalDistributionImpl.java-ca-19-1 NormalDistributionImpl.java-ca-19-1
+
+AbstractContinuousDistribution.java-ca-35-1 AbstractContinuousDistribution.java-ca-35-1
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type double: [p, 0]
+     [java] Space: 32
+
+AbstractContinuousDistribution.java-ca-3-0 AbstractContinuousDistribution.java-ca-3-0
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Space: 10
+
+UnivariateRealSolverUtils.java-ca-50-3 UnivariateRealSolverUtils.java-ca-50-3
+
+NormalDistributionImpl.java-ca-9-0 NormalDistributionImpl.java-ca-9-0
+
+MathException.java-ca-30-5 MathException.java-ca-30-5
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [pattern, null]
+     [java] Space: 32
+
+AbstractContinuousDistribution.java-ca-38-4 AbstractContinuousDistribution.java-ca-38-4
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, bracket, null]
+     [java] Space: 20
+
+NormalDistributionImpl.java-am-9-0 NormalDistributionImpl.java-am-9-0
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 6
+
+UnivariateRealSolverUtils.java-cm-50-5 UnivariateRealSolverUtils.java-cm-50-5
+
+UnivariateRealSolverUtils.java-ca-43-3 UnivariateRealSolverUtils.java-ca-43-3
+
+NormalDistributionImpl.java-cm-10-1 NormalDistributionImpl.java-cm-10-1
+
+AbstractContinuousDistribution.java-ca-37-5 AbstractContinuousDistribution.java-ca-37-5
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 3 candidates for the type double: [lowerBound, p, 0]
+     [java] Space: 38
+
+AbstractContinuousDistribution.java-ca-2-6 AbstractContinuousDistribution.java-ca-2-6
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+NormalDistributionImpl.java-ca-12-1 NormalDistributionImpl.java-ca-12-1
+
+NormalDistributionImpl.java-cm-21-1 NormalDistributionImpl.java-cm-21-1
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 98
+
+AbstractContinuousDistribution.java-ca-1-0 AbstractContinuousDistribution.java-ca-1-0
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Space: 10
+
+AbstractContinuousDistribution.java-cm-3-7 AbstractContinuousDistribution.java-cm-3-7
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Space: 10
+
+AbstractContinuousDistribution.java-ca-1-4 AbstractContinuousDistribution.java-ca-1-4
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [bracket, rootFindingFunction, null]
+     [java] Space: 20
+
+AbstractContinuousDistribution.java-cm-3-6 AbstractContinuousDistribution.java-cm-3-6
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+UnivariateRealSolverUtils.java-cm-51-1 UnivariateRealSolverUtils.java-cm-51-1
+
+AbstractContinuousDistribution.java-ca-2-1 AbstractContinuousDistribution.java-ca-2-1
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 16
+
+AbstractContinuousDistribution.java-ca-2-3 AbstractContinuousDistribution.java-ca-2-3
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 170
+
+UnivariateRealSolverUtils.java-ca-44-1 UnivariateRealSolverUtils.java-ca-44-1
+
+AbstractContinuousDistribution.java-ca-37-0 AbstractContinuousDistribution.java-ca-37-0
+
+UnivariateRealSolverUtils.java-ca-46-3 UnivariateRealSolverUtils.java-ca-46-3
+
+UnivariateRealSolverUtils.java-ca-50-0 UnivariateRealSolverUtils.java-ca-50-0
+
+UnivariateRealSolverUtils.java-ca-49-4 UnivariateRealSolverUtils.java-ca-49-4
+
+AbstractContinuousDistribution.java-ca-2-5 AbstractContinuousDistribution.java-ca-2-5
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [bracket, rootFindingFunction, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 32
+
+AbstractContinuousDistribution.java-ca-1-3 AbstractContinuousDistribution.java-ca-1-3
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 155
+
+NormalDistributionImpl.java-ca-18-2 NormalDistributionImpl.java-ca-18-2
+
+NormalDistributionImpl.java-ca-18-1 NormalDistributionImpl.java-ca-18-1
+
+UnivariateRealSolverUtils.java-ca-48-2 UnivariateRealSolverUtils.java-ca-48-2
+
+AbstractContinuousDistribution.java-ca-3-4 AbstractContinuousDistribution.java-ca-3-4
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [bracket, rootFindingFunction, null]
+     [java] Space: 20
+
+AbstractContinuousDistribution.java-ca-2-0 AbstractContinuousDistribution.java-ca-2-0
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Space: 10
+
+UnivariateRealSolverUtils.java-ca-44-3 UnivariateRealSolverUtils.java-ca-44-3
+
+UnivariateRealSolverUtils.java-ca-47-3 UnivariateRealSolverUtils.java-ca-47-3
+
+AbstractContinuousDistribution.java-cm-1-0 AbstractContinuousDistribution.java-cm-1-0
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Space: 10
+
+UnivariateRealSolverUtils.java-mem-45-0 UnivariateRealSolverUtils.java-mem-45-0
+
+Erf.java-cm-32-1 Erf.java-cm-32-1
+     [java] Generate 3 candidates for the type double: [ret, x, 0]
+     [java] Space: 56
+
+UnivariateRealSolverUtils.java-ca-45-4 UnivariateRealSolverUtils.java-ca-45-4
+
+NormalDistributionImpl.java-ca-11-2 NormalDistributionImpl.java-ca-11-2
+
+AbstractContinuousDistribution.java-am-3-1 AbstractContinuousDistribution.java-am-3-1
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 4
+
+NormalDistributionImpl.java-om-16-1 NormalDistributionImpl.java-om-16-1
+
+AbstractContinuousDistribution.java-ca-0-4 AbstractContinuousDistribution.java-ca-0-4
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [bracket, rootFindingFunction, null]
+     [java] Space: 20
+
+AbstractContinuousDistribution.java-mem-3-1 AbstractContinuousDistribution.java-mem-3-1
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 4
+
+NormalDistributionImpl.java-ca-6-1 NormalDistributionImpl.java-ca-6-1
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 523
+
+NormalDistributionImpl.java-cm-13-1 NormalDistributionImpl.java-cm-13-1
+
+AbstractContinuousDistribution.java-mem-36-0 AbstractContinuousDistribution.java-mem-36-0
+     [java] Generate 2 candidates for the type double: [p, 0]
+     [java] Space: 2
+
+AbstractContinuousDistribution.java-am-40-0 AbstractContinuousDistribution.java-am-40-0
+     [java] Generate 2 candidates for the type double: [p, 0]
+     [java] Space: 2
+
+AbstractContinuousDistribution.java-ca-0-7 AbstractContinuousDistribution.java-ca-0-7
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 44
+
+NormalDistributionImpl.java-am-15-0 NormalDistributionImpl.java-am-15-0
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 6
+
+AbstractContinuousDistribution.java-ca-2-4 AbstractContinuousDistribution.java-ca-2-4
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, bracket, null]
+     [java] Space: 20
+
+AbstractContinuousDistribution.java-ca-38-5 AbstractContinuousDistribution.java-ca-38-5
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, bracket, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 32
+
+UnivariateRealSolverUtils.java-am-51-1 UnivariateRealSolverUtils.java-am-51-1
+
+AbstractContinuousDistribution.java-om-3-0 AbstractContinuousDistribution.java-om-3-0
+
+UnivariateRealSolverUtils.java-ca-49-2 UnivariateRealSolverUtils.java-ca-49-2
+
+AbstractContinuousDistribution.java-ca-1-6 AbstractContinuousDistribution.java-ca-1-6
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+AbstractContinuousDistribution.java-ca-0-5 AbstractContinuousDistribution.java-ca-0-5
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [bracket, rootFindingFunction, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 32
+
+AbstractContinuousDistribution.java-mem-40-3 AbstractContinuousDistribution.java-mem-40-3
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 4
+
+NormalDistributionImpl.java-cm-16-0 NormalDistributionImpl.java-cm-16-0
+
+NormalDistributionImpl.java-cm-16-7 NormalDistributionImpl.java-cm-16-7
+
+NormalDistributionImpl.java-om-22-0 NormalDistributionImpl.java-om-22-0
+
+AbstractContinuousDistribution.java-ca-0-2 AbstractContinuousDistribution.java-ca-0-2
+     [java] Generate 3 candidates for the type double: [upperBound, lowerBound, 0]
+     [java] Space: 171
+
+NormalDistributionImpl.java-mem-16-1 NormalDistributionImpl.java-mem-16-1
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+AbstractContinuousDistribution.java-mem-1-0 AbstractContinuousDistribution.java-mem-1-0
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, bracket, null]
+     [java] Space: 3
+
+NormalDistributionImpl.java-ca-21-3 NormalDistributionImpl.java-ca-21-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 50
+
+NormalDistributionImpl.java-am-22-0 NormalDistributionImpl.java-am-22-0
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+UnivariateRealSolverUtils.java-cm-50-0 UnivariateRealSolverUtils.java-cm-50-0
+
+AbstractContinuousDistribution.java-ca-38-7 AbstractContinuousDistribution.java-ca-38-7
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 44
+
+NormalDistributionImpl.java-ca-10-2 NormalDistributionImpl.java-ca-10-2
+
+NormalDistributionImpl.java-am-20-0 NormalDistributionImpl.java-am-20-0
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+UnivariateRealSolverUtils.java-ca-4-1 UnivariateRealSolverUtils.java-ca-4-1
+
+NormalDistributionImpl.java-ca-14-0 NormalDistributionImpl.java-ca-14-0
+
+UnivariateRealSolverUtils.java-ca-46-2 UnivariateRealSolverUtils.java-ca-46-2
+
+NormalDistributionImpl.java-ca-20-1 NormalDistributionImpl.java-ca-20-1
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 316
+
+AbstractContinuousDistribution.java-ca-38-2 AbstractContinuousDistribution.java-ca-38-2
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 98
+
+Gamma.java-ca-29-0 Gamma.java-ca-29-0
+
+AbstractContinuousDistribution.java-ca-3-6 AbstractContinuousDistribution.java-ca-3-6
+
+NormalDistributionImpl.java-ca-15-0 NormalDistributionImpl.java-ca-15-0
+
+AbstractContinuousDistribution.java-am-40-3 AbstractContinuousDistribution.java-am-40-3
+
+Erf.java-mem-32-0 Erf.java-mem-32-0
+     [java] Generate 3 candidates for the type double: [ret, x, 0]
+     [java] Space: 3
+
+NormalDistributionImpl.java-om-13-0 NormalDistributionImpl.java-om-13-0
+
+NormalDistributionImpl.java-cm-10-2 NormalDistributionImpl.java-cm-10-2
+
+UnivariateRealSolverUtils.java-am-51-0 UnivariateRealSolverUtils.java-am-51-0
+
+UnivariateRealSolverUtils.java-ca-44-0 UnivariateRealSolverUtils.java-ca-44-0
+
+AbstractContinuousDistribution.java-ca-38-6 AbstractContinuousDistribution.java-ca-38-6
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+UnivariateRealSolverUtils.java-mem-50-0 UnivariateRealSolverUtils.java-mem-50-0
+
+NormalDistributionImpl.java-om-8-0 NormalDistributionImpl.java-om-8-0
+
+NormalDistributionImpl.java-cm-22-3 NormalDistributionImpl.java-cm-22-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+Erf.java-cm-32-0 Erf.java-cm-32-0
+     [java] Generate 3 candidates for the type double: [ret, x, 0]
+     [java] Space: 56
+
+AbstractContinuousDistribution.java-mem-3-0 AbstractContinuousDistribution.java-mem-3-0
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, bracket, null]
+     [java] Space: 3
+
+NormalDistributionImpl.java-ca-10-0 NormalDistributionImpl.java-ca-10-0
+
+AbstractContinuousDistribution.java-ca-40-0 AbstractContinuousDistribution.java-ca-40-0
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Space: 10
+
+AbstractContinuousDistribution.java-ca-0-0 AbstractContinuousDistribution.java-ca-0-0
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Space: 10
+
+NormalDistributionImpl.java-ca-23-1 NormalDistributionImpl.java-ca-23-1
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 167
+
+UnivariateRealSolverUtils.java-mem-46-1 UnivariateRealSolverUtils.java-mem-46-1
+
+NormalDistributionImpl.java-mem-6-0 NormalDistributionImpl.java-mem-6-0
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 6
+
+NormalDistributionImpl.java-cr-16-1 NormalDistributionImpl.java-cr-16-1
+
+AbstractContinuousDistribution.java-ca-37-3 AbstractContinuousDistribution.java-ca-37-3
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, null]
+     [java] Generate 3 candidates for the type double: [lowerBound, p, 0]
+     [java] Space: 14
+
+AbstractContinuousDistribution.java-ca-40-7 AbstractContinuousDistribution.java-ca-40-7
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, null]
+     [java] Generate 3 candidates for the type double: [lowerBound, p, 0]
+     [java] Space: 14
+
+NormalDistributionImpl.java-ca-9-2 NormalDistributionImpl.java-ca-9-2
+
+NormalDistributionImpl.java-om-19-0 NormalDistributionImpl.java-om-19-0
+
+NormalDistributionImpl.java-cm-19-0 NormalDistributionImpl.java-cm-19-0
+
+AbstractContinuousDistribution.java-cm-3-1 AbstractContinuousDistribution.java-cm-3-1
+
+Erf.java-mem-31-0 Erf.java-mem-31-0
+     [java] Generate 2 candidates for the type double: [x, 0]
+     [java] Space: 2
+
+AbstractContinuousDistribution.java-ca-39-4 AbstractContinuousDistribution.java-ca-39-4
+
+AbstractContinuousDistribution.java-ca-36-1 AbstractContinuousDistribution.java-ca-36-1
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, null]
+     [java] Generate 2 candidates for the type double: [p, 0]
+     [java] Space: 12
+
+UnivariateRealSolverUtils.java-am-47-0 UnivariateRealSolverUtils.java-am-47-0
+
+NormalDistributionImpl.java-mem-5-0 NormalDistributionImpl.java-mem-5-0
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+UnivariateRealSolverUtils.java-cm-50-2 UnivariateRealSolverUtils.java-cm-50-2
+
+NormalDistributionImpl.java-am-21-0 NormalDistributionImpl.java-am-21-0
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+NormalDistributionImpl.java-cm-19-1 NormalDistributionImpl.java-cm-19-1
+
+UnivariateRealSolverUtils.java-cr-51-0 UnivariateRealSolverUtils.java-cr-51-0
+
+UnivariateRealSolverUtils.java-ca-45-5 UnivariateRealSolverUtils.java-ca-45-5
+
+AbstractContinuousDistribution.java-ca-2-2 AbstractContinuousDistribution.java-ca-2-2
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 98
+
+NormalDistributionImpl.java-cr-10-0 NormalDistributionImpl.java-cr-10-0
+
+NormalDistributionImpl.java-cm-16-1 NormalDistributionImpl.java-cm-16-1
+
+UnivariateRealSolverUtils.java-ca-43-1 UnivariateRealSolverUtils.java-ca-43-1
+
+AbstractContinuousDistribution.java-cm-1-6 AbstractContinuousDistribution.java-cm-1-6
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+UnivariateRealSolverUtils.java-mem-46-0 UnivariateRealSolverUtils.java-mem-46-0
+
+AbstractContinuousDistribution.java-am-3-0 AbstractContinuousDistribution.java-am-3-0
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, bracket, null]
+     [java] Space: 3
+
+AbstractContinuousDistribution.java-ca-39-0 AbstractContinuousDistribution.java-ca-39-0
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [rootFindingFunction, bracket, null]
+     [java] Space: 3
+
+NormalDistributionImpl.java-cm-10-3 NormalDistributionImpl.java-cm-10-3
+
+NormalDistributionImpl.java-mem-28-0 NormalDistributionImpl.java-mem-28-0
+
+UnivariateRealSolverUtils.java-mem-47-0 UnivariateRealSolverUtils.java-mem-47-0
+
+NormalDistributionImpl.java-mem-23-0 NormalDistributionImpl.java-mem-23-0
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 4
+
+NormalDistributionImpl.java-cm-21-3 NormalDistributionImpl.java-cm-21-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+NormalDistributionImpl.java-ca-12-0 NormalDistributionImpl.java-ca-12-0
+
+NormalDistributionImpl.java-mem-5-1 NormalDistributionImpl.java-mem-5-1
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+NormalDistributionImpl.java-ca-11-1 NormalDistributionImpl.java-ca-11-1
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Generate 5 candidates for the type double: [x, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 276
+
+UnivariateRealSolverUtils.java-ca-45-1 UnivariateRealSolverUtils.java-ca-45-1
+
+NormalDistributionImpl.java-ca-12-2 NormalDistributionImpl.java-ca-12-2
+
+UnivariateRealSolverUtils.java-ca-4-3 UnivariateRealSolverUtils.java-ca-4-3
+
+NormalDistributionImpl.java-cm-8-1 NormalDistributionImpl.java-cm-8-1
+
+AbstractContinuousDistribution.java-cr-3-0 AbstractContinuousDistribution.java-cr-3-0
+
+AbstractContinuousDistribution.java-ca-40-2 AbstractContinuousDistribution.java-ca-40-2
+
+NormalDistributionImpl.java-cr-5-0 NormalDistributionImpl.java-cr-5-0
+
+UnivariateRealSolverUtils.java-am-48-0 UnivariateRealSolverUtils.java-am-48-0
+
+AbstractContinuousDistribution.java-cm-3-5 AbstractContinuousDistribution.java-cm-3-5
+
+AbstractContinuousDistribution.java-ca-40-3 AbstractContinuousDistribution.java-ca-40-3
+     [java] Generate 3 candidates for the type double: [upperBound, lowerBound, 0]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 95
+
+AbstractContinuousDistribution.java-am-1-1 AbstractContinuousDistribution.java-am-1-1
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 4
+
+AbstractContinuousDistribution.java-ca-2-7 AbstractContinuousDistribution.java-ca-2-7
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 44
+
+AbstractContinuousDistribution.java-ca-0-6 AbstractContinuousDistribution.java-ca-0-6
+
+UnivariateRealSolverUtils.java-ca-49-0 UnivariateRealSolverUtils.java-ca-49-0
+
+NormalDistributionImpl.java-ca-21-2 NormalDistributionImpl.java-ca-21-2
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+UnivariateRealSolverUtils.java-ca-48-1 UnivariateRealSolverUtils.java-ca-48-1
+
+NormalDistributionImpl.java-ca-8-0 NormalDistributionImpl.java-ca-8-0
+
+UnivariateRealSolverUtils.java-cr-50-0 UnivariateRealSolverUtils.java-cr-50-0
+
+NormalDistributionImpl.java-cr-10-1 NormalDistributionImpl.java-cr-10-1
+
+NormalDistributionImpl.java-ca-20-0 NormalDistributionImpl.java-ca-20-0
+
+NormalDistributionImpl.java-ca-21-0 NormalDistributionImpl.java-ca-21-0
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 98
+
+NormalDistributionImpl.java-cm-19-3 NormalDistributionImpl.java-cm-19-3
+
+UnivariateRealSolverUtils.java-ca-51-1 UnivariateRealSolverUtils.java-ca-51-1
+
+AbstractContinuousDistribution.java-ca-40-5 AbstractContinuousDistribution.java-ca-40-5
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [bracket, rootFindingFunction, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 32
+
+UnivariateRealSolverUtils.java-ca-43-0 UnivariateRealSolverUtils.java-ca-43-0
+
+NormalDistributionImpl.java-ca-8-3 NormalDistributionImpl.java-ca-8-3
+
+NormalDistributionImpl.java-ca-7-0 NormalDistributionImpl.java-ca-7-0
+
+AbstractContinuousDistribution.java-mem-3-2 AbstractContinuousDistribution.java-mem-3-2
+
+UnivariateRealSolverUtils.java-ca-42-1 UnivariateRealSolverUtils.java-ca-42-1
+
+NormalDistributionImpl.java-mem-21-0 NormalDistributionImpl.java-mem-21-0
+     [java] Generate 5 candidates for the type double: [p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 5
+
+NormalDistributionImpl.java-ca-6-0 NormalDistributionImpl.java-ca-6-0
+
+NormalDistributionImpl.java-ca-22-2 NormalDistributionImpl.java-ca-22-2
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+AbstractContinuousDistribution.java-ca-0-3 AbstractContinuousDistribution.java-ca-0-3
+     [java] Generate 3 candidates for the type double: [upperBound, lowerBound, 0]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 86
+
+AbstractContinuousDistribution.java-ca-1-1 AbstractContinuousDistribution.java-ca-1-1
+     [java] Generate 2 candidates for the type class [D: [bracket, null]
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 16
+
+AbstractContinuousDistribution.java-am-3-2 AbstractContinuousDistribution.java-am-3-2
+
+UnivariateRealSolverUtils.java-am-47-1 UnivariateRealSolverUtils.java-am-47-1
+
+NormalDistributionImpl.java-am-6-0 NormalDistributionImpl.java-am-6-0
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 6
+
+NormalDistributionImpl.java-ca-22-0 NormalDistributionImpl.java-ca-22-0
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 6
+
+NormalDistributionImpl.java-cm-5-1 NormalDistributionImpl.java-cm-5-1
+     [java] Generate 4 candidates for the type double: [SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 98
+
+MathException.java-ca-30-4 MathException.java-ca-30-4
+
+NormalDistributionImpl.java-ca-8-1 NormalDistributionImpl.java-ca-8-1
+
+NormalDistributionImpl.java-om-16-0 NormalDistributionImpl.java-om-16-0
+
+NormalDistributionImpl.java-ca-23-0 NormalDistributionImpl.java-ca-23-0
+
+AbstractContinuousDistribution.java-cm-1-4 AbstractContinuousDistribution.java-cm-1-4
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [bracket, rootFindingFunction, null]
+     [java] Space: 20
+
+NormalDistributionImpl.java-cm-5-0 NormalDistributionImpl.java-cm-5-0
+
+NormalDistributionImpl.java-ca-21-1 NormalDistributionImpl.java-ca-21-1
+
+AbstractContinuousDistribution.java-ca-40-4 AbstractContinuousDistribution.java-ca-40-4
+     [java] Generate 3 candidates for the type interface org.apache.commons.math.analysis.UnivariateRealFunction: [bracket, rootFindingFunction, null]
+     [java] Space: 20
+
+NormalDistributionImpl.java-cm-5-3 NormalDistributionImpl.java-cm-5-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+NormalDistributionImpl.java-cm-10-4 NormalDistributionImpl.java-cm-10-4
+
+NormalDistributionImpl.java-om-5-1 NormalDistributionImpl.java-om-5-1
+
+NormalDistributionImpl.java-cr-19-0 NormalDistributionImpl.java-cr-19-0
+
+NormalDistributionImpl.java-ca-15-3 NormalDistributionImpl.java-ca-15-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 56
+
+UnivariateRealSolverUtils.java-ca-4-2 UnivariateRealSolverUtils.java-ca-4-2
+
+AbstractContinuousDistribution.java-cm-1-1 AbstractContinuousDistribution.java-cm-1-1
+
+NormalDistributionImpl.java-cm-21-0 NormalDistributionImpl.java-cm-21-0
+
+UnivariateRealSolverUtils.java-mem-45-1 UnivariateRealSolverUtils.java-mem-45-1
+
+UnivariateRealSolverUtils.java-am-50-0 UnivariateRealSolverUtils.java-am-50-0
+
+NormalDistributionImpl.java-ca-15-2 NormalDistributionImpl.java-ca-15-2
+
+NormalDistributionImpl.java-ca-6-3 NormalDistributionImpl.java-ca-6-3
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 6 candidates for the type double: [ret, p, SQRT2PI, mean, standardDeviation, 0]
+     [java] Space: 56
+
+AbstractContinuousDistribution.java-mem-1-1 AbstractContinuousDistribution.java-mem-1-1
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 4
+
+AbstractContinuousDistribution.java-ca-37-4 AbstractContinuousDistribution.java-ca-37-4
+     [java] Generate 4 candidates for the type double: [upperBound, lowerBound, p, 0]
+     [java] Space: 4
+
+UnivariateRealSolverUtils.java-ca-46-1 UnivariateRealSolverUtils.java-ca-46-1
+
+UnivariateRealSolverUtils.java-am-46-0 UnivariateRealSolverUtils.java-am-46-0
+
+NormalDistributionImpl.java-cm-16-6 NormalDistributionImpl.java-cm-16-6
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+

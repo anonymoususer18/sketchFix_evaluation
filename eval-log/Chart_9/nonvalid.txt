@@ -1,0 +1,2465 @@
+TimeSeries.java-mem-48-0 TimeSeries.java-mem-48-0
+
+TimeSeries.java-ca-20-3 TimeSeries.java-ca-20-3
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 9
+
+TimeSeries.java-ca-12-0 TimeSeries.java-ca-12-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-18-2 TimeSeries.java-ca-18-2
+
+TimeSeriesDataItem.java-ca-29-1 TimeSeriesDataItem.java-ca-29-1
+
+TimeSeriesDataItem.java-am-30-0 TimeSeriesDataItem.java-am-30-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [datapair, o1, null]
+     [java] Space: 3
+
+TimeSeriesDataItem.java-ca-32-1 TimeSeriesDataItem.java-ca-32-1
+
+TimeSeries.java-am-5-2 TimeSeries.java-am-5-2
+
+TimeSeries.java-am-9-1 TimeSeries.java-am-9-1
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeries.java-cm-9-4 TimeSeries.java-cm-9-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-8-5 TimeSeries.java-ca-8-5
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+TimeSeries.java-cr-12-0 TimeSeries.java-cr-12-0
+
+TimeSeries.java-cm-16-0 TimeSeries.java-cm-16-0
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-cm-5-8 TimeSeries.java-cm-5-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-35-10 TimeSeries.java-ca-35-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+Day.java-cm-21-3 Day.java-cm-21-3
+
+Year.java-ca-45-0 Year.java-ca-45-0
+
+TimeSeriesDataItem.java-ca-33-5 TimeSeriesDataItem.java-ca-33-5
+
+Day.java-cm-21-0 Day.java-cm-21-0
+
+TimeSeries.java-mem-3-2 TimeSeries.java-mem-3-2
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 1
+
+TimeSeries.java-ca-13-7 TimeSeries.java-ca-13-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-cm-12-3 TimeSeries.java-cm-12-3
+
+TimeSeries.java-ca-40-8 TimeSeries.java-ca-40-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]org.jfree.data.general.SeriesException: TimeSeries.update(TimePeriod, Number):  period does not exist.
+     [java] Space: 4
+
+TimeSeries.java-cm-2-6 TimeSeries.java-cm-2-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-ca-32-7 TimeSeriesDataItem.java-ca-32-7
+
+SpreadsheetDate.java-ca-26-2 SpreadsheetDate.java-ca-26-2
+
+TimeSeries.java-cm-19-2 TimeSeries.java-cm-19-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+Day.java-cm-24-1 Day.java-cm-24-1
+
+TimeSeries.java-om-9-0 TimeSeries.java-om-9-0
+
+TimeSeries.java-cm-2-5 TimeSeries.java-cm-2-5
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+Day.java-ca-25-1 Day.java-ca-25-1
+
+TimeSeriesDataItem.java-ca-29-4 TimeSeriesDataItem.java-ca-29-4
+
+TimeSeries.java-ca-9-6 TimeSeries.java-ca-9-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-43-5 TimeSeries.java-ca-43-5
+     [java] Generate 3 candidates for the type int: [value, maximumItemCount, 0]
+     [java] Space: 56
+
+TimeSeries.java-ca-37-7 TimeSeries.java-ca-37-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-17-0 TimeSeries.java-cm-17-0
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-0-8 TimeSeries.java-ca-0-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeries.java-mem-6-0 TimeSeries.java-mem-6-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeriesDataItem.java-cm-29-6 TimeSeriesDataItem.java-cm-29-6
+
+TimeSeriesDataItem.java-cm-29-3 TimeSeriesDataItem.java-cm-29-3
+     [java] sketch4j.executor.stateless.BacktrackExceptionGenerate 2 candidates for the type class java.lang.Number: [value, null]
+     [java] Space: 26
+
+TimeSeries.java-ca-35-4 TimeSeries.java-ca-35-4
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 26
+
+TimeSeries.java-ca-11-3 TimeSeries.java-ca-11-3
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 26
+
+Day.java-ca-21-6 Day.java-ca-21-6
+
+SpreadsheetDate.java-mem-26-0 SpreadsheetDate.java-mem-26-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.SerialDate: [other, null]
+     [java] Space: 2
+
+TimeSeries.java-ca-12-6 TimeSeries.java-ca-12-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-5-3 TimeSeries.java-cm-5-3
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeriesDataItem.java-cm-30-9 TimeSeriesDataItem.java-cm-30-9
+
+TimeSeries.java-ca-49-5 TimeSeries.java-ca-49-5
+
+TimeSeries.java-ca-8-9 TimeSeries.java-ca-8-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-9-2 TimeSeries.java-ca-9-2
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeries.java-ca-15-2 TimeSeries.java-ca-15-2
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeries.java-am-9-0 TimeSeries.java-am-9-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeriesDataItem.java-ca-31-5 TimeSeriesDataItem.java-ca-31-5
+
+TimeSeries.java-ca-15-3 TimeSeries.java-ca-15-3
+
+TimeSeries.java-ca-13-1 TimeSeries.java-ca-13-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeries.java-cm-0-0 TimeSeries.java-cm-0-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-mem-37-2 TimeSeries.java-mem-37-2
+
+TimeSeries.java-mem-10-0 TimeSeries.java-mem-10-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeries.java-ca-14-3 TimeSeries.java-ca-14-3
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 20
+
+TimeSeries.java-ca-15-4 TimeSeries.java-ca-15-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+Day.java-cm-24-7 Day.java-cm-24-7
+
+TimeSeries.java-mem-16-0 TimeSeries.java-mem-16-0
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-ca-19-1 TimeSeries.java-ca-19-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 9
+
+Day.java-ca-21-7 Day.java-ca-21-7
+
+TimeSeries.java-ca-7-1 TimeSeries.java-ca-7-1
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+Day.java-ca-34-1 Day.java-ca-34-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 11
+
+TimeSeries.java-cm-7-10 TimeSeries.java-cm-7-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-19-2 TimeSeries.java-ca-19-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+Day.java-cm-24-18 Day.java-cm-24-18
+
+TimeSeries.java-mem-37-1 TimeSeries.java-mem-37-1
+     [java] Generate 2 candidates for the type double: [value, 0]
+     [java] Space: 2
+
+Day.java-cm-24-0 Day.java-cm-24-0
+
+TimeSeriesDataItem.java-ca-32-2 TimeSeriesDataItem.java-ca-32-2
+
+TimeSeries.java-ca-1-1 TimeSeries.java-ca-1-1
+
+TimeSeries.java-ca-7-11 TimeSeries.java-ca-7-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 52
+
+TimeSeries.java-cm-2-2 TimeSeries.java-cm-2-2
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeries.java-cm-12-9 TimeSeries.java-cm-12-9
+
+Day.java-cm-21-13 Day.java-cm-21-13
+     [java] Generate 2 candidates for the type class org.jfree.data.time.SerialDate: [serialDate, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-42-0 TimeSeries.java-ca-42-0
+
+TimeSeries.java-am-12-1 TimeSeries.java-am-12-1
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeries.java-am-5-0 TimeSeries.java-am-5-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-ca-48-13 TimeSeries.java-ca-48-13
+
+TimeSeries.java-cm-5-0 TimeSeries.java-cm-5-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-ca-43-0 TimeSeries.java-ca-43-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [item, null]
+     [java] Space: 10
+
+Day.java-cm-24-14 Day.java-cm-24-14
+
+TimeSeries.java-ca-19-4 TimeSeries.java-ca-19-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+Day.java-am-24-0 Day.java-am-24-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.Day: [d, o1, null]
+     [java] Space: 3
+
+TimeSeries.java-om-7-0 TimeSeries.java-om-7-0
+
+Day.java-ca-25-9 Day.java-ca-25-9
+
+TimeSeries.java-ca-1-5 TimeSeries.java-ca-1-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-cm-12-6 TimeSeries.java-cm-12-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+Day.java-ca-22-6 Day.java-ca-22-6
+
+TimeSeries.java-ov-48-0 TimeSeries.java-ov-48-0
+
+TimeSeries.java-cm-12-2 TimeSeries.java-cm-12-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+TimeSeries.java-mem-14-0 TimeSeries.java-mem-14-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+Day.java-ca-25-2 Day.java-ca-25-2
+
+TimeSeries.java-cm-3-7 TimeSeries.java-cm-3-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-ca-30-7 TimeSeriesDataItem.java-ca-30-7
+
+TimeSeries.java-ca-2-11 TimeSeries.java-ca-2-11
+
+Day.java-ca-23-4 Day.java-ca-23-4
+
+TimeSeriesDataItem.java-ca-29-5 TimeSeriesDataItem.java-ca-29-5
+
+TimeSeries.java-ca-12-7 TimeSeries.java-ca-12-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-4-6 TimeSeries.java-ca-4-6
+
+TimeSeriesDataItem.java-am-32-0 TimeSeriesDataItem.java-am-32-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [datapair, o1, null]
+     [java] Space: 3
+
+TimeSeries.java-ca-6-10 TimeSeries.java-ca-6-10
+
+TimeSeries.java-am-19-0 TimeSeries.java-am-19-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.RegularTimePeriod: [period, null]
+     [java] Space: 2
+
+TimeSeries.java-ca-8-3 TimeSeries.java-ca-8-3
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 20
+
+TimeSeries.java-ca-14-2 TimeSeries.java-ca-14-2
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeries.java-cr-9-0 TimeSeries.java-cr-9-0
+
+TimeSeries.java-ca-10-9 TimeSeries.java-ca-10-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-40-3 TimeSeries.java-ca-40-3
+     [java] Generate 2 candidates for the type int: [value, 0]
+     [java] Space: 26
+
+TimeSeries.java-am-40-2 TimeSeries.java-am-40-2
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 2
+
+TimeSeries.java-ca-10-8 TimeSeries.java-ca-10-8
+
+TimeSeries.java-mem-8-0 TimeSeries.java-mem-8-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeries.java-ca-0-7 TimeSeries.java-ca-0-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-cm-29-4 TimeSeriesDataItem.java-cm-29-4
+
+TimeSeries.java-am-37-0 TimeSeries.java-am-37-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.RegularTimePeriod: [period, null]
+     [java] Space: 2
+
+Day.java-ca-25-4 Day.java-ca-25-4
+
+Day.java-cr-21-1 Day.java-cr-21-1
+
+TimeSeries.java-ca-37-0 TimeSeries.java-ca-37-0
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-38-8 TimeSeries.java-ca-38-8
+
+TimeSeries.java-ca-11-0 TimeSeries.java-ca-11-0
+
+TimeSeries.java-ca-40-1 TimeSeries.java-ca-40-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+Day.java-ca-24-9 Day.java-ca-24-9
+
+TimeSeries.java-cm-9-7 TimeSeries.java-cm-9-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-14-4 TimeSeries.java-ca-14-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-8-2 TimeSeries.java-ca-8-2
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+Year.java-ca-45-2 Year.java-ca-45-2
+
+TimeSeries.java-am-37-2 TimeSeries.java-am-37-2
+
+TimeSeries.java-cm-13-4 TimeSeries.java-cm-13-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-20-0 TimeSeries.java-ca-20-0
+
+TimeSeries.java-ca-37-4 TimeSeries.java-ca-37-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+Day.java-cm-21-4 Day.java-cm-21-4
+
+TimeSeries.java-am-43-1 TimeSeries.java-am-43-1
+     [java] Generate 3 candidates for the type boolean: [notify, false, true]
+     [java] Space: 3
+
+TimeSeries.java-ca-10-7 TimeSeries.java-ca-10-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+Day.java-cm-21-14 Day.java-cm-21-14
+
+TimeSeries.java-ca-3-5 TimeSeries.java-ca-3-5
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-9-5 TimeSeries.java-ca-9-5
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+TimeSeries.java-ca-5-1 TimeSeries.java-ca-5-1
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 98
+
+TimeSeries.java-ca-12-9 TimeSeries.java-ca-12-9
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 4
+
+TimeSeries.java-ca-20-5 TimeSeries.java-ca-20-5
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 9
+
+TimeSeries.java-cm-16-3 TimeSeries.java-cm-16-3
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-ca-49-7 TimeSeries.java-ca-49-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-ca-30-2 TimeSeriesDataItem.java-ca-30-2
+
+TimeSeries.java-ca-43-10 TimeSeries.java-ca-43-10
+
+TimeSeries.java-cm-9-15 TimeSeries.java-cm-9-15
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeries.java-am-40-0 TimeSeries.java-am-40-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.RegularTimePeriod: [period, null]
+     [java] Space: 2
+
+Day.java-ca-22-2 Day.java-ca-22-2
+
+TimeSeries.java-mem-4-0 TimeSeries.java-mem-4-0
+
+TimeSeries.java-ca-48-0 TimeSeries.java-ca-48-0
+
+TimeSeries.java-cm-9-0 TimeSeries.java-cm-9-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 56
+
+TimeSeries.java-mem-35-0 TimeSeries.java-mem-35-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [item, null]
+     [java] Space: 2
+
+Day.java-cm-21-11 Day.java-cm-21-11
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-14-6 TimeSeries.java-ca-14-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-18-8 TimeSeries.java-ca-18-8
+
+TimeSeries.java-am-15-0 TimeSeries.java-am-15-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-ov-37-1 TimeSeries.java-ov-37-1
+
+TimeSeries.java-ca-18-9 TimeSeries.java-ca-18-9
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 5
+
+TimeSeries.java-ca-35-6 TimeSeries.java-ca-35-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+Day.java-ca-23-9 Day.java-ca-23-9
+
+TimeSeries.java-cm-16-4 TimeSeries.java-cm-16-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-17-8 TimeSeries.java-ca-17-8
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+Day.java-ca-23-0 Day.java-ca-23-0
+
+TimeSeries.java-ca-9-4 TimeSeries.java-ca-9-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-am-14-0 TimeSeries.java-am-14-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeriesDataItem.java-cr-30-0 TimeSeriesDataItem.java-cr-30-0
+
+TimeSeries.java-cm-7-4 TimeSeries.java-cm-7-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-2-3 TimeSeries.java-ca-2-3
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 20
+
+TimeSeries.java-cm-2-4 TimeSeries.java-cm-2-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-10-11 TimeSeries.java-ca-10-11
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 4
+
+TimeSeries.java-ca-14-7 TimeSeries.java-ca-14-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+Day.java-ca-24-8 Day.java-ca-24-8
+
+TimeSeries.java-cm-17-1 TimeSeries.java-cm-17-1
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-cm-17-9 TimeSeries.java-cm-17-9
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeriesDataItem.java-mem-29-0 TimeSeriesDataItem.java-mem-29-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [o1, null]
+     [java] Space: 2
+
+TimeSeries.java-ca-1-7 TimeSeries.java-ca-1-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-15-1 TimeSeries.java-ca-15-1
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 98
+
+TimeSeries.java-cm-13-3 TimeSeries.java-cm-13-3
+
+TimeSeries.java-ca-6-3 TimeSeries.java-ca-6-3
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+Day.java-cr-24-0 Day.java-cr-24-0
+
+TimeSeries.java-ca-15-6 TimeSeries.java-ca-15-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-2-7 TimeSeries.java-cm-2-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-19-7 TimeSeries.java-cm-19-7
+     [java] Generate 3 candidates for the type class java.lang.Class: [period, timePeriodClass, null]
+     [java] Space: 20
+
+TimeSeries.java-ca-40-5 TimeSeries.java-ca-40-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-4-4 TimeSeries.java-ca-4-4
+
+TimeSeries.java-ca-12-3 TimeSeries.java-ca-12-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeries.java-mem-13-0 TimeSeries.java-mem-13-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeries.java-mem-0-0 TimeSeries.java-mem-0-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeries.java-cm-7-8 TimeSeries.java-cm-7-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-17-6 TimeSeries.java-ca-17-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-6-2 TimeSeries.java-ca-6-2
+
+TimeSeries.java-cm-7-7 TimeSeries.java-cm-7-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-0-4 TimeSeries.java-cm-0-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-am-3-0 TimeSeries.java-am-3-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-cm-3-10 TimeSeries.java-cm-3-10
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+Day.java-ca-24-6 Day.java-ca-24-6
+
+TimeSeries.java-cm-13-5 TimeSeries.java-cm-13-5
+
+TimeSeries.java-ca-9-7 TimeSeries.java-ca-9-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-cm-17-8 TimeSeries.java-cm-17-8
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-17-4 TimeSeries.java-ca-17-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-16-1 TimeSeries.java-cm-16-1
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-cr-16-0 TimeSeries.java-cr-16-0
+
+TimeSeries.java-am-2-0 TimeSeries.java-am-2-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-ca-4-9 TimeSeries.java-ca-4-9
+
+TimeSeries.java-ca-0-9 TimeSeries.java-ca-0-9
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 4
+
+TimeSeriesDataItem.java-ca-29-7 TimeSeriesDataItem.java-ca-29-7
+
+TimeSeries.java-ca-0-2 TimeSeries.java-ca-0-2
+
+Day.java-cm-24-6 Day.java-cm-24-6
+
+TimeSeries.java-ca-13-8 TimeSeries.java-ca-13-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeries.java-cm-9-14 TimeSeries.java-cm-9-14
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeries.java-cm-12-4 TimeSeries.java-cm-12-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-om-12-0 TimeSeries.java-om-12-0
+
+TimeSeries.java-ca-4-3 TimeSeries.java-ca-4-3
+
+TimeSeries.java-ca-48-1 TimeSeries.java-ca-48-1
+
+TimeSeries.java-cm-3-11 TimeSeries.java-cm-3-11
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeries.java-cm-9-16 TimeSeries.java-cm-9-16
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-cm-12-0 TimeSeries.java-cm-12-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+Day.java-ca-34-2 Day.java-ca-34-2
+
+TimeSeries.java-cm-0-9 TimeSeries.java-cm-0-9
+
+TimeSeries.java-ca-4-13 TimeSeries.java-ca-4-13
+
+TimeSeries.java-om-19-0 TimeSeries.java-om-19-0
+
+Day.java-mem-25-0 Day.java-mem-25-0
+
+TimeSeries.java-cm-9-13 TimeSeries.java-cm-9-13
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 56
+
+TimeSeries.java-am-16-0 TimeSeries.java-am-16-0
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Space: 4
+
+Day.java-ca-21-3 Day.java-ca-21-3
+
+TimeSeries.java-ca-11-1 TimeSeries.java-ca-11-1
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+TimeSeries.java-cm-12-1 TimeSeries.java-cm-12-1
+
+TimeSeries.java-mem-17-0 TimeSeries.java-mem-17-0
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeriesDataItem.java-ca-32-0 TimeSeriesDataItem.java-ca-32-0
+
+TimeSeries.java-cm-13-6 TimeSeries.java-cm-13-6
+
+TimeSeries.java-cm-16-5 TimeSeries.java-cm-16-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-15-5 TimeSeries.java-ca-15-5
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+TimeSeries.java-ca-9-9 TimeSeries.java-ca-9-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-cm-3-4 TimeSeries.java-cm-3-4
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-2-5 TimeSeries.java-ca-2-5
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+TimeSeries.java-ca-35-2 TimeSeries.java-ca-35-2
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-am-35-0 TimeSeries.java-am-35-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [item, null]
+     [java] Space: 2
+
+TimeSeries.java-ca-20-10 TimeSeries.java-ca-20-10
+
+TimeSeriesDataItem.java-ca-32-4 TimeSeriesDataItem.java-ca-32-4
+
+TimeSeries.java-cm-0-8 TimeSeries.java-cm-0-8
+
+TimeSeries.java-ca-15-7 TimeSeries.java-ca-15-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-19-9 TimeSeries.java-ca-19-9
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 5
+
+TimeSeries.java-ca-20-2 TimeSeries.java-ca-20-2
+
+TimeSeries.java-ca-8-4 TimeSeries.java-ca-8-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-0-0 TimeSeries.java-ca-0-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+SpreadsheetDate.java-am-26-0 SpreadsheetDate.java-am-26-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.SerialDate: [other, null]
+     [java] Space: 2
+
+Day.java-ca-21-2 Day.java-ca-21-2
+
+Day.java-ca-25-7 Day.java-ca-25-7
+
+TimeSeries.java-ca-2-10 TimeSeries.java-ca-2-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-12-2 TimeSeries.java-ca-12-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+TimeSeries.java-ca-43-3 TimeSeries.java-ca-43-3
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+Day.java-ca-22-1 Day.java-ca-22-1
+
+TimeSeries.java-ca-10-0 TimeSeries.java-ca-10-0
+
+TimeSeries.java-ca-15-8 TimeSeries.java-ca-15-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+Day.java-ca-23-7 Day.java-ca-23-7
+
+TimeSeries.java-ca-3-1 TimeSeries.java-ca-3-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeriesDataItem.java-ca-31-1 TimeSeriesDataItem.java-ca-31-1
+
+Day.java-ca-23-2 Day.java-ca-23-2
+
+TimeSeries.java-ca-9-1 TimeSeries.java-ca-9-1
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+Day.java-ca-23-5 Day.java-ca-23-5
+
+TimeSeries.java-ca-2-1 TimeSeries.java-ca-2-1
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 98
+
+TimeSeries.java-ca-13-3 TimeSeries.java-ca-13-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-38-5 TimeSeries.java-ca-38-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-ca-33-9 TimeSeriesDataItem.java-ca-33-9
+
+TimeSeries.java-cm-19-0 TimeSeries.java-cm-19-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-35-0 TimeSeries.java-ca-35-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [item, null]
+     [java] Space: 10
+
+TimeSeries.java-am-48-0 TimeSeries.java-am-48-0
+
+Day.java-cm-21-15 Day.java-cm-21-15
+
+TimeSeries.java-ca-38-2 TimeSeries.java-ca-38-2
+
+TimeSeries.java-cm-9-1 TimeSeries.java-cm-9-1
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 56
+
+Day.java-cm-21-5 Day.java-cm-21-5
+
+TimeSeries.java-cr-19-0 TimeSeries.java-cr-19-0
+
+Day.java-ca-24-2 Day.java-ca-24-2
+
+TimeSeries.java-ca-20-4 TimeSeries.java-ca-20-4
+
+TimeSeries.java-ca-2-9 TimeSeries.java-ca-2-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-14-5 TimeSeries.java-ca-14-5
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+TimeSeries.java-ca-3-4 TimeSeries.java-ca-3-4
+
+TimeSeries.java-ca-14-8 TimeSeries.java-ca-14-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-5-11 TimeSeries.java-ca-5-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 52
+
+TimeSeries.java-mem-40-2 TimeSeries.java-mem-40-2
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 2
+
+TimeSeries.java-ca-1-9 TimeSeries.java-ca-1-9
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 4
+
+TimeSeries.java-cm-5-5 TimeSeries.java-cm-5-5
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-48-4 TimeSeries.java-ca-48-4
+
+Day.java-ca-34-4 Day.java-ca-34-4
+
+TimeSeries.java-ca-5-4 TimeSeries.java-ca-5-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeriesDataItem.java-ca-32-6 TimeSeriesDataItem.java-ca-32-6
+
+TimeSeries.java-ca-6-7 TimeSeries.java-ca-6-7
+
+TimeSeries.java-ca-49-1 TimeSeries.java-ca-49-1
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [null]
+     [java] Space: 56
+
+Day.java-cm-24-12 Day.java-cm-24-12
+
+Day.java-am-25-0 Day.java-am-25-0
+
+TimeSeries.java-ca-49-6 TimeSeries.java-ca-49-6
+
+TimeSeries.java-am-3-2 TimeSeries.java-am-3-2
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 1
+
+TimeSeries.java-am-20-0 TimeSeries.java-am-20-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [dummy, null]
+     [java] Space: 2
+
+TimeSeries.java-am-8-0 TimeSeries.java-am-8-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeries.java-ca-40-6 TimeSeries.java-ca-40-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-38-6 TimeSeries.java-ca-38-6
+
+TimeSeries.java-ca-13-4 TimeSeries.java-ca-13-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-19-0 TimeSeries.java-ca-19-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+Day.java-cm-21-7 Day.java-cm-21-7
+
+TimeSeries.java-ca-6-5 TimeSeries.java-ca-6-5
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeries.java-cm-3-3 TimeSeries.java-cm-3-3
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+TimeSeries.java-mem-15-0 TimeSeries.java-mem-15-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-ca-42-1 TimeSeries.java-ca-42-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+SpreadsheetDate.java-ca-26-0 SpreadsheetDate.java-ca-26-0
+
+TimeSeries.java-ca-15-11 TimeSeries.java-ca-15-11
+
+Day.java-ca-23-6 Day.java-ca-23-6
+
+TimeSeries.java-ca-5-10 TimeSeries.java-ca-5-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-13-5 TimeSeries.java-ca-13-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-ca-31-0 TimeSeriesDataItem.java-ca-31-0
+
+TimeSeries.java-ca-4-5 TimeSeries.java-ca-4-5
+
+TimeSeries.java-ca-18-0 TimeSeries.java-ca-18-0
+
+Day.java-ca-22-7 Day.java-ca-22-7
+
+TimeSeries.java-ca-5-5 TimeSeries.java-ca-5-5
+
+TimeSeries.java-ca-11-2 TimeSeries.java-ca-11-2
+
+TimeSeries.java-cm-2-11 TimeSeries.java-cm-2-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-cm-19-6 TimeSeries.java-cm-19-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-1-3 TimeSeries.java-ca-1-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeriesDataItem.java-ca-31-3 TimeSeriesDataItem.java-ca-31-3
+
+TimeSeriesDataItem.java-cm-30-3 TimeSeriesDataItem.java-cm-30-3
+
+TimeSeries.java-ca-43-4 TimeSeries.java-ca-43-4
+     [java] Generate 3 candidates for the type int: [value, maximumItemCount, 0]
+     [java] Space: 56
+
+TimeSeries.java-om-16-0 TimeSeries.java-om-16-0
+
+TimeSeriesDataItem.java-cm-30-8 TimeSeriesDataItem.java-cm-30-8
+
+Day.java-am-23-0 Day.java-am-23-0
+
+TimeSeries.java-ca-40-0 TimeSeries.java-ca-40-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-18-3 TimeSeries.java-ca-18-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 9
+
+Day.java-cm-24-3 Day.java-cm-24-3
+
+TimeSeries.java-ca-3-3 TimeSeries.java-ca-3-3
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-19-8 TimeSeries.java-ca-19-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeries.java-ca-43-8 TimeSeries.java-ca-43-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]org.jfree.data.general.SeriesException: TimeSeries.update(TimePeriod, Number):  period does not exist.
+     [java] Space: 10
+
+TimeSeries.java-ca-37-2 TimeSeries.java-ca-37-2
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 26
+
+TimeSeries.java-cm-9-9 TimeSeries.java-cm-9-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-48-6 TimeSeries.java-ca-48-6
+
+TimeSeries.java-ca-48-9 TimeSeries.java-ca-48-9
+
+TimeSeries.java-cm-16-6 TimeSeries.java-cm-16-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cr-13-0 TimeSeries.java-cr-13-0
+
+TimeSeries.java-cm-16-7 TimeSeries.java-cm-16-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-am-49-0 TimeSeries.java-am-49-0
+     [java] Generate 3 candidates for the type int: [index, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeries.java-cr-7-0 TimeSeries.java-cr-7-0
+
+TimeSeriesDataItem.java-ca-30-8 TimeSeriesDataItem.java-ca-30-8
+
+TimeSeries.java-cm-19-9 TimeSeries.java-cm-19-9
+
+TimeSeries.java-ca-1-8 TimeSeries.java-ca-1-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeries.java-am-10-0 TimeSeries.java-am-10-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeries.java-ca-18-1 TimeSeries.java-ca-18-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 9
+
+TimeSeries.java-ca-12-4 TimeSeries.java-ca-12-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-am-4-1 TimeSeries.java-am-4-1
+
+TimeSeries.java-ca-20-8 TimeSeries.java-ca-20-8
+
+TimeSeries.java-am-13-0 TimeSeries.java-am-13-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeries.java-mem-12-0 TimeSeries.java-mem-12-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeries.java-ca-3-0 TimeSeries.java-ca-3-0
+
+TimeSeries.java-ca-15-10 TimeSeries.java-ca-15-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+Day.java-cm-24-8 Day.java-cm-24-8
+
+TimeSeries.java-ca-38-9 TimeSeries.java-ca-38-9
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+Day.java-ca-24-4 Day.java-ca-24-4
+
+TimeSeries.java-cm-7-3 TimeSeries.java-cm-7-3
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeries.java-ca-9-10 TimeSeries.java-ca-9-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-cm-17-6 TimeSeries.java-cm-17-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-20-9 TimeSeries.java-ca-20-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 12
+
+TimeSeries.java-cm-16-8 TimeSeries.java-cm-16-8
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-40-7 TimeSeries.java-ca-40-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-4-0 TimeSeries.java-ca-4-0
+
+TimeSeries.java-ca-12-5 TimeSeries.java-ca-12-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-38-3 TimeSeries.java-ca-38-3
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 26
+
+TimeSeries.java-ca-16-4 TimeSeries.java-ca-16-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+Day.java-ca-22-0 Day.java-ca-22-0
+
+TimeSeries.java-ca-7-6 TimeSeries.java-ca-7-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-9-11 TimeSeries.java-cm-9-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeriesDataItem.java-cm-30-0 TimeSeriesDataItem.java-cm-30-0
+
+TimeSeries.java-cm-0-1 TimeSeries.java-cm-0-1
+
+TimeSeries.java-ca-4-7 TimeSeries.java-ca-4-7
+
+TimeSeriesDataItem.java-ca-33-1 TimeSeriesDataItem.java-ca-33-1
+
+TimeSeries.java-ca-48-11 TimeSeries.java-ca-48-11
+
+TimeSeries.java-ca-6-8 TimeSeries.java-ca-6-8
+
+TimeSeries.java-ca-35-1 TimeSeries.java-ca-35-1
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [item, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-9-8 TimeSeries.java-cm-9-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-16-9 TimeSeries.java-cm-16-9
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-17-0 TimeSeries.java-ca-17-0
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-cm-5-9 TimeSeries.java-cm-5-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-am-17-0 TimeSeries.java-am-17-0
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Space: 4
+
+Day.java-mem-21-0 Day.java-mem-21-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.Day: [o1, null]
+     [java] Space: 2
+
+Day.java-cm-21-1 Day.java-cm-21-1
+
+TimeSeriesDataItem.java-ca-31-6 TimeSeriesDataItem.java-ca-31-6
+
+TimeSeries.java-ca-16-8 TimeSeries.java-ca-16-8
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-5-7 TimeSeries.java-ca-5-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-40-2 TimeSeries.java-ca-40-2
+     [java] Generate 2 candidates for the type int: [value, 0]
+     [java] Space: 26
+
+TimeSeries.java-ca-12-1 TimeSeries.java-ca-12-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeries.java-cm-9-3 TimeSeries.java-cm-9-3
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeries.java-ca-6-6 TimeSeries.java-ca-6-6
+
+TimeSeriesDataItem.java-ca-30-6 TimeSeriesDataItem.java-ca-30-6
+
+TimeSeries.java-ca-42-7 TimeSeries.java-ca-42-7
+
+TimeSeries.java-ca-14-11 TimeSeries.java-ca-14-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 52
+
+TimeSeries.java-ca-48-15 TimeSeries.java-ca-48-15
+
+TimeSeries.java-ca-49-9 TimeSeries.java-ca-49-9
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [null]
+     [java] Space: 52
+
+TimeSeriesDataItem.java-cm-29-5 TimeSeriesDataItem.java-cm-29-5
+     [java] Generate 2 candidates for the type class org.jfree.data.time.RegularTimePeriod: [period, null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-cm-30-6 TimeSeriesDataItem.java-cm-30-6
+
+TimeSeries.java-am-0-0 TimeSeries.java-am-0-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeriesDataItem.java-cr-29-0 TimeSeriesDataItem.java-cr-29-0
+
+TimeSeries.java-am-12-0 TimeSeries.java-am-12-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeries.java-cm-16-2 TimeSeries.java-cm-16-2
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-ca-16-7 TimeSeries.java-ca-16-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-am-40-1 TimeSeries.java-am-40-1
+     [java] Generate 2 candidates for the type class java.lang.Number: [value, null]
+     [java] Space: 2
+
+TimeSeries.java-ca-3-9 TimeSeries.java-ca-3-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-42-9 TimeSeries.java-ca-42-9
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeries.java-om-0-0 TimeSeries.java-om-0-0
+
+TimeSeries.java-ca-3-6 TimeSeries.java-ca-3-6
+
+TimeSeries.java-cm-9-5 TimeSeries.java-cm-9-5
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+Day.java-ca-25-5 Day.java-ca-25-5
+
+TimeSeries.java-mem-20-0 TimeSeries.java-mem-20-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [dummy, null]
+     [java] Space: 2
+
+TimeSeries.java-mem-35-1 TimeSeries.java-mem-35-1
+     [java] Generate 3 candidates for the type boolean: [notify, false, true]
+     [java] Space: 3
+
+TimeSeries.java-mem-5-2 TimeSeries.java-mem-5-2
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-ca-20-11 TimeSeries.java-ca-20-11
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 5
+
+Day.java-ca-25-3 Day.java-ca-25-3
+
+TimeSeries.java-ca-6-1 TimeSeries.java-ca-6-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+Day.java-mem-23-0 Day.java-mem-23-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.Day: [d, o1, null]
+     [java] Space: 3
+
+TimeSeries.java-ca-8-8 TimeSeries.java-ca-8-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-ca-30-1 TimeSeriesDataItem.java-ca-30-1
+
+TimeSeriesDataItem.java-ca-31-4 TimeSeriesDataItem.java-ca-31-4
+
+TimeSeriesDataItem.java-ca-32-9 TimeSeriesDataItem.java-ca-32-9
+
+TimeSeries.java-om-9-1 TimeSeries.java-om-9-1
+
+TimeSeries.java-ca-43-7 TimeSeries.java-ca-43-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-7-5 TimeSeries.java-ca-7-5
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+TimeSeries.java-ca-0-6 TimeSeries.java-ca-0-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-17-7 TimeSeries.java-ca-17-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-12-8 TimeSeries.java-ca-12-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeries.java-ca-4-12 TimeSeries.java-ca-4-12
+
+TimeSeries.java-ca-35-3 TimeSeries.java-ca-35-3
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-cm-7-9 TimeSeries.java-cm-7-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-18-4 TimeSeries.java-ca-18-4
+
+TimeSeries.java-ca-13-0 TimeSeries.java-ca-13-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-3-7 TimeSeries.java-ca-3-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+Day.java-mem-24-0 Day.java-mem-24-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.Day: [d, o1, null]
+     [java] Space: 3
+
+TimeSeries.java-ca-10-10 TimeSeries.java-ca-10-10
+
+TimeSeries.java-cm-12-5 TimeSeries.java-cm-12-5
+
+TimeSeries.java-cm-19-4 TimeSeries.java-cm-19-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-43-2 TimeSeries.java-ca-43-2
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-11-5 TimeSeries.java-ca-11-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-37-3 TimeSeries.java-ca-37-3
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 26
+
+Day.java-cm-21-6 Day.java-cm-21-6
+
+TimeSeries.java-cm-9-17 TimeSeries.java-cm-9-17
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeriesDataItem.java-ca-30-0 TimeSeriesDataItem.java-ca-30-0
+
+TimeSeries.java-ca-19-7 TimeSeries.java-ca-19-7
+
+TimeSeries.java-cr-2-0 TimeSeries.java-cr-2-0
+
+TimeSeries.java-ca-16-1 TimeSeries.java-ca-16-1
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+TimeSeriesDataItem.java-ca-33-6 TimeSeriesDataItem.java-ca-33-6
+
+TimeSeries.java-ca-8-10 TimeSeries.java-ca-8-10
+
+TimeSeries.java-mem-5-1 TimeSeries.java-mem-5-1
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-mem-5-0 TimeSeries.java-mem-5-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-ca-35-8 TimeSeries.java-ca-35-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-5-2 TimeSeries.java-cm-5-2
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeriesDataItem.java-cm-29-7 TimeSeriesDataItem.java-cm-29-7
+     [java] Generate 1 candidates for the type long: [null]sketch4j.executor.stateless.BacktrackException
+     [java] Space: 8
+
+TimeSeries.java-ca-14-0 TimeSeries.java-ca-14-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-ca-11-9 TimeSeries.java-ca-11-9
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 52
+
+TimeSeries.java-ca-7-0 TimeSeries.java-ca-7-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 56
+
+TimeSeries.java-cm-9-23 TimeSeries.java-cm-9-23
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-am-5-1 TimeSeries.java-am-5-1
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-cm-5-1 TimeSeries.java-cm-5-1
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-ca-10-2 TimeSeries.java-ca-10-2
+
+TimeSeries.java-ca-19-3 TimeSeries.java-ca-19-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 9
+
+TimeSeries.java-ca-43-11 TimeSeries.java-ca-43-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-am-4-0 TimeSeries.java-am-4-0
+
+TimeSeries.java-cm-5-10 TimeSeries.java-cm-5-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeriesDataItem.java-ca-30-9 TimeSeriesDataItem.java-ca-30-9
+
+TimeSeries.java-ca-9-8 TimeSeries.java-ca-9-8
+
+TimeSeries.java-ca-4-8 TimeSeries.java-ca-4-8
+
+TimeSeries.java-mem-7-0 TimeSeries.java-mem-7-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeries.java-mem-43-1 TimeSeries.java-mem-43-1
+     [java] Generate 3 candidates for the type boolean: [notify, false, true]
+     [java] Space: 3
+
+TimeSeries.java-cm-3-5 TimeSeries.java-cm-3-5
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-cm-7-11 TimeSeries.java-cm-7-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-37-6 TimeSeries.java-ca-37-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-6-11 TimeSeries.java-ca-6-11
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 4
+
+TimeSeries.java-ca-40-4 TimeSeries.java-ca-40-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-7-4 TimeSeries.java-ca-7-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-mem-40-1 TimeSeries.java-mem-40-1
+     [java] Generate 2 candidates for the type class java.lang.Number: [value, null]
+     [java] Space: 2
+
+TimeSeries.java-ca-20-1 TimeSeries.java-ca-20-1
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [dummy, null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 12
+
+TimeSeriesDataItem.java-cm-29-1 TimeSeriesDataItem.java-cm-29-1
+     [java] sketch4j.executor.stateless.BacktrackExceptionGenerate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+TimeSeries.java-ca-3-11 TimeSeries.java-ca-3-11
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 4
+
+TimeSeries.java-am-3-1 TimeSeries.java-am-3-1
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-cm-7-2 TimeSeries.java-cm-7-2
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeries.java-ca-5-9 TimeSeries.java-ca-5-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-14-1 TimeSeries.java-ca-14-1
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 98
+
+TimeSeries.java-ca-5-8 TimeSeries.java-ca-5-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-17-3 TimeSeries.java-cm-17-3
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-ca-35-5 TimeSeries.java-ca-35-5
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 26
+
+TimeSeries.java-cm-9-18 TimeSeries.java-cm-9-18
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-43-9 TimeSeries.java-ca-43-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+Day.java-ca-34-3 Day.java-ca-34-3
+     [java] Generate 2 candidates for the type class org.jfree.data.time.SerialDate: [serialDate, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 16
+
+TimeSeries.java-ca-6-0 TimeSeries.java-ca-6-0
+
+TimeSeries.java-cr-17-0 TimeSeries.java-cr-17-0
+
+TimeSeries.java-ca-3-2 TimeSeries.java-ca-3-2
+
+TimeSeries.java-ca-42-3 TimeSeries.java-ca-42-3
+     [java] Generate 2 candidates for the type int: [value, 0]
+     [java] Space: 26
+
+TimeSeries.java-om-2-0 TimeSeries.java-om-2-0
+
+TimeSeries.java-ca-9-11 TimeSeries.java-ca-9-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 52
+
+TimeSeries.java-ca-38-4 TimeSeries.java-ca-38-4
+
+TimeSeries.java-ca-16-3 TimeSeries.java-ca-16-3
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 98
+
+Day.java-ca-25-0 Day.java-ca-25-0
+
+TimeSeries.java-mem-49-0 TimeSeries.java-mem-49-0
+     [java] Generate 3 candidates for the type int: [index, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeries.java-ca-9-0 TimeSeries.java-ca-9-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 56
+
+TimeSeriesDataItem.java-mem-30-0 TimeSeriesDataItem.java-mem-30-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [datapair, o1, null]
+     [java] Space: 3
+
+TimeSeries.java-ca-18-7 TimeSeries.java-ca-18-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 12
+
+TimeSeriesDataItem.java-ca-29-2 TimeSeriesDataItem.java-ca-29-2
+
+Day.java-cm-24-11 Day.java-cm-24-11
+
+TimeSeries.java-cm-13-8 TimeSeries.java-cm-13-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeriesDataItem.java-ca-33-2 TimeSeriesDataItem.java-ca-33-2
+
+TimeSeries.java-ca-0-5 TimeSeries.java-ca-0-5
+
+TimeSeries.java-ca-8-1 TimeSeries.java-ca-8-1
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+TimeSeriesDataItem.java-cm-30-4 TimeSeriesDataItem.java-cm-30-4
+
+TimeSeries.java-cm-13-9 TimeSeries.java-cm-13-9
+
+TimeSeries.java-cm-7-0 TimeSeries.java-cm-7-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 56
+
+TimeSeries.java-ca-43-1 TimeSeries.java-ca-43-1
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [item, null]
+     [java] Space: 10
+
+TimeSeries.java-am-6-0 TimeSeries.java-am-6-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeries.java-ca-48-7 TimeSeries.java-ca-48-7
+
+TimeSeries.java-cm-2-9 TimeSeries.java-cm-2-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-11-7 TimeSeries.java-ca-11-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+Day.java-ca-34-0 Day.java-ca-34-0
+
+TimeSeries.java-ca-11-4 TimeSeries.java-ca-11-4
+
+Day.java-ca-21-4 Day.java-ca-21-4
+
+TimeSeries.java-ca-48-14 TimeSeries.java-ca-48-14
+
+TimeSeries.java-cm-19-8 TimeSeries.java-cm-19-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeries.java-ca-17-9 TimeSeries.java-ca-17-9
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 52
+
+TimeSeries.java-ca-14-10 TimeSeries.java-ca-14-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-17-1 TimeSeries.java-ca-17-1
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 56
+
+TimeSeries.java-mem-40-0 TimeSeries.java-mem-40-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.RegularTimePeriod: [period, null]
+     [java] Space: 2
+
+TimeSeriesDataItem.java-cm-30-2 TimeSeriesDataItem.java-cm-30-2
+
+TimeSeries.java-ca-5-6 TimeSeries.java-ca-5-6
+
+TimeSeries.java-cm-3-6 TimeSeries.java-cm-3-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-49-0 TimeSeries.java-ca-49-0
+
+TimeSeries.java-ca-48-10 TimeSeries.java-ca-48-10
+
+TimeSeries.java-cm-17-2 TimeSeries.java-cm-17-2
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-mem-3-1 TimeSeries.java-mem-3-1
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-ca-5-2 TimeSeries.java-ca-5-2
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+Day.java-ca-21-5 Day.java-ca-21-5
+
+TimeSeries.java-cm-12-7 TimeSeries.java-cm-12-7
+
+TimeSeries.java-ca-48-8 TimeSeries.java-ca-48-8
+
+TimeSeries.java-ca-38-1 TimeSeries.java-ca-38-1
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-cm-5-4 TimeSeries.java-cm-5-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-cm-9-22 TimeSeries.java-cm-9-22
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeriesDataItem.java-ca-30-3 TimeSeriesDataItem.java-ca-30-3
+
+Day.java-ca-24-0 Day.java-ca-24-0
+
+TimeSeries.java-ca-10-3 TimeSeries.java-ca-10-3
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeries.java-cm-13-7 TimeSeries.java-cm-13-7
+
+TimeSeriesDataItem.java-ca-32-5 TimeSeriesDataItem.java-ca-32-5
+
+Day.java-cm-21-8 Day.java-cm-21-8
+
+TimeSeries.java-cm-0-2 TimeSeries.java-cm-0-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+Day.java-ca-25-6 Day.java-ca-25-6
+
+Day.java-am-21-0 Day.java-am-21-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.Day: [o1, null]
+     [java] Space: 2
+
+TimeSeries.java-cr-3-0 TimeSeries.java-cr-3-0
+
+TimeSeriesDataItem.java-ca-29-0 TimeSeriesDataItem.java-ca-29-0
+
+TimeSeries.java-ca-15-0 TimeSeries.java-ca-15-0
+
+TimeSeries.java-ca-6-9 TimeSeries.java-ca-6-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+Day.java-cm-24-9 Day.java-cm-24-9
+
+TimeSeries.java-om-17-0 TimeSeries.java-om-17-0
+
+TimeSeries.java-ca-11-6 TimeSeries.java-ca-11-6
+
+Year.java-ca-45-3 Year.java-ca-45-3
+     [java] Generate 1 candidates for the type short: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 7
+
+TimeSeries.java-cm-2-1 TimeSeries.java-cm-2-1
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 98
+
+SpreadsheetDate.java-ca-26-3 SpreadsheetDate.java-ca-26-3
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 5 candidates for the type int: [month, serial, year, day, 0]	at org.jfree.data.time.TimeSeries.update(TimeSeries.java:622)
+     [java] Space: 12
+
+Day.java-ca-22-5 Day.java-ca-22-5
+
+TimeSeries.java-ca-8-6 TimeSeries.java-ca-8-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+Day.java-ca-24-7 Day.java-ca-24-7
+
+TimeSeries.java-ca-2-8 TimeSeries.java-ca-2-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-am-29-0 TimeSeriesDataItem.java-am-29-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [o1, null]
+     [java] Space: 2
+
+Day.java-cm-21-10 Day.java-cm-21-10
+
+TimeSeries.java-ca-48-12 TimeSeries.java-ca-48-12
+
+TimeSeries.java-ca-10-5 TimeSeries.java-ca-10-5
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeries.java-cm-3-8 TimeSeries.java-cm-3-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-20-7 TimeSeries.java-ca-20-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 12
+
+TimeSeries.java-ca-49-8 TimeSeries.java-ca-49-8
+
+Day.java-ca-25-8 Day.java-ca-25-8
+
+TimeSeries.java-ca-1-6 TimeSeries.java-ca-1-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-12-8 TimeSeries.java-cm-12-8
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeriesDataItem.java-mem-32-0 TimeSeriesDataItem.java-mem-32-0
+     [java] Generate 3 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [datapair, o1, null]
+     [java] Space: 3
+
+Day.java-cm-24-19 Day.java-cm-24-19
+
+TimeSeries.java-ca-11-8 TimeSeries.java-ca-11-8
+
+TimeSeries.java-ca-16-5 TimeSeries.java-ca-16-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-4-10 TimeSeries.java-ca-4-10
+
+TimeSeriesDataItem.java-ca-29-3 TimeSeriesDataItem.java-ca-29-3
+
+TimeSeries.java-ca-13-9 TimeSeries.java-ca-13-9
+
+TimeSeries.java-cm-9-19 TimeSeries.java-cm-9-19
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-10-6 TimeSeries.java-ca-10-6
+
+TimeSeries.java-ca-16-9 TimeSeries.java-ca-16-9
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 52
+
+TimeSeriesDataItem.java-ca-33-3 TimeSeriesDataItem.java-ca-33-3
+
+TimeSeries.java-ca-2-6 TimeSeries.java-ca-2-6
+
+TimeSeries.java-ca-17-5 TimeSeries.java-ca-17-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-cm-17-4 TimeSeries.java-cm-17-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-1-4 TimeSeries.java-ca-1-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-2-2 TimeSeries.java-ca-2-2
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+TimeSeries.java-mem-2-0 TimeSeries.java-mem-2-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-ca-40-9 TimeSeries.java-ca-40-9
+     [java] Generate 1 candidates for the type class java.lang.String: [null]
+     [java] Space: 4
+
+TimeSeriesDataItem.java-ca-31-2 TimeSeriesDataItem.java-ca-31-2
+
+TimeSeries.java-cm-3-9 TimeSeries.java-cm-3-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-mem-9-0 TimeSeries.java-mem-9-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeries.java-ca-35-9 TimeSeries.java-ca-35-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-8-7 TimeSeries.java-ca-8-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-ca-30-5 TimeSeriesDataItem.java-ca-30-5
+
+TimeSeriesDataItem.java-ca-33-0 TimeSeriesDataItem.java-ca-33-0
+
+Day.java-cm-24-4 Day.java-cm-24-4
+
+TimeSeries.java-cm-0-6 TimeSeries.java-cm-0-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+Day.java-ca-22-3 Day.java-ca-22-3
+
+TimeSeries.java-ca-13-2 TimeSeries.java-ca-13-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+TimeSeries.java-ca-37-9 TimeSeries.java-ca-37-9
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+Day.java-cm-24-10 Day.java-cm-24-10
+
+TimeSeries.java-cm-19-1 TimeSeries.java-cm-19-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-42-6 TimeSeries.java-ca-42-6
+
+Day.java-ca-23-8 Day.java-ca-23-8
+
+TimeSeriesDataItem.java-ca-33-7 TimeSeriesDataItem.java-ca-33-7
+
+TimeSeries.java-ca-7-3 TimeSeries.java-ca-7-3
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 20
+
+TimeSeries.java-am-43-0 TimeSeries.java-am-43-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [item, null]
+     [java] Space: 2
+
+TimeSeries.java-ov-37-0 TimeSeries.java-ov-37-0
+
+TimeSeriesDataItem.java-cm-30-5 TimeSeriesDataItem.java-cm-30-5
+
+TimeSeries.java-ca-4-2 TimeSeries.java-ca-4-2
+
+TimeSeries.java-ca-8-11 TimeSeries.java-ca-8-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 52
+
+TimeSeries.java-ca-4-11 TimeSeries.java-ca-4-11
+
+TimeSeries.java-cm-3-2 TimeSeries.java-cm-3-2
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-cm-30-7 TimeSeriesDataItem.java-cm-30-7
+
+Year.java-ca-45-1 Year.java-ca-45-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 11
+
+TimeSeries.java-mem-9-1 TimeSeries.java-mem-9-1
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeries.java-ca-19-5 TimeSeries.java-ca-19-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 12
+
+TimeSeries.java-ca-13-6 TimeSeries.java-ca-13-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+Day.java-cm-21-9 Day.java-cm-21-9
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+Day.java-cr-21-0 Day.java-cr-21-0
+
+TimeSeries.java-cm-5-7 TimeSeries.java-cm-5-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-ca-29-6 TimeSeriesDataItem.java-ca-29-6
+
+TimeSeries.java-cm-9-2 TimeSeries.java-cm-9-2
+
+TimeSeries.java-ca-10-4 TimeSeries.java-ca-10-4
+
+Day.java-cm-24-16 Day.java-cm-24-16
+
+TimeSeries.java-ca-48-3 TimeSeries.java-ca-48-3
+
+Day.java-cm-24-15 Day.java-cm-24-15
+
+TimeSeries.java-ca-4-1 TimeSeries.java-ca-4-1
+
+TimeSeries.java-ca-37-1 TimeSeries.java-ca-37-1
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-9-3 TimeSeries.java-ca-9-3
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 20
+
+Day.java-cr-24-1 Day.java-cr-24-1
+
+TimeSeries.java-ca-42-5 TimeSeries.java-ca-42-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-9-20 TimeSeries.java-cm-9-20
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-7-9 TimeSeries.java-ca-7-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+Day.java-ca-22-4 Day.java-ca-22-4
+
+TimeSeries.java-cm-17-5 TimeSeries.java-cm-17-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-7-1 TimeSeries.java-cm-7-1
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 56
+
+TimeSeries.java-mem-3-0 TimeSeries.java-mem-3-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 4
+
+TimeSeries.java-ca-7-7 TimeSeries.java-ca-7-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-cm-0-7 TimeSeries.java-cm-0-7
+
+TimeSeries.java-om-13-0 TimeSeries.java-om-13-0
+
+TimeSeriesDataItem.java-ca-32-8 TimeSeriesDataItem.java-ca-32-8
+
+TimeSeries.java-ca-3-10 TimeSeries.java-ca-3-10
+
+TimeSeries.java-ca-16-2 TimeSeries.java-ca-16-2
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-cm-9-6 TimeSeries.java-cm-9-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-14-9 TimeSeries.java-ca-14-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+Day.java-cm-21-12 Day.java-cm-21-12
+
+Day.java-ca-24-1 Day.java-ca-24-1
+
+TimeSeries.java-ca-20-6 TimeSeries.java-ca-20-6
+
+TimeSeriesDataItem.java-cm-29-2 TimeSeriesDataItem.java-cm-29-2
+
+TimeSeriesDataItem.java-mem-33-0 TimeSeriesDataItem.java-mem-33-0
+
+Day.java-ca-23-3 Day.java-ca-23-3
+
+TimeSeries.java-mem-37-0 TimeSeries.java-mem-37-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.RegularTimePeriod: [period, null]
+     [java] Space: 2
+
+TimeSeries.java-cm-7-6 TimeSeries.java-cm-7-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+SpreadsheetDate.java-ca-26-1 SpreadsheetDate.java-ca-26-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] org.jfree.data.general.SeriesException: TimeSeries.update(TimePeriod, Number):  period does not exist.Generate 5 candidates for the type int: [month, serial, year, day, 0]
+     [java] Space: 12
+
+TimeSeriesDataItem.java-ca-31-7 TimeSeriesDataItem.java-ca-31-7
+
+TimeSeriesDataItem.java-cm-30-1 TimeSeriesDataItem.java-cm-30-1
+
+TimeSeriesDataItem.java-am-33-0 TimeSeriesDataItem.java-am-33-0
+
+TimeSeries.java-cm-3-1 TimeSeries.java-cm-3-1
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+TimeSeries.java-cm-9-10 TimeSeries.java-cm-9-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-43-6 TimeSeries.java-ca-43-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-cr-9-1 TimeSeries.java-cr-9-1
+
+TimeSeries.java-cm-13-0 TimeSeries.java-cm-13-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-2-0 TimeSeries.java-ca-2-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-ca-6-4 TimeSeries.java-ca-6-4
+
+TimeSeries.java-ca-35-11 TimeSeries.java-ca-35-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-cm-7-5 TimeSeries.java-cm-7-5
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+Day.java-cm-24-17 Day.java-cm-24-17
+
+TimeSeries.java-ca-42-2 TimeSeries.java-ca-42-2
+
+TimeSeries.java-cr-5-0 TimeSeries.java-cr-5-0
+
+TimeSeries.java-cm-17-7 TimeSeries.java-cm-17-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-ca-30-4 TimeSeriesDataItem.java-ca-30-4
+
+Day.java-cm-24-5 Day.java-cm-24-5
+
+TimeSeries.java-am-37-1 TimeSeries.java-am-37-1
+     [java] Generate 2 candidates for the type double: [value, 0]
+     [java] Space: 2
+
+TimeSeriesDataItem.java-ca-32-3 TimeSeriesDataItem.java-ca-32-3
+
+TimeSeries.java-ca-49-2 TimeSeries.java-ca-49-2
+
+TimeSeries.java-om-5-0 TimeSeries.java-om-5-0
+
+TimeSeries.java-ca-3-8 TimeSeries.java-ca-3-8
+
+TimeSeries.java-ca-1-0 TimeSeries.java-ca-1-0
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-37-8 TimeSeries.java-ca-37-8
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-38-7 TimeSeries.java-ca-38-7
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-0-5 TimeSeries.java-cm-0-5
+
+TimeSeriesDataItem.java-ca-33-4 TimeSeriesDataItem.java-ca-33-4
+
+TimeSeries.java-am-35-1 TimeSeries.java-am-35-1
+
+TimeSeries.java-cm-5-11 TimeSeries.java-cm-5-11
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-5-3 TimeSeries.java-ca-5-3
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 20
+
+TimeSeries.java-ca-19-6 TimeSeries.java-ca-19-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-35-7 TimeSeries.java-ca-35-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+Day.java-cm-24-2 Day.java-cm-24-2
+
+Day.java-ca-24-5 Day.java-ca-24-5
+
+TimeSeries.java-ca-42-4 TimeSeries.java-ca-42-4
+
+TimeSeries.java-am-9-2 TimeSeries.java-am-9-2
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 3
+
+Day.java-ca-34-5 Day.java-ca-34-5
+     [java] Generate 5 candidates for the type class java.text.DateFormat: [DATE_FORMAT_SHORT, DATE_FORMAT, DATE_FORMAT_LONG, DATE_FORMAT_MEDIUM, null]
+     [java] Generate 4 candidates for the type long: [serialVersionUID, firstMillisecond, lastMillisecond, null]
+     [java] Space: 85
+
+TimeSeries.java-ca-2-7 TimeSeries.java-ca-2-7
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+Day.java-ca-21-0 Day.java-ca-21-0
+
+TimeSeries.java-ca-48-2 TimeSeries.java-ca-48-2
+
+Day.java-cm-21-2 Day.java-cm-21-2
+
+Day.java-ca-24-3 Day.java-ca-24-3
+
+TimeSeries.java-ca-7-2 TimeSeries.java-ca-7-2
+
+TimeSeries.java-ca-49-4 TimeSeries.java-ca-49-4
+
+TimeSeries.java-ca-48-5 TimeSeries.java-ca-48-5
+
+TimeSeries.java-cm-19-3 TimeSeries.java-cm-19-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+TimeSeries.java-ca-7-8 TimeSeries.java-ca-7-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-5-6 TimeSeries.java-cm-5-6
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-15-9 TimeSeries.java-ca-15-9
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-cm-0-3 TimeSeries.java-cm-0-3
+
+TimeSeries.java-ca-49-3 TimeSeries.java-ca-49-3
+     [java] Generate 3 candidates for the type int: [index, maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [null]
+     [java] Space: 56
+
+TimeSeries.java-ca-7-10 TimeSeries.java-ca-7-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-cm-13-1 TimeSeries.java-cm-13-1
+
+TimeSeries.java-ca-10-1 TimeSeries.java-ca-10-1
+     [java] Generate 2 candidates for the type boolean: [false, true]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 10
+
+TimeSeries.java-ca-5-0 TimeSeries.java-ca-5-0
+     [java] Generate 4 candidates for the type int: [endIndex, startIndex, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-ca-17-2 TimeSeries.java-ca-17-2
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Space: 98
+
+TimeSeries.java-mem-43-0 TimeSeries.java-mem-43-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.TimeSeriesDataItem: [item, null]
+     [java] Space: 2
+
+TimeSeries.java-ca-2-4 TimeSeries.java-ca-2-4
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-ca-16-0 TimeSeries.java-ca-16-0
+     [java] Generate 3 candidates for the type long: [serialVersionUID, maximumItemAge, null]
+     [java] Space: 56
+
+TimeSeries.java-cm-9-12 TimeSeries.java-cm-9-12
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 56
+
+TimeSeries.java-cm-13-2 TimeSeries.java-cm-13-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+TimeSeries.java-ca-0-3 TimeSeries.java-ca-0-3
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeries.java-ca-17-3 TimeSeries.java-ca-17-3
+     [java] Generate 4 candidates for the type int: [start, end, maximumItemCount, 0]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 98
+
+TimeSeries.java-ca-37-5 TimeSeries.java-ca-37-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeriesDataItem.java-cm-29-0 TimeSeriesDataItem.java-cm-29-0
+
+TimeSeriesDataItem.java-ca-33-8 TimeSeriesDataItem.java-ca-33-8
+
+Day.java-ca-21-1 Day.java-ca-21-1
+
+TimeSeries.java-cm-2-8 TimeSeries.java-cm-2-8
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-2-10 TimeSeries.java-cm-2-10
+     [java] Generate 5 candidates for the type class java.lang.String: [DEFAULT_DOMAIN_DESCRIPTION, DEFAULT_RANGE_DESCRIPTION, domain, range, null]
+     [java] Space: 52
+
+TimeSeries.java-ca-16-6 TimeSeries.java-ca-16-6
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-cm-19-5 TimeSeries.java-cm-19-5
+     [java] Generate 3 candidates for the type interface java.util.List: [data, period, null]
+     [java] Space: 20
+
+Day.java-cm-24-13 Day.java-cm-24-13
+
+TimeSeries.java-ca-0-1 TimeSeries.java-ca-0-1
+     [java] Generate 1 candidates for the type long: [null]
+     [java] Generate 1 candidates for the type class org.jfree.data.time.TimeSeries: [null]
+     [java] Space: 8
+
+TimeSeries.java-mem-9-2 TimeSeries.java-mem-9-2
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeries.java-mem-19-0 TimeSeries.java-mem-19-0
+     [java] Generate 2 candidates for the type class org.jfree.data.time.RegularTimePeriod: [period, null]
+     [java] Space: 2
+
+TimeSeries.java-cm-2-3 TimeSeries.java-cm-2-3
+     [java] Generate 3 candidates for the type boolean: [emptyRange, false, true]
+     [java] Space: 20
+
+Day.java-ca-23-1 Day.java-ca-23-1
+
+TimeSeries.java-mem-12-1 TimeSeries.java-mem-12-1
+     [java] Generate 3 candidates for the type class org.jfree.data.time.RegularTimePeriod: [start, end, null]
+     [java] Space: 3
+
+TimeSeries.java-cm-3-0 TimeSeries.java-cm-3-0
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+TimeSeries.java-cm-9-21 TimeSeries.java-cm-9-21
+     [java] Generate 2 candidates for the type class java.lang.Class: [timePeriodClass, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-0-4 TimeSeries.java-ca-0-4
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Space: 10
+
+TimeSeries.java-ca-42-8 TimeSeries.java-ca-42-8
+
+TimeSeries.java-am-7-0 TimeSeries.java-am-7-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 3
+
+TimeSeries.java-ca-38-0 TimeSeries.java-ca-38-0
+
+TimeSeries.java-cr-0-0 TimeSeries.java-cr-0-0
+
+TimeSeries.java-ca-18-6 TimeSeries.java-ca-18-6
+
+TimeSeries.java-mem-4-1 TimeSeries.java-mem-4-1
+
+TimeSeries.java-ca-1-2 TimeSeries.java-ca-1-2
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
+TimeSeries.java-ca-8-0 TimeSeries.java-ca-8-0
+     [java] Generate 3 candidates for the type int: [startIndex, maximumItemCount, 0]
+     [java] Space: 56
+
+TimeSeries.java-ca-18-5 TimeSeries.java-ca-18-5
+     [java] Generate 2 candidates for the type interface java.util.List: [data, null]
+     [java] Generate 2 candidates for the type int: [maximumItemCount, 0]
+     [java] Space: 12
+

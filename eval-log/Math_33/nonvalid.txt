@@ -1,0 +1,3435 @@
+SimplexTableau.java-ca-29-15 SimplexTableau.java-ca-29-15
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 32
+
+SimplexTableau.java-ca-45-23 SimplexTableau.java-ca-45-23
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-40-12 SimplexTableau.java-ca-40-12
+
+SimplexTableau.java-ca-34-13 SimplexTableau.java-ca-34-13
+
+SimplexTableau.java-ca-41-3 SimplexTableau.java-ca-41-3
+     [java] Generate 9 candidates for the type int: [i, row, col, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 488
+
+SimplexSolver.java-ca-48-4 SimplexSolver.java-ca-48-4
+
+SimplexTableau.java-ca-16-18 SimplexTableau.java-ca-16-18
+
+SimplexTableau.java-ca-21-14 SimplexTableau.java-ca-21-14
+
+SimplexTableau.java-ca-34-16 SimplexTableau.java-ca-34-16
+
+SimplexTableau.java-ca-37-11 SimplexTableau.java-ca-37-11
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [negativeVarBasicRow, tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-31-19 SimplexTableau.java-ca-31-19
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [negativeVarBasicRow, tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-16-8 SimplexTableau.java-ca-16-8
+
+SimplexTableau.java-ca-45-21 SimplexTableau.java-ca-45-21
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 32
+
+SimplexTableau.java-cm-39-9 SimplexTableau.java-cm-39-9
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 32
+
+SimplexTableau.java-ca-45-11 SimplexTableau.java-ca-45-11
+     [java] Generate 4 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, basicRow, negativeVarBasicRow, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 44
+
+SimplexTableau.java-ca-12-6 SimplexTableau.java-ca-12-6
+     [java] Generate 4 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, basicRow, negativeVarBasicRow, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 44
+
+SimplexTableau.java-ca-21-5 SimplexTableau.java-ca-21-5
+
+SimplexTableau.java-ca-10-17 SimplexTableau.java-ca-10-17
+
+SimplexTableau.java-ca-31-23 SimplexTableau.java-ca-31-23
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-45-12 SimplexTableau.java-ca-45-12
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-5-13 SimplexTableau.java-ca-5-13
+
+SimplexTableau.java-cm-39-12 SimplexTableau.java-cm-39-12
+
+SimplexTableau.java-ca-2-22 SimplexTableau.java-ca-2-22
+
+SimplexTableau.java-ca-6-12 SimplexTableau.java-ca-6-12
+
+SimplexTableau.java-ca-32-15 SimplexTableau.java-ca-32-15
+
+SimplexTableau.java-ca-1-13 SimplexTableau.java-ca-1-13
+
+SimplexTableau.java-ca-25-12 SimplexTableau.java-ca-25-12
+
+SimplexTableau.java-ca-18-3 SimplexTableau.java-ca-18-3
+
+SimplexTableau.java-cm-24-19 SimplexTableau.java-cm-24-19
+
+SimplexTableau.java-ca-19-15 SimplexTableau.java-ca-19-15
+
+SimplexTableau.java-ca-42-4 SimplexTableau.java-ca-42-4
+
+SimplexTableau.java-ca-21-12 SimplexTableau.java-ca-21-12
+
+SimplexTableau.java-ca-31-7 SimplexTableau.java-ca-31-7
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 67
+
+SimplexTableau.java-ca-27-2 SimplexTableau.java-ca-27-2
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 67
+
+SimplexSolver.java-ca-49-0 SimplexSolver.java-ca-49-0
+     [java] Generate 4 candidates for the type int: [cmp, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 98
+
+SimplexTableau.java-ca-23-2 SimplexTableau.java-ca-23-2
+
+SimplexTableau.java-ca-18-17 SimplexTableau.java-ca-18-17
+
+SimplexTableau.java-ca-12-19 SimplexTableau.java-ca-12-19
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 38
+
+SimplexTableau.java-ca-23-6 SimplexTableau.java-ca-23-6
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-36-20 SimplexTableau.java-cm-36-20
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+Precision.java-ca-47-4 Precision.java-ca-47-4
+     [java] Generate 3 candidates for the type double: [SAFE_MIN, EPSILON, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-17-15 SimplexTableau.java-ca-17-15
+     [java] Generate 3 candidates for the type double: [SAFE_MIN, EPSILON, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-23-8 SimplexTableau.java-ca-23-8
+
+SimplexTableau.java-cm-23-14 SimplexTableau.java-cm-23-14
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-1-16 SimplexTableau.java-cm-1-16
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-21-19 SimplexTableau.java-ca-21-19
+
+SimplexTableau.java-am-14-0 SimplexTableau.java-am-14-0
+
+LinearObjectiveFunction.java-ca-35-3 LinearObjectiveFunction.java-ca-35-3
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.linear.RealVector: [coefficients, null]
+     [java] Generate 2 candidates for the type double: [constantTerm, 0]
+     [java] Space: 12
+
+SimplexTableau.java-ca-40-1 SimplexTableau.java-ca-40-1
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.linear.RealVector: [coefficients, null]
+     [java] Generate 2 candidates for the type double: [constantTerm, 0]
+     [java] Space: 12
+
+SimplexTableau.java-ca-19-11 SimplexTableau.java-ca-19-11
+
+SimplexTableau.java-ca-21-2 SimplexTableau.java-ca-21-2
+
+SimplexSolver.java-ca-33-2 SimplexSolver.java-ca-33-2
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 56
+
+SimplexTableau.java-cm-1-9 SimplexTableau.java-cm-1-9
+
+SimplexTableau.java-cm-1-0 SimplexTableau.java-cm-1-0
+
+SimplexTableau.java-mem-29-1 SimplexTableau.java-mem-29-1
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-mem-12-1 SimplexTableau.java-mem-12-1
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-ca-27-9 SimplexTableau.java-ca-27-9
+
+SimplexTableau.java-ca-38-11 SimplexTableau.java-ca-38-11
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 26
+
+SimplexTableau.java-am-4-2 SimplexTableau.java-am-4-2
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-36-14 SimplexTableau.java-ca-36-14
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-mem-29-0 SimplexTableau.java-mem-29-0
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-45-3 SimplexTableau.java-ca-45-3
+     [java] Generate 10 candidates for the type int: [basicRow, colIndex, i, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 814
+
+SimplexTableau.java-ca-22-0 SimplexTableau.java-ca-22-0
+
+SimplexTableau.java-ca-1-2 SimplexTableau.java-ca-1-2
+     [java] Generate 3 candidates for the type class [D: [coefficients, negativeVarBasicRow, null]
+     [java] Space: 20
+
+SimplexTableau.java-mem-39-1 SimplexTableau.java-mem-39-1
+     [java] Generate 3 candidates for the type class [D: [coefficients, negativeVarBasicRow, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-41-16 SimplexTableau.java-ca-41-16
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-mem-20-1 SimplexTableau.java-mem-20-1
+
+SimplexTableau.java-ca-38-0 SimplexTableau.java-ca-38-0
+
+SimplexTableau.java-ca-26-3 SimplexTableau.java-ca-26-3
+
+SimplexSolver.java-cm-49-10 SimplexSolver.java-cm-49-10
+
+SimplexTableau.java-ca-42-1 SimplexTableau.java-ca-42-1
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 218
+
+SimplexTableau.java-mem-24-4 SimplexTableau.java-mem-24-4
+
+SimplexTableau.java-ca-16-3 SimplexTableau.java-ca-16-3
+
+SimplexSolver.java-am-49-1 SimplexSolver.java-am-49-1
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-21-6 SimplexTableau.java-ca-21-6
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-17-7 SimplexTableau.java-ca-17-7
+
+SimplexTableau.java-ca-9-15 SimplexTableau.java-ca-9-15
+
+SimplexTableau.java-ca-26-11 SimplexTableau.java-ca-26-11
+
+SimplexTableau.java-ca-36-17 SimplexTableau.java-ca-36-17
+
+SimplexTableau.java-ca-45-20 SimplexTableau.java-ca-45-20
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 130
+
+SimplexTableau.java-ca-17-2 SimplexTableau.java-ca-17-2
+
+SimplexTableau.java-ca-26-6 SimplexTableau.java-ca-26-6
+
+SimplexTableau.java-ca-27-7 SimplexTableau.java-ca-27-7
+
+SimplexTableau.java-cm-39-1 SimplexTableau.java-cm-39-1
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-mem-18-0 SimplexTableau.java-mem-18-0
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-29-21 SimplexTableau.java-ca-29-21
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 130
+
+SimplexTableau.java-mem-42-1 SimplexTableau.java-mem-42-1
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-22-7 SimplexTableau.java-ca-22-7
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-5-4 SimplexTableau.java-ca-5-4
+
+SimplexTableau.java-ca-41-15 SimplexTableau.java-ca-41-15
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 50
+
+SimplexTableau.java-am-18-3 SimplexTableau.java-am-18-3
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 50
+
+SimplexTableau.java-cm-24-10 SimplexTableau.java-cm-24-10
+
+SimplexTableau.java-cm-20-14 SimplexTableau.java-cm-20-14
+
+SimplexTableau.java-mem-11-1 SimplexTableau.java-mem-11-1
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 2
+
+SimplexSolver.java-ca-48-3 SimplexSolver.java-ca-48-3
+     [java] Generate 4 candidates for the type int: [i, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 196
+
+SimplexTableau.java-am-39-2 SimplexTableau.java-am-39-2
+
+SimplexTableau.java-mem-36-0 SimplexTableau.java-mem-36-0
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 8
+
+SimplexTableau.java-am-23-0 SimplexTableau.java-am-23-0
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 8
+
+SimplexTableau.java-cm-36-0 SimplexTableau.java-cm-36-0
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 386
+
+SimplexTableau.java-ca-45-16 SimplexTableau.java-ca-45-16
+
+SimplexSolver.java-ca-48-1 SimplexSolver.java-ca-48-1
+     [java] Generate 5 candidates for the type double: [entry, minValue, epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 152
+
+SimplexSolver.java-ca-30-1 SimplexSolver.java-ca-30-1
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 56
+
+SimplexTableau.java-am-18-0 SimplexTableau.java-am-18-0
+
+SimplexTableau.java-ca-36-7 SimplexTableau.java-ca-36-7
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 70
+
+SimplexSolver.java-mem-49-2 SimplexSolver.java-mem-49-2
+
+SimplexTableau.java-ca-15-16 SimplexTableau.java-ca-15-16
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-cm-20-8 SimplexTableau.java-cm-20-8
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-45-1 SimplexTableau.java-ca-45-1
+
+SimplexTableau.java-ca-7-20 SimplexTableau.java-ca-7-20
+
+SimplexTableau.java-mem-12-0 SimplexTableau.java-mem-12-0
+
+SimplexSolver.java-mem-33-0 SimplexSolver.java-mem-33-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-am-1-0 SimplexTableau.java-am-1-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-cm-20-3 SimplexTableau.java-cm-20-3
+
+SimplexSolver.java-cr-49-0 SimplexSolver.java-cr-49-0
+
+SimplexTableau.java-ca-36-15 SimplexTableau.java-ca-36-15
+
+SimplexTableau.java-ca-29-22 SimplexTableau.java-ca-29-22
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-2-15 SimplexTableau.java-ca-2-15
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-4-4 SimplexTableau.java-ca-4-4
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [constraints, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-18-14 SimplexTableau.java-ca-18-14
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [constraints, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-26-10 SimplexTableau.java-ca-26-10
+
+SimplexTableau.java-ca-27-6 SimplexTableau.java-ca-27-6
+
+SimplexTableau.java-ca-5-18 SimplexTableau.java-ca-5-18
+
+SimplexTableau.java-ca-5-19 SimplexTableau.java-ca-5-19
+
+SimplexSolver.java-ca-43-0 SimplexSolver.java-ca-43-0
+
+SimplexTableau.java-cm-39-15 SimplexTableau.java-cm-39-15
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-26-12 SimplexTableau.java-ca-26-12
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-2-0 SimplexTableau.java-ca-2-0
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 386
+
+SimplexTableau.java-ca-20-18 SimplexTableau.java-ca-20-18
+
+SimplexTableau.java-ca-17-12 SimplexTableau.java-ca-17-12
+
+SimplexTableau.java-ca-1-14 SimplexTableau.java-ca-1-14
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-45-9 SimplexTableau.java-ca-45-9
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 70
+
+SimplexTableau.java-ca-10-2 SimplexTableau.java-ca-10-2
+
+SimplexTableau.java-ca-12-11 SimplexTableau.java-ca-12-11
+
+SimplexTableau.java-ca-10-10 SimplexTableau.java-ca-10-10
+
+SimplexTableau.java-ca-11-3 SimplexTableau.java-ca-11-3
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Space: 26
+
+SimplexTableau.java-ca-17-11 SimplexTableau.java-ca-17-11
+
+SimplexTableau.java-ca-37-14 SimplexTableau.java-ca-37-14
+
+SimplexTableau.java-ca-8-1 SimplexTableau.java-ca-8-1
+
+SimplexTableau.java-ca-18-7 SimplexTableau.java-ca-18-7
+
+SimplexTableau.java-ca-19-10 SimplexTableau.java-ca-19-10
+
+SimplexTableau.java-ca-7-5 SimplexTableau.java-ca-7-5
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [tableau, objectiveCoefficients, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-37-19 SimplexTableau.java-ca-37-19
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [objectiveCoefficients, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-29-11 SimplexTableau.java-ca-29-11
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-22-2 SimplexTableau.java-ca-22-2
+
+SimplexTableau.java-ca-23-12 SimplexTableau.java-ca-23-12
+
+SimplexTableau.java-ca-38-2 SimplexTableau.java-ca-38-2
+
+SimplexTableau.java-ca-45-5 SimplexTableau.java-ca-45-5
+     [java] Generate 3 candidates for the type class [D: [coefficients, negativeVarBasicRow, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-6-2 SimplexTableau.java-ca-6-2
+     [java] Generate 3 candidates for the type class [D: [coefficients, negativeVarBasicRow, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-11-5 SimplexTableau.java-ca-11-5
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-17-14 SimplexTableau.java-ca-17-14
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-37-23 SimplexTableau.java-ca-37-23
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexSolver.java-cm-49-8 SimplexSolver.java-cm-49-8
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 296
+
+SimplexTableau.java-ca-21-4 SimplexTableau.java-ca-21-4
+
+SimplexTableau.java-ca-34-14 SimplexTableau.java-ca-34-14
+
+SimplexTableau.java-ca-6-1 SimplexTableau.java-ca-6-1
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 1432
+
+SimplexTableau.java-ca-4-17 SimplexTableau.java-ca-4-17
+     [java] Generate 4 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, constraints, tableau, null]
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 55
+
+SimplexTableau.java-ca-24-15 SimplexTableau.java-ca-24-15
+
+SimplexTableau.java-ca-14-18 SimplexTableau.java-ca-14-18
+
+SimplexTableau.java-am-24-2 SimplexTableau.java-am-24-2
+
+SimplexTableau.java-ca-18-16 SimplexTableau.java-ca-18-16
+
+SimplexTableau.java-ca-27-11 SimplexTableau.java-ca-27-11
+
+SimplexTableau.java-ca-40-18 SimplexTableau.java-ca-40-18
+
+SimplexTableau.java-mem-20-0 SimplexTableau.java-mem-20-0
+
+SimplexTableau.java-ca-6-7 SimplexTableau.java-ca-6-7
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-2-1 SimplexTableau.java-ca-2-1
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-7-14 SimplexTableau.java-ca-7-14
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-cm-24-9 SimplexTableau.java-cm-24-9
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-34-2 SimplexTableau.java-ca-34-2
+
+SimplexTableau.java-ca-6-9 SimplexTableau.java-ca-6-9
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 34
+
+SimplexTableau.java-ca-45-18 SimplexTableau.java-ca-45-18
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 34
+
+SimplexTableau.java-ca-6-3 SimplexTableau.java-ca-6-3
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-1-9 SimplexTableau.java-ca-1-9
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-mem-7-2 SimplexTableau.java-mem-7-2
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-cm-39-6 SimplexTableau.java-cm-39-6
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-cm-24-21 SimplexTableau.java-cm-24-21
+
+SimplexTableau.java-ca-8-14 SimplexTableau.java-ca-8-14
+
+SimplexTableau.java-ca-23-16 SimplexTableau.java-ca-23-16
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-38-19 SimplexTableau.java-ca-38-19
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-38-17 SimplexTableau.java-ca-38-17
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 32
+
+SimplexTableau.java-ca-38-14 SimplexTableau.java-ca-38-14
+
+SimplexTableau.java-mem-24-1 SimplexTableau.java-mem-24-1
+
+SimplexTableau.java-cm-24-0 SimplexTableau.java-cm-24-0
+
+SimplexTableau.java-ca-1-12 SimplexTableau.java-ca-1-12
+
+SimplexTableau.java-ca-15-3 SimplexTableau.java-ca-15-3
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 218
+
+SimplexTableau.java-cm-23-17 SimplexTableau.java-cm-23-17
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-22-19 SimplexTableau.java-ca-22-19
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-1-3 SimplexTableau.java-ca-1-3
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-1-7 SimplexTableau.java-ca-1-7
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 70
+
+SimplexTableau.java-ca-17-20 SimplexTableau.java-ca-17-20
+
+Precision.java-ca-47-2 Precision.java-ca-47-2
+     [java] Generate 3 candidates for the type long: [SGN_MASK, EXPONENT_OFFSET, null]
+     [java] Space: 56
+
+SimplexTableau.java-ca-40-15 SimplexTableau.java-ca-40-15
+
+SimplexTableau.java-ca-27-3 SimplexTableau.java-ca-27-3
+
+SimplexTableau.java-ca-27-1 SimplexTableau.java-ca-27-1
+
+SimplexTableau.java-ca-37-17 SimplexTableau.java-ca-37-17
+
+SimplexTableau.java-mem-39-7 SimplexTableau.java-mem-39-7
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 3
+
+SimplexTableau.java-ca-25-3 SimplexTableau.java-ca-25-3
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 3
+
+SimplexTableau.java-ca-14-2 SimplexTableau.java-ca-14-2
+
+SimplexTableau.java-ca-31-21 SimplexTableau.java-ca-31-21
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 32
+
+SimplexTableau.java-ca-20-19 SimplexTableau.java-ca-20-19
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 32
+
+SimplexTableau.java-am-39-4 SimplexTableau.java-am-39-4
+
+SimplexTableau.java-am-42-1 SimplexTableau.java-am-42-1
+
+SimplexTableau.java-ca-26-8 SimplexTableau.java-ca-26-8
+
+SimplexTableau.java-mem-16-2 SimplexTableau.java-mem-16-2
+
+SimplexTableau.java-ca-11-10 SimplexTableau.java-ca-11-10
+
+SimplexTableau.java-mem-39-0 SimplexTableau.java-mem-39-0
+
+SimplexTableau.java-ca-12-0 SimplexTableau.java-ca-12-0
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [tableau, objectiveCoefficients, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-16-7 SimplexTableau.java-ca-16-7
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [objectiveCoefficients, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-10-15 SimplexTableau.java-ca-10-15
+
+SimplexTableau.java-ca-17-18 SimplexTableau.java-ca-17-18
+
+SimplexTableau.java-am-12-0 SimplexTableau.java-am-12-0
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [tableau, objectiveCoefficients, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-24-20 SimplexTableau.java-ca-24-20
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [objectiveCoefficients, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-29-6 SimplexTableau.java-ca-29-6
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 20
+
+SimplexSolver.java-ca-46-0 SimplexSolver.java-ca-46-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-20-6 SimplexTableau.java-ca-20-6
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-41-9 SimplexTableau.java-ca-41-9
+
+SimplexTableau.java-ca-38-10 SimplexTableau.java-ca-38-10
+
+SimplexTableau.java-ca-20-2 SimplexTableau.java-ca-20-2
+
+SimplexTableau.java-cm-39-22 SimplexTableau.java-cm-39-22
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-23-10 SimplexTableau.java-cm-23-10
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-36-10 SimplexTableau.java-ca-36-10
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-23-15 SimplexTableau.java-cm-23-15
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-mem-5-1 SimplexTableau.java-mem-5-1
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 7 candidates for the type int: [i, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 70
+
+SimplexTableau.java-ca-5-10 SimplexTableau.java-ca-5-10
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-36-0 SimplexTableau.java-ca-36-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-42-15 SimplexTableau.java-ca-42-15
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-22-15 SimplexTableau.java-ca-22-15
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-36-11 SimplexTableau.java-cm-36-11
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-1-23 SimplexTableau.java-ca-1-23
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+LinearObjectiveFunction.java-ca-35-2 LinearObjectiveFunction.java-ca-35-2
+
+SimplexTableau.java-ca-21-1 SimplexTableau.java-ca-21-1
+
+SimplexTableau.java-ca-21-0 SimplexTableau.java-ca-21-0
+
+SimplexTableau.java-ca-9-3 SimplexTableau.java-ca-9-3
+
+SimplexTableau.java-cm-36-2 SimplexTableau.java-cm-36-2
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-37-18 SimplexTableau.java-ca-37-18
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-mem-16-0 SimplexTableau.java-mem-16-0
+
+SimplexTableau.java-ca-24-6 SimplexTableau.java-ca-24-6
+
+SimplexTableau.java-ca-19-0 SimplexTableau.java-ca-19-0
+
+SimplexTableau.java-ca-25-6 SimplexTableau.java-ca-25-6
+
+SimplexTableau.java-ca-19-16 SimplexTableau.java-ca-19-16
+
+SimplexTableau.java-cm-1-10 SimplexTableau.java-cm-1-10
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-1-4 SimplexTableau.java-cm-1-4
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-10-5 SimplexTableau.java-ca-10-5
+
+SimplexTableau.java-ca-21-13 SimplexTableau.java-ca-21-13
+
+SimplexTableau.java-ca-42-3 SimplexTableau.java-ca-42-3
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-24-8 SimplexTableau.java-ca-24-8
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-7-3 SimplexTableau.java-ca-7-3
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 14
+
+SimplexTableau.java-ca-2-17 SimplexTableau.java-ca-2-17
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 14
+
+SimplexTableau.java-ca-1-16 SimplexTableau.java-ca-1-16
+
+SimplexTableau.java-ca-40-5 SimplexTableau.java-ca-40-5
+
+SimplexTableau.java-ca-45-22 SimplexTableau.java-ca-45-22
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-15-17 SimplexTableau.java-ca-15-17
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-24-20 SimplexTableau.java-cm-24-20
+
+SimplexTableau.java-cm-36-22 SimplexTableau.java-cm-36-22
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-1-19 SimplexTableau.java-ca-1-19
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-mem-22-0 SimplexTableau.java-mem-22-0
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-22-3 SimplexTableau.java-ca-22-3
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-cm-1-19 SimplexTableau.java-cm-1-19
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-15-11 SimplexTableau.java-ca-15-11
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-26-15 SimplexTableau.java-ca-26-15
+
+SimplexTableau.java-cm-39-21 SimplexTableau.java-cm-39-21
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-6-17 SimplexTableau.java-ca-6-17
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-1-1 SimplexTableau.java-ca-1-1
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-18-13 SimplexTableau.java-ca-18-13
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-23-17 SimplexTableau.java-ca-23-17
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-24-17 SimplexTableau.java-ca-24-17
+
+SimplexTableau.java-am-40-0 SimplexTableau.java-am-40-0
+
+SimplexTableau.java-ca-45-19 SimplexTableau.java-ca-45-19
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [basicRow, negativeVarBasicRow, null]
+     [java] Space: 16
+
+SimplexTableau.java-am-42-0 SimplexTableau.java-am-42-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [basicRow, negativeVarBasicRow, null]
+     [java] Space: 16
+
+SimplexTableau.java-ca-1-15 SimplexTableau.java-ca-1-15
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-21-3 SimplexTableau.java-ca-21-3
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-40-14 SimplexTableau.java-ca-40-14
+
+SimplexTableau.java-ca-14-12 SimplexTableau.java-ca-14-12
+
+SimplexTableau.java-mem-42-0 SimplexTableau.java-mem-42-0
+
+SimplexTableau.java-ca-31-9 SimplexTableau.java-ca-31-9
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-10-13 SimplexTableau.java-ca-10-13
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-mem-39-3 SimplexTableau.java-mem-39-3
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-14-1 SimplexTableau.java-ca-14-1
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-25-19 SimplexTableau.java-ca-25-19
+
+SimplexTableau.java-ca-20-17 SimplexTableau.java-ca-20-17
+
+SimplexTableau.java-ca-40-16 SimplexTableau.java-ca-40-16
+
+SimplexTableau.java-ca-36-11 SimplexTableau.java-ca-36-11
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-10-1 SimplexTableau.java-ca-10-1
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-5-7 SimplexTableau.java-ca-5-7
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-36-5 SimplexTableau.java-cm-36-5
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-1-8 SimplexTableau.java-cm-1-8
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+Precision.java-ca-47-1 Precision.java-ca-47-1
+     [java] Generate 2 candidates for the type int: [SGN_MASK_FLOAT, 0]
+     [java] Generate 3 candidates for the type int: [maxUlps, SGN_MASK_FLOAT, 0]
+     [java] Space: 34
+
+SimplexTableau.java-ca-36-16 SimplexTableau.java-ca-36-16
+
+SimplexTableau.java-am-18-2 SimplexTableau.java-am-18-2
+
+SimplexTableau.java-ca-27-21 SimplexTableau.java-ca-27-21
+
+SimplexTableau.java-ca-4-6 SimplexTableau.java-ca-4-6
+
+SimplexTableau.java-ca-6-4 SimplexTableau.java-ca-6-4
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [objectiveCoefficients, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-21-11 SimplexTableau.java-ca-21-11
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [objectiveCoefficients, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-mem-8-0 SimplexTableau.java-mem-8-0
+
+SimplexTableau.java-ca-10-6 SimplexTableau.java-ca-10-6
+
+SimplexTableau.java-ca-2-2 SimplexTableau.java-ca-2-2
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-39-11 SimplexTableau.java-cm-39-11
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-45-2 SimplexTableau.java-ca-45-2
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-16-13 SimplexTableau.java-ca-16-13
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-32-7 SimplexTableau.java-ca-32-7
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-15-18 SimplexTableau.java-ca-15-18
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-38-5 SimplexTableau.java-ca-38-5
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-31-3 SimplexTableau.java-ca-31-3
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 12
+
+SimplexTableau.java-ca-15-6 SimplexTableau.java-ca-15-6
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexSolver.java-cm-49-1 SimplexSolver.java-cm-49-1
+     [java] Generate 4 candidates for the type int: [cmp, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 98
+
+SimplexTableau.java-ca-12-7 SimplexTableau.java-ca-12-7
+     [java] Generate 4 candidates for the type int: [cmp, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 148
+
+SimplexTableau.java-ca-2-14 SimplexTableau.java-ca-2-14
+     [java] Generate 4 candidates for the type int: [cmp, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 98
+
+SimplexTableau.java-ca-16-17 SimplexTableau.java-ca-16-17
+
+SimplexTableau.java-ca-40-2 SimplexTableau.java-ca-40-2
+
+SimplexTableau.java-ca-9-9 SimplexTableau.java-ca-9-9
+
+SimplexTableau.java-ca-6-22 SimplexTableau.java-ca-6-22
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-10-11 SimplexTableau.java-ca-10-11
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-am-39-7 SimplexTableau.java-am-39-7
+     [java] Generate 4 candidates for the type int: [cmp, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 136
+
+SimplexSolver.java-cm-49-6 SimplexSolver.java-cm-49-6
+     [java] Generate 4 candidates for the type int: [cmp, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 98
+
+SimplexTableau.java-cm-24-5 SimplexTableau.java-cm-24-5
+
+SimplexTableau.java-ca-37-1 SimplexTableau.java-ca-37-1
+     [java] Generate 3 candidates for the type class [D: [coefficients, negativeVarBasicRow, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-31-18 SimplexTableau.java-ca-31-18
+     [java] Generate 3 candidates for the type class [D: [coefficients, negativeVarBasicRow, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-42-16 SimplexTableau.java-ca-42-16
+
+SimplexTableau.java-cm-39-0 SimplexTableau.java-cm-39-0
+
+SimplexTableau.java-ca-45-14 SimplexTableau.java-ca-45-14
+
+SimplexTableau.java-ca-15-0 SimplexTableau.java-ca-15-0
+
+SimplexTableau.java-ca-8-7 SimplexTableau.java-ca-8-7
+
+SimplexTableau.java-ca-20-10 SimplexTableau.java-ca-20-10
+
+SimplexTableau.java-ca-34-19 SimplexTableau.java-ca-34-19
+
+SimplexTableau.java-ca-31-13 SimplexTableau.java-ca-31-13
+
+SimplexTableau.java-ca-7-13 SimplexTableau.java-ca-7-13
+
+SimplexSolver.java-am-30-0 SimplexSolver.java-am-30-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-11-11 SimplexTableau.java-ca-11-11
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-cm-20-12 SimplexTableau.java-cm-20-12
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-17-0 SimplexTableau.java-ca-17-0
+
+SimplexTableau.java-ca-24-3 SimplexTableau.java-ca-24-3
+
+SimplexTableau.java-ca-2-7 SimplexTableau.java-ca-2-7
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 57
+
+SimplexSolver.java-ca-43-3 SimplexSolver.java-ca-43-3
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 56
+
+SimplexTableau.java-cm-39-17 SimplexTableau.java-cm-39-17
+
+SimplexTableau.java-ca-8-4 SimplexTableau.java-ca-8-4
+
+SimplexTableau.java-ca-38-12 SimplexTableau.java-ca-38-12
+
+SimplexTableau.java-ca-1-6 SimplexTableau.java-ca-1-6
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-37-4 SimplexTableau.java-ca-37-4
+
+SimplexTableau.java-cm-39-5 SimplexTableau.java-cm-39-5
+     [java] Generate 4 candidates for the type class [D: [basicRow, coefficients, negativeVarBasicRow, null]
+     [java] Space: 34
+
+SimplexTableau.java-ca-27-5 SimplexTableau.java-ca-27-5
+
+SimplexTableau.java-cm-20-13 SimplexTableau.java-cm-20-13
+
+SimplexTableau.java-am-7-0 SimplexTableau.java-am-7-0
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-am-45-0 SimplexTableau.java-am-45-0
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-24-10 SimplexTableau.java-ca-24-10
+
+SimplexTableau.java-cm-20-16 SimplexTableau.java-cm-20-16
+
+SimplexTableau.java-cm-24-13 SimplexTableau.java-cm-24-13
+
+SimplexTableau.java-ca-21-7 SimplexTableau.java-ca-21-7
+
+SimplexSolver.java-ca-48-2 SimplexSolver.java-ca-48-2
+     [java] Generate 4 candidates for the type int: [i, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 98
+
+SimplexTableau.java-ca-42-0 SimplexTableau.java-ca-42-0
+
+SimplexTableau.java-ca-32-16 SimplexTableau.java-ca-32-16
+
+SimplexTableau.java-ca-11-12 SimplexTableau.java-ca-11-12
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-19-2 SimplexTableau.java-ca-19-2
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-15-2 SimplexTableau.java-ca-15-2
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 218
+
+SimplexSolver.java-am-33-2 SimplexSolver.java-am-33-2
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 3
+
+SimplexTableau.java-ca-25-11 SimplexTableau.java-ca-25-11
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 3
+
+SimplexTableau.java-ca-22-9 SimplexTableau.java-ca-22-9
+
+SimplexTableau.java-cm-23-18 SimplexTableau.java-cm-23-18
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 21
+
+SimplexTableau.java-mem-12-2 SimplexTableau.java-mem-12-2
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 3
+
+SimplexTableau.java-cm-36-10 SimplexTableau.java-cm-36-10
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 3
+
+SimplexTableau.java-cm-24-3 SimplexTableau.java-cm-24-3
+
+SimplexTableau.java-ca-16-12 SimplexTableau.java-ca-16-12
+
+SimplexTableau.java-ca-10-4 SimplexTableau.java-ca-10-4
+
+SimplexTableau.java-ca-27-8 SimplexTableau.java-ca-27-8
+
+SimplexTableau.java-cm-20-0 SimplexTableau.java-cm-20-0
+
+SimplexTableau.java-ca-9-11 SimplexTableau.java-ca-9-11
+
+SimplexTableau.java-ca-34-23 SimplexTableau.java-ca-34-23
+
+SimplexTableau.java-ca-11-15 SimplexTableau.java-ca-11-15
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 78
+
+SimplexTableau.java-cm-24-16 SimplexTableau.java-cm-24-16
+
+SimplexSolver.java-om-49-0 SimplexSolver.java-om-49-0
+
+SimplexTableau.java-cm-24-4 SimplexTableau.java-cm-24-4
+
+SimplexTableau.java-am-11-0 SimplexTableau.java-am-11-0
+
+SimplexTableau.java-ca-32-1 SimplexTableau.java-ca-32-1
+
+SimplexTableau.java-ca-41-10 SimplexTableau.java-ca-41-10
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 120
+
+SimplexTableau.java-ca-8-11 SimplexTableau.java-ca-8-11
+
+SimplexTableau.java-ca-5-1 SimplexTableau.java-ca-5-1
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java] Space: 171
+
+SimplexTableau.java-ca-36-13 SimplexTableau.java-ca-36-13
+
+SimplexTableau.java-ca-26-16 SimplexTableau.java-ca-26-16
+
+SimplexTableau.java-ca-2-23 SimplexTableau.java-ca-2-23
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 78
+
+SimplexTableau.java-ca-19-13 SimplexTableau.java-ca-19-13
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 33
+
+SimplexTableau.java-ca-11-13 SimplexTableau.java-ca-11-13
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 33
+
+SimplexTableau.java-ca-16-5 SimplexTableau.java-ca-16-5
+
+SimplexTableau.java-mem-39-8 SimplexTableau.java-mem-39-8
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 18
+
+SimplexTableau.java-am-24-1 SimplexTableau.java-am-24-1
+
+SimplexSolver.java-ca-33-0 SimplexSolver.java-ca-33-0
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 56
+
+SimplexTableau.java-am-8-0 SimplexTableau.java-am-8-0
+
+SimplexTableau.java-mem-6-1 SimplexTableau.java-mem-6-1
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-ca-6-0 SimplexTableau.java-ca-6-0
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-ca-5-17 SimplexTableau.java-ca-5-17
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-41-11 SimplexTableau.java-ca-41-11
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-cm-1-20 SimplexTableau.java-cm-1-20
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-26-17 SimplexTableau.java-ca-26-17
+
+SimplexTableau.java-ca-32-13 SimplexTableau.java-ca-32-13
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-7-0 SimplexTableau.java-ca-7-0
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-9-0 SimplexTableau.java-ca-9-0
+
+SimplexSolver.java-ca-33-1 SimplexSolver.java-ca-33-1
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-29-9 SimplexTableau.java-ca-29-9
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 34
+
+SimplexTableau.java-ca-27-18 SimplexTableau.java-ca-27-18
+
+SimplexTableau.java-ca-22-8 SimplexTableau.java-ca-22-8
+
+SimplexTableau.java-cm-20-18 SimplexTableau.java-cm-20-18
+
+SimplexTableau.java-ca-32-8 SimplexTableau.java-ca-32-8
+
+SimplexTableau.java-ca-25-10 SimplexTableau.java-ca-25-10
+
+SimplexTableau.java-ca-12-10 SimplexTableau.java-ca-12-10
+
+SimplexTableau.java-ca-15-7 SimplexTableau.java-ca-15-7
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-9-14 SimplexTableau.java-ca-9-14
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-4-10 SimplexTableau.java-ca-4-10
+
+SimplexSolver.java-mem-49-1 SimplexSolver.java-mem-49-1
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-32-17 SimplexTableau.java-ca-32-17
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-14-0 SimplexTableau.java-ca-14-0
+
+SimplexTableau.java-ca-22-16 SimplexTableau.java-ca-22-16
+
+SimplexTableau.java-ca-31-12 SimplexTableau.java-ca-31-12
+
+SimplexTableau.java-ca-42-5 SimplexTableau.java-ca-42-5
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 50
+
+SimplexTableau.java-ca-1-4 SimplexTableau.java-ca-1-4
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 50
+
+SimplexTableau.java-mem-7-0 SimplexTableau.java-mem-7-0
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-7-15 SimplexTableau.java-ca-7-15
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-23-14 SimplexTableau.java-ca-23-14
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-cm-1-11 SimplexTableau.java-cm-1-11
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, negativeVarBasicRow, null]
+     [java] Space: 24
+
+SimplexTableau.java-cm-20-11 SimplexTableau.java-cm-20-11
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [negativeVarBasicRow, tableau, null]
+     [java] Space: 24
+
+SimplexTableau.java-am-26-0 SimplexTableau.java-am-26-0
+
+SimplexTableau.java-ca-29-10 SimplexTableau.java-ca-29-10
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 100
+
+SimplexTableau.java-ca-16-20 SimplexTableau.java-ca-16-20
+
+SimplexTableau.java-cm-23-0 SimplexTableau.java-cm-23-0
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java] Space: 60
+
+SimplexTableau.java-ca-25-15 SimplexTableau.java-ca-25-15
+
+SimplexTableau.java-ca-8-0 SimplexTableau.java-ca-8-0
+
+SimplexTableau.java-cm-36-3 SimplexTableau.java-cm-36-3
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type class [D: [coefficients, negativeVarBasicRow, null]
+     [java] Space: 24
+
+SimplexTableau.java-ca-31-11 SimplexTableau.java-ca-31-11
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, negativeVarBasicRow, null]
+     [java] Space: 100
+
+SimplexTableau.java-ca-45-8 SimplexTableau.java-ca-45-8
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 280
+
+SimplexTableau.java-cm-1-14 SimplexTableau.java-cm-1-14
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 100
+
+SimplexTableau.java-ca-1-17 SimplexTableau.java-ca-1-17
+
+SimplexTableau.java-ca-20-0 SimplexTableau.java-ca-20-0
+
+SimplexSolver.java-ca-46-4 SimplexSolver.java-ca-46-4
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-32-4 SimplexTableau.java-ca-32-4
+
+SimplexTableau.java-ca-31-22 SimplexTableau.java-ca-31-22
+
+SimplexTableau.java-ca-7-23 SimplexTableau.java-ca-7-23
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-32-12 SimplexTableau.java-ca-32-12
+
+SimplexTableau.java-ca-5-6 SimplexTableau.java-ca-5-6
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-am-34-1 SimplexTableau.java-am-34-1
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-29-14 SimplexTableau.java-ca-29-14
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexSolver.java-ca-30-0 SimplexSolver.java-ca-30-0
+
+SimplexTableau.java-ca-22-12 SimplexTableau.java-ca-22-12
+
+SimplexTableau.java-ca-18-11 SimplexTableau.java-ca-18-11
+
+SimplexSolver.java-ca-43-1 SimplexSolver.java-ca-43-1
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 10
+
+SimplexSolver.java-ca-48-5 SimplexSolver.java-ca-48-5
+
+SimplexTableau.java-mem-45-0 SimplexTableau.java-mem-45-0
+
+SimplexTableau.java-ca-37-9 SimplexTableau.java-ca-37-9
+     [java] Generate 7 candidates for the type int: [negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 389
+
+SimplexTableau.java-ca-5-11 SimplexTableau.java-ca-5-11
+
+SimplexTableau.java-ca-6-20 SimplexTableau.java-ca-6-20
+
+SimplexTableau.java-ca-41-6 SimplexTableau.java-ca-41-6
+
+SimplexTableau.java-am-6-0 SimplexTableau.java-am-6-0
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-cm-1-15 SimplexTableau.java-cm-1-15
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-36-23 SimplexTableau.java-ca-36-23
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-12-16 SimplexTableau.java-ca-12-16
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-4-9 SimplexTableau.java-ca-4-9
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-27-0 SimplexTableau.java-ca-27-0
+
+SimplexTableau.java-ca-6-14 SimplexTableau.java-ca-6-14
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-15-5 SimplexTableau.java-ca-15-5
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-24-18 SimplexTableau.java-ca-24-18
+
+SimplexTableau.java-ca-41-18 SimplexTableau.java-ca-41-18
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-23-2 SimplexTableau.java-cm-23-2
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-38-1 SimplexTableau.java-ca-38-1
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 71
+
+SimplexTableau.java-ca-7-12 SimplexTableau.java-ca-7-12
+
+SimplexTableau.java-cm-1-7 SimplexTableau.java-cm-1-7
+
+SimplexTableau.java-ca-37-10 SimplexTableau.java-ca-37-10
+
+LinearObjectiveFunction.java-ca-35-4 LinearObjectiveFunction.java-ca-35-4
+
+SimplexTableau.java-ca-14-15 SimplexTableau.java-ca-14-15
+
+LinearObjectiveFunction.java-mem-35-0 LinearObjectiveFunction.java-mem-35-0
+
+SimplexTableau.java-ca-20-16 SimplexTableau.java-ca-20-16
+
+SimplexTableau.java-ca-40-6 SimplexTableau.java-ca-40-6
+
+SimplexTableau.java-am-23-2 SimplexTableau.java-am-23-2
+
+SimplexTableau.java-ca-6-6 SimplexTableau.java-ca-6-6
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-15-8 SimplexTableau.java-ca-15-8
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-34-0 SimplexTableau.java-ca-34-0
+
+SimplexTableau.java-ca-12-4 SimplexTableau.java-ca-12-4
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-cm-20-4 SimplexTableau.java-cm-20-4
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-cr-36-0 SimplexTableau.java-cr-36-0
+
+SimplexTableau.java-ca-32-6 SimplexTableau.java-ca-32-6
+
+SimplexTableau.java-ca-7-4 SimplexTableau.java-ca-7-4
+
+SimplexTableau.java-ca-31-16 SimplexTableau.java-ca-31-16
+
+SimplexTableau.java-ca-8-13 SimplexTableau.java-ca-8-13
+
+SimplexTableau.java-ca-11-7 SimplexTableau.java-ca-11-7
+
+SimplexTableau.java-ca-37-7 SimplexTableau.java-ca-37-7
+
+SimplexTableau.java-ca-16-1 SimplexTableau.java-ca-16-1
+
+SimplexTableau.java-ca-4-5 SimplexTableau.java-ca-4-5
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [constraints, tableau, null]
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 38
+
+SimplexTableau.java-ca-34-20 SimplexTableau.java-ca-34-20
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [constraints, tableau, null]
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 38
+
+SimplexTableau.java-ca-32-11 SimplexTableau.java-ca-32-11
+
+SimplexTableau.java-ca-40-11 SimplexTableau.java-ca-40-11
+
+SimplexTableau.java-cm-1-12 SimplexTableau.java-cm-1-12
+
+SimplexTableau.java-ca-22-18 SimplexTableau.java-ca-22-18
+
+SimplexTableau.java-ca-6-11 SimplexTableau.java-ca-6-11
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-am-39-1 SimplexTableau.java-am-39-1
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-mem-7-1 SimplexTableau.java-mem-7-1
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-2-9 SimplexTableau.java-ca-2-9
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-16-10 SimplexTableau.java-ca-16-10
+
+SimplexTableau.java-ca-9-10 SimplexTableau.java-ca-9-10
+
+SimplexTableau.java-am-6-1 SimplexTableau.java-am-6-1
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-cm-36-6 SimplexTableau.java-cm-36-6
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-ca-41-1 SimplexTableau.java-ca-41-1
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java] Space: 56
+
+SimplexTableau.java-am-20-2 SimplexTableau.java-am-20-2
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-17-3 SimplexTableau.java-ca-17-3
+
+SimplexTableau.java-ca-4-13 SimplexTableau.java-ca-4-13
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, constraints, tableau, null]
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 61
+
+SimplexTableau.java-ca-34-10 SimplexTableau.java-ca-34-10
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, constraints, tableau, null]
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 61
+
+SimplexTableau.java-am-4-1 SimplexTableau.java-am-4-1
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 4
+
+SimplexTableau.java-ca-17-13 SimplexTableau.java-ca-17-13
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 4
+
+SimplexTableau.java-cm-23-12 SimplexTableau.java-cm-23-12
+
+SimplexTableau.java-ca-42-12 SimplexTableau.java-ca-42-12
+
+SimplexTableau.java-cm-1-6 SimplexTableau.java-cm-1-6
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-18-9 SimplexTableau.java-ca-18-9
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-15-10 SimplexTableau.java-ca-15-10
+
+SimplexTableau.java-ca-18-15 SimplexTableau.java-ca-18-15
+
+SimplexTableau.java-ca-6-21 SimplexTableau.java-ca-6-21
+
+SimplexTableau.java-ca-42-7 SimplexTableau.java-ca-42-7
+
+SimplexTableau.java-ca-20-4 SimplexTableau.java-ca-20-4
+
+SimplexTableau.java-cm-23-16 SimplexTableau.java-cm-23-16
+
+SimplexTableau.java-ca-2-12 SimplexTableau.java-ca-2-12
+
+SimplexTableau.java-cm-1-2 SimplexTableau.java-cm-1-2
+
+SimplexTableau.java-ca-26-7 SimplexTableau.java-ca-26-7
+
+SimplexTableau.java-am-7-1 SimplexTableau.java-am-7-1
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-32-2 SimplexTableau.java-ca-32-2
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-cm-36-14 SimplexTableau.java-cm-36-14
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexSolver.java-cm-49-2 SimplexSolver.java-cm-49-2
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 296
+
+SimplexTableau.java-ca-26-9 SimplexTableau.java-ca-26-9
+
+SimplexTableau.java-ca-34-11 SimplexTableau.java-ca-34-11
+
+SimplexTableau.java-mem-4-1 SimplexTableau.java-mem-4-1
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 4
+
+SimplexTableau.java-ca-25-5 SimplexTableau.java-ca-25-5
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 4
+
+SimplexTableau.java-cm-39-10 SimplexTableau.java-cm-39-10
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [negativeVarBasicRow, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-37-3 SimplexTableau.java-ca-37-3
+
+SimplexTableau.java-mem-18-1 SimplexTableau.java-mem-18-1
+
+SimplexTableau.java-cm-1-22 SimplexTableau.java-cm-1-22
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-14-7 SimplexTableau.java-ca-14-7
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-29-3 SimplexTableau.java-ca-29-3
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-8-15 SimplexTableau.java-ca-8-15
+
+SimplexTableau.java-am-11-1 SimplexTableau.java-am-11-1
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-4-8 SimplexTableau.java-ca-4-8
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-16-2 SimplexTableau.java-ca-16-2
+
+SimplexTableau.java-am-29-1 SimplexTableau.java-am-29-1
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-cm-1-3 SimplexTableau.java-cm-1-3
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-ca-24-11 SimplexTableau.java-ca-24-11
+
+SimplexTableau.java-cm-24-8 SimplexTableau.java-cm-24-8
+
+SimplexTableau.java-am-16-2 SimplexTableau.java-am-16-2
+
+SimplexTableau.java-am-15-0 SimplexTableau.java-am-15-0
+
+SimplexTableau.java-ca-25-20 SimplexTableau.java-ca-25-20
+
+SimplexTableau.java-ca-38-18 SimplexTableau.java-ca-38-18
+
+SimplexTableau.java-cm-20-17 SimplexTableau.java-cm-20-17
+
+SimplexTableau.java-mem-24-3 SimplexTableau.java-mem-24-3
+
+SimplexTableau.java-ca-34-18 SimplexTableau.java-ca-34-18
+
+SimplexTableau.java-ca-37-15 SimplexTableau.java-ca-37-15
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-12-12 SimplexTableau.java-ca-12-12
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-40-3 SimplexTableau.java-ca-40-3
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-12-2 SimplexTableau.java-ca-12-2
+     [java] Generate 9 candidates for the type int: [zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 488
+
+SimplexTableau.java-cm-36-9 SimplexTableau.java-cm-36-9
+
+SimplexTableau.java-ca-32-0 SimplexTableau.java-ca-32-0
+
+SimplexTableau.java-ca-25-4 SimplexTableau.java-ca-25-4
+
+SimplexTableau.java-ca-8-6 SimplexTableau.java-ca-8-6
+
+SimplexTableau.java-ca-25-18 SimplexTableau.java-ca-25-18
+
+SimplexTableau.java-ca-29-13 SimplexTableau.java-ca-29-13
+
+SimplexTableau.java-ca-36-5 SimplexTableau.java-ca-36-5
+
+SimplexTableau.java-ca-38-13 SimplexTableau.java-ca-38-13
+
+SimplexTableau.java-ca-8-3 SimplexTableau.java-ca-8-3
+
+SimplexTableau.java-cm-1-23 SimplexTableau.java-cm-1-23
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 20
+
+SimplexTableau.java-cm-1-13 SimplexTableau.java-cm-1-13
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-23-3 SimplexTableau.java-ca-23-3
+
+SimplexTableau.java-ca-23-15 SimplexTableau.java-ca-23-15
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-22-13 SimplexTableau.java-ca-22-13
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-2-10 SimplexTableau.java-ca-2-10
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, negativeVarBasicRow, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-20-11 SimplexTableau.java-ca-20-11
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, negativeVarBasicRow, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-36-9 SimplexTableau.java-ca-36-9
+
+SimplexTableau.java-ca-1-10 SimplexTableau.java-ca-1-10
+
+SimplexTableau.java-mem-1-0 SimplexTableau.java-mem-1-0
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 8
+
+SimplexSolver.java-cm-49-9 SimplexSolver.java-cm-49-9
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 296
+
+SimplexTableau.java-ca-29-16 SimplexTableau.java-ca-29-16
+
+SimplexTableau.java-am-39-0 SimplexTableau.java-am-39-0
+
+SimplexTableau.java-ca-5-12 SimplexTableau.java-ca-5-12
+
+SimplexSolver.java-am-43-0 SimplexSolver.java-am-43-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexSolver.java-am-49-0 SimplexSolver.java-am-49-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-2-16 SimplexTableau.java-ca-2-16
+
+SimplexSolver.java-mem-33-1 SimplexSolver.java-mem-33-1
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-37-0 SimplexTableau.java-ca-37-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-22-6 SimplexTableau.java-ca-22-6
+
+SimplexTableau.java-cm-1-18 SimplexTableau.java-cm-1-18
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Space: 40
+
+SimplexTableau.java-cm-1-21 SimplexTableau.java-cm-1-21
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 27
+
+SimplexTableau.java-am-37-0 SimplexTableau.java-am-37-0
+
+SimplexTableau.java-am-16-0 SimplexTableau.java-am-16-0
+
+SimplexTableau.java-ca-7-19 SimplexTableau.java-ca-7-19
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Space: 40
+
+SimplexSolver.java-mem-30-0 SimplexSolver.java-mem-30-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-36-21 SimplexTableau.java-ca-36-21
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-15-9 SimplexTableau.java-ca-15-9
+
+SimplexTableau.java-cm-24-7 SimplexTableau.java-cm-24-7
+
+SimplexTableau.java-mem-34-1 SimplexTableau.java-mem-34-1
+
+SimplexSolver.java-ca-30-2 SimplexSolver.java-ca-30-2
+
+SimplexTableau.java-ca-36-19 SimplexTableau.java-ca-36-19
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-cr-23-0 SimplexTableau.java-cr-23-0
+
+SimplexTableau.java-cm-20-6 SimplexTableau.java-cm-20-6
+
+SimplexSolver.java-om-49-1 SimplexSolver.java-om-49-1
+
+SimplexTableau.java-ca-7-17 SimplexTableau.java-ca-7-17
+
+SimplexTableau.java-am-24-5 SimplexTableau.java-am-24-5
+
+SimplexTableau.java-ca-18-5 SimplexTableau.java-ca-18-5
+
+SimplexTableau.java-ca-24-9 SimplexTableau.java-ca-24-9
+
+SimplexTableau.java-ca-6-15 SimplexTableau.java-ca-6-15
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 192
+
+SimplexTableau.java-ca-29-1 SimplexTableau.java-ca-29-1
+
+SimplexSolver.java-ca-33-3 SimplexSolver.java-ca-33-3
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 56
+
+SimplexTableau.java-am-21-0 SimplexTableau.java-am-21-0
+
+SimplexTableau.java-mem-14-0 SimplexTableau.java-mem-14-0
+
+SimplexTableau.java-ca-34-6 SimplexTableau.java-ca-34-6
+
+SimplexTableau.java-ca-9-16 SimplexTableau.java-ca-9-16
+
+SimplexTableau.java-ca-12-8 SimplexTableau.java-ca-12-8
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-38-15 SimplexTableau.java-ca-38-15
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-6-23 SimplexTableau.java-ca-6-23
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-34-4 SimplexTableau.java-ca-34-4
+
+SimplexSolver.java-cm-49-11 SimplexSolver.java-cm-49-11
+
+SimplexTableau.java-ca-36-4 SimplexTableau.java-ca-36-4
+
+SimplexTableau.java-mem-26-0 SimplexTableau.java-mem-26-0
+
+SimplexTableau.java-ca-7-6 SimplexTableau.java-ca-7-6
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-37-8 SimplexTableau.java-ca-37-8
+
+SimplexTableau.java-ca-6-13 SimplexTableau.java-ca-6-13
+
+SimplexTableau.java-ca-12-1 SimplexTableau.java-ca-12-1
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [tableau, objectiveCoefficients, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-am-5-0 SimplexTableau.java-am-5-0
+
+SimplexTableau.java-ca-15-4 SimplexTableau.java-ca-15-4
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Space: 26
+
+SimplexTableau.java-ca-20-3 SimplexTableau.java-ca-20-3
+
+SimplexTableau.java-ca-4-7 SimplexTableau.java-ca-4-7
+
+SimplexTableau.java-ca-32-9 SimplexTableau.java-ca-32-9
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [negativeVarBasicRow, tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-45-10 SimplexTableau.java-ca-45-10
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [negativeVarBasicRow, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-5-14 SimplexTableau.java-ca-5-14
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [negativeVarBasicRow, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-12-17 SimplexTableau.java-ca-12-17
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-1-0 SimplexTableau.java-ca-1-0
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 386
+
+SimplexTableau.java-ca-31-10 SimplexTableau.java-ca-31-10
+
+SimplexTableau.java-mem-40-0 SimplexTableau.java-mem-40-0
+
+SimplexTableau.java-ca-24-2 SimplexTableau.java-ca-24-2
+
+SimplexTableau.java-cm-36-13 SimplexTableau.java-cm-36-13
+
+SimplexTableau.java-ca-7-21 SimplexTableau.java-ca-7-21
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 38
+
+LinearObjectiveFunction.java-am-35-0 LinearObjectiveFunction.java-am-35-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.linear.RealVector: [coefficients, null]
+     [java] Space: 2
+
+SimplexSolver.java-ca-44-0 SimplexSolver.java-ca-44-0
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-14-17 SimplexTableau.java-ca-14-17
+
+SimplexTableau.java-ca-32-21 SimplexTableau.java-ca-32-21
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-4-14 SimplexTableau.java-ca-4-14
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-36-20 SimplexTableau.java-ca-36-20
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-40-8 SimplexTableau.java-ca-40-8
+
+SimplexSolver.java-ca-46-5 SimplexSolver.java-ca-46-5
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 56
+
+SimplexTableau.java-ca-42-9 SimplexTableau.java-ca-42-9
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 20
+
+SimplexTableau.java-am-23-1 SimplexTableau.java-am-23-1
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 20
+
+SimplexSolver.java-ca-49-3 SimplexSolver.java-ca-49-3
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 296
+
+SimplexTableau.java-ca-15-1 SimplexTableau.java-ca-15-1
+
+SimplexTableau.java-ca-23-7 SimplexTableau.java-ca-23-7
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ov-23-0 SimplexTableau.java-ov-23-0
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-31-0 SimplexTableau.java-ca-31-0
+
+SimplexTableau.java-ca-40-7 SimplexTableau.java-ca-40-7
+
+SimplexTableau.java-ca-10-14 SimplexTableau.java-ca-10-14
+
+SimplexTableau.java-ca-29-20 SimplexTableau.java-ca-29-20
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-cm-23-4 SimplexTableau.java-cm-23-4
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 218
+
+SimplexTableau.java-ca-7-8 SimplexTableau.java-ca-7-8
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Space: 26
+
+SimplexTableau.java-ca-19-7 SimplexTableau.java-ca-19-7
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Space: 26
+
+SimplexTableau.java-cm-23-3 SimplexTableau.java-cm-23-3
+
+SimplexTableau.java-ca-15-15 SimplexTableau.java-ca-15-15
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-2-21 SimplexTableau.java-ca-2-21
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-25-14 SimplexTableau.java-ca-25-14
+
+SimplexTableau.java-am-22-0 SimplexTableau.java-am-22-0
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-11-1 SimplexTableau.java-ca-11-1
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-cm-20-15 SimplexTableau.java-cm-20-15
+
+SimplexTableau.java-ca-19-5 SimplexTableau.java-ca-19-5
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-23-5 SimplexTableau.java-ca-23-5
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-41-14 SimplexTableau.java-ca-41-14
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-7-9 SimplexTableau.java-ca-7-9
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-mem-6-0 SimplexTableau.java-mem-6-0
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-cm-23-1 SimplexTableau.java-cm-23-1
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-36-18 SimplexTableau.java-ca-36-18
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-11-9 SimplexTableau.java-ca-11-9
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-41-13 SimplexTableau.java-ca-41-13
+
+SimplexTableau.java-ca-42-6 SimplexTableau.java-ca-42-6
+
+SimplexTableau.java-ca-1-20 SimplexTableau.java-ca-1-20
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+LinearObjectiveFunction.java-ca-35-1 LinearObjectiveFunction.java-ca-35-1
+     [java] Generate 2 candidates for the type double: [constantTerm, 0]
+     [java] Generate 2 candidates for the type double: [constantTerm, 0]
+     [java] Space: 33
+
+SimplexTableau.java-ca-10-9 SimplexTableau.java-ca-10-9
+
+SimplexTableau.java-ca-40-17 SimplexTableau.java-ca-40-17
+
+SimplexTableau.java-ca-4-15 SimplexTableau.java-ca-4-15
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 44
+
+SimplexTableau.java-ca-41-4 SimplexTableau.java-ca-41-4
+
+SimplexTableau.java-ca-14-5 SimplexTableau.java-ca-14-5
+
+SimplexTableau.java-ca-31-2 SimplexTableau.java-ca-31-2
+
+SimplexTableau.java-ca-20-1 SimplexTableau.java-ca-20-1
+
+SimplexTableau.java-cm-24-17 SimplexTableau.java-cm-24-17
+
+SimplexTableau.java-ca-45-17 SimplexTableau.java-ca-45-17
+
+SimplexTableau.java-cm-1-5 SimplexTableau.java-cm-1-5
+
+SimplexTableau.java-cm-20-10 SimplexTableau.java-cm-20-10
+
+SimplexTableau.java-ca-9-8 SimplexTableau.java-ca-9-8
+
+SimplexTableau.java-ca-7-7 SimplexTableau.java-ca-7-7
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-20-15 SimplexTableau.java-ca-20-15
+
+SimplexTableau.java-mem-22-1 SimplexTableau.java-mem-22-1
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 6
+
+SimplexTableau.java-ca-18-19 SimplexTableau.java-ca-18-19
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 6
+
+SimplexTableau.java-cm-39-13 SimplexTableau.java-cm-39-13
+
+SimplexTableau.java-ca-18-2 SimplexTableau.java-ca-18-2
+
+SimplexTableau.java-ca-6-8 SimplexTableau.java-ca-6-8
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Space: 26
+
+SimplexTableau.java-ca-27-15 SimplexTableau.java-ca-27-15
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Space: 26
+
+SimplexTableau.java-mem-18-2 SimplexTableau.java-mem-18-2
+
+SimplexTableau.java-ca-11-14 SimplexTableau.java-ca-11-14
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-cm-23-6 SimplexTableau.java-cm-23-6
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-cm-24-15 SimplexTableau.java-cm-24-15
+
+SimplexTableau.java-ca-37-6 SimplexTableau.java-ca-37-6
+
+SimplexTableau.java-ca-25-17 SimplexTableau.java-ca-25-17
+
+SimplexTableau.java-ca-4-16 SimplexTableau.java-ca-4-16
+     [java] Generate 4 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, constraints, tableau, null]
+     [java] Space: 34
+
+SimplexTableau.java-ca-12-14 SimplexTableau.java-ca-12-14
+
+SimplexTableau.java-ca-36-1 SimplexTableau.java-ca-36-1
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 513
+
+SimplexTableau.java-cm-24-14 SimplexTableau.java-cm-24-14
+
+SimplexTableau.java-ca-26-0 SimplexTableau.java-ca-26-0
+
+SimplexTableau.java-ca-1-5 SimplexTableau.java-ca-1-5
+
+SimplexTableau.java-am-39-5 SimplexTableau.java-am-39-5
+
+SimplexTableau.java-ca-15-19 SimplexTableau.java-ca-15-19
+
+SimplexTableau.java-cm-36-19 SimplexTableau.java-cm-36-19
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-15-13 SimplexTableau.java-ca-15-13
+
+SimplexTableau.java-ca-27-17 SimplexTableau.java-ca-27-17
+
+SimplexTableau.java-ca-25-7 SimplexTableau.java-ca-25-7
+
+SimplexTableau.java-ca-12-20 SimplexTableau.java-ca-12-20
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-18-4 SimplexTableau.java-ca-18-4
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-6-5 SimplexTableau.java-ca-6-5
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [objectiveCoefficients, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-am-18-1 SimplexTableau.java-am-18-1
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [tableau, objectiveCoefficients, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-17-9 SimplexTableau.java-ca-17-9
+
+SimplexTableau.java-ca-20-7 SimplexTableau.java-ca-20-7
+
+SimplexSolver.java-mem-49-3 SimplexSolver.java-mem-49-3
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-mem-24-2 SimplexTableau.java-mem-24-2
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-21-17 SimplexTableau.java-ca-21-17
+
+SimplexSolver.java-am-49-2 SimplexSolver.java-am-49-2
+
+SimplexTableau.java-ca-19-8 SimplexTableau.java-ca-19-8
+
+SimplexTableau.java-ca-8-12 SimplexTableau.java-ca-8-12
+
+SimplexTableau.java-ca-40-10 SimplexTableau.java-ca-40-10
+
+SimplexTableau.java-ca-27-20 SimplexTableau.java-ca-27-20
+
+SimplexSolver.java-cr-33-0 SimplexSolver.java-cr-33-0
+
+SimplexTableau.java-ca-16-4 SimplexTableau.java-ca-16-4
+
+SimplexTableau.java-ca-29-19 SimplexTableau.java-ca-29-19
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-1-18 SimplexTableau.java-ca-1-18
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Space: 20
+
+SimplexTableau.java-am-22-1 SimplexTableau.java-am-22-1
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Space: 20
+
+SimplexTableau.java-cm-20-2 SimplexTableau.java-cm-20-2
+
+SimplexTableau.java-ca-34-9 SimplexTableau.java-ca-34-9
+
+SimplexTableau.java-ca-2-3 SimplexTableau.java-ca-2-3
+     [java] Generate 3 candidates for the type class [D: [coefficients, negativeVarBasicRow, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-cm-39-16 SimplexTableau.java-cm-39-16
+
+SimplexTableau.java-ca-25-13 SimplexTableau.java-ca-25-13
+
+SimplexTableau.java-ca-20-14 SimplexTableau.java-ca-20-14
+
+SimplexTableau.java-ca-40-4 SimplexTableau.java-ca-40-4
+
+SimplexTableau.java-mem-23-3 SimplexTableau.java-mem-23-3
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 6
+
+SimplexTableau.java-ca-41-19 SimplexTableau.java-ca-41-19
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 6
+
+SimplexTableau.java-ca-25-8 SimplexTableau.java-ca-25-8
+
+SimplexTableau.java-om-1-0 SimplexTableau.java-om-1-0
+
+SimplexTableau.java-mem-45-1 SimplexTableau.java-mem-45-1
+
+SimplexSolver.java-ca-46-2 SimplexSolver.java-ca-46-2
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-45-6 SimplexTableau.java-ca-45-6
+
+SimplexTableau.java-ca-10-3 SimplexTableau.java-ca-10-3
+
+SimplexTableau.java-cm-20-7 SimplexTableau.java-cm-20-7
+
+SimplexTableau.java-ca-25-9 SimplexTableau.java-ca-25-9
+
+SimplexTableau.java-ca-16-14 SimplexTableau.java-ca-16-14
+
+Precision.java-ca-47-0 Precision.java-ca-47-0
+     [java] Generate 2 candidates for the type int: [SGN_MASK_FLOAT, 0]
+     [java] Space: 26
+
+SimplexTableau.java-ca-24-16 SimplexTableau.java-ca-24-16
+
+SimplexTableau.java-ca-16-19 SimplexTableau.java-ca-16-19
+
+SimplexTableau.java-mem-31-0 SimplexTableau.java-mem-31-0
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 8
+
+SimplexTableau.java-ca-36-3 SimplexTableau.java-ca-36-3
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 8
+
+SimplexTableau.java-ca-14-4 SimplexTableau.java-ca-14-4
+
+SimplexTableau.java-ca-5-5 SimplexTableau.java-ca-5-5
+
+SimplexTableau.java-am-24-3 SimplexTableau.java-am-24-3
+
+SimplexTableau.java-ca-1-22 SimplexTableau.java-ca-1-22
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-22-5 SimplexTableau.java-ca-22-5
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-37-13 SimplexTableau.java-ca-37-13
+
+SimplexTableau.java-ca-1-11 SimplexTableau.java-ca-1-11
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [negativeVarBasicRow, tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-29-7 SimplexTableau.java-ca-29-7
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [negativeVarBasicRow, tableau, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-24-0 SimplexTableau.java-ca-24-0
+
+SimplexTableau.java-ca-41-12 SimplexTableau.java-ca-41-12
+
+SimplexTableau.java-ca-7-1 SimplexTableau.java-ca-7-1
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 1396
+
+SimplexTableau.java-ca-45-0 SimplexTableau.java-ca-45-0
+
+SimplexTableau.java-cm-1-17 SimplexTableau.java-cm-1-17
+
+SimplexTableau.java-ca-29-18 SimplexTableau.java-ca-29-18
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-11-2 SimplexTableau.java-ca-11-2
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-25-16 SimplexTableau.java-ca-25-16
+
+SimplexTableau.java-ca-9-1 SimplexTableau.java-ca-9-1
+
+SimplexTableau.java-ca-22-17 SimplexTableau.java-ca-22-17
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-4-12 SimplexTableau.java-ca-4-12
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-mem-23-1 SimplexTableau.java-mem-23-1
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 6
+
+SimplexTableau.java-ca-37-21 SimplexTableau.java-ca-37-21
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 6
+
+SimplexTableau.java-ca-19-6 SimplexTableau.java-ca-19-6
+
+SimplexTableau.java-mem-23-0 SimplexTableau.java-mem-23-0
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java] Space: 3
+
+SimplexTableau.java-ca-10-16 SimplexTableau.java-ca-10-16
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java] Space: 3
+
+SimplexTableau.java-cm-23-19 SimplexTableau.java-cm-23-19
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-8-5 SimplexTableau.java-ca-8-5
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexTableau.java-mem-14-1 SimplexTableau.java-mem-14-1
+
+SimplexTableau.java-mem-11-0 SimplexTableau.java-mem-11-0
+
+SimplexTableau.java-ca-38-6 SimplexTableau.java-ca-38-6
+
+SimplexTableau.java-mem-24-0 SimplexTableau.java-mem-24-0
+
+SimplexTableau.java-ca-20-12 SimplexTableau.java-ca-20-12
+
+SimplexTableau.java-ca-18-12 SimplexTableau.java-ca-18-12
+
+SimplexSolver.java-ca-44-1 SimplexSolver.java-ca-44-1
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 56
+
+SimplexTableau.java-cm-24-2 SimplexTableau.java-cm-24-2
+
+SimplexTableau.java-cr-20-0 SimplexTableau.java-cr-20-0
+
+SimplexTableau.java-ca-37-16 SimplexTableau.java-ca-37-16
+
+SimplexTableau.java-ca-38-16 SimplexTableau.java-ca-38-16
+
+SimplexTableau.java-ca-38-4 SimplexTableau.java-ca-38-4
+
+SimplexTableau.java-ca-17-17 SimplexTableau.java-ca-17-17
+
+SimplexTableau.java-ca-25-2 SimplexTableau.java-ca-25-2
+
+SimplexTableau.java-ca-18-6 SimplexTableau.java-ca-18-6
+
+SimplexTableau.java-ca-31-17 SimplexTableau.java-ca-31-17
+
+SimplexTableau.java-ca-29-17 SimplexTableau.java-ca-29-17
+
+SimplexTableau.java-am-7-2 SimplexTableau.java-am-7-2
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-ca-9-5 SimplexTableau.java-ca-9-5
+     [java] Generate 12 candidates for the type int: [row, artificialVar, slackVar, zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 12
+
+SimplexTableau.java-ca-14-19 SimplexTableau.java-ca-14-19
+
+SimplexTableau.java-ca-22-14 SimplexTableau.java-ca-22-14
+
+SimplexTableau.java-ca-27-14 SimplexTableau.java-ca-27-14
+
+SimplexTableau.java-ca-38-8 SimplexTableau.java-ca-38-8
+
+SimplexTableau.java-ca-18-18 SimplexTableau.java-ca-18-18
+
+SimplexTableau.java-ca-18-0 SimplexTableau.java-ca-18-0
+
+SimplexTableau.java-ca-2-6 SimplexTableau.java-ca-2-6
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 56
+
+SimplexTableau.java-am-5-1 SimplexTableau.java-am-5-1
+     [java] Generate 7 candidates for the type int: [i, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 7
+
+SimplexTableau.java-ca-4-3 SimplexTableau.java-ca-4-3
+     [java] Generate 7 candidates for the type int: [i, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 7
+
+SimplexTableau.java-ca-2-8 SimplexTableau.java-ca-2-8
+
+SimplexTableau.java-ca-29-4 SimplexTableau.java-ca-29-4
+
+SimplexTableau.java-ca-23-11 SimplexTableau.java-ca-23-11
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-am-45-1 SimplexTableau.java-am-45-1
+
+SimplexSolver.java-ca-44-2 SimplexSolver.java-ca-44-2
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-2-19 SimplexTableau.java-ca-2-19
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-31-15 SimplexTableau.java-ca-31-15
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-14-14 SimplexTableau.java-ca-14-14
+
+SimplexTableau.java-cm-36-23 SimplexTableau.java-cm-36-23
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-7-16 SimplexTableau.java-ca-7-16
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-14-6 SimplexTableau.java-ca-14-6
+
+SimplexTableau.java-ca-31-14 SimplexTableau.java-ca-31-14
+
+Precision.java-ca-47-5 Precision.java-ca-47-5
+     [java] Generate 3 candidates for the type double: [SAFE_MIN, EPSILON, 0]
+     [java] Generate 3 candidates for the type int: [maxUlps, SGN_MASK_FLOAT, 0]
+     [java] Space: 76
+
+SimplexTableau.java-cm-39-18 SimplexTableau.java-cm-39-18
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-37-5 SimplexTableau.java-ca-37-5
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Space: 20
+
+SimplexTableau.java-am-34-0 SimplexTableau.java-am-34-0
+
+SimplexTableau.java-ca-15-12 SimplexTableau.java-ca-15-12
+
+SimplexTableau.java-cm-39-20 SimplexTableau.java-cm-39-20
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexSolver.java-cm-49-7 SimplexSolver.java-cm-49-7
+     [java] Generate 4 candidates for the type int: [cmp, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 98
+
+SimplexTableau.java-ca-19-4 SimplexTableau.java-ca-19-4
+
+SimplexSolver.java-ca-46-1 SimplexSolver.java-ca-46-1
+
+SimplexSolver.java-ca-46-3 SimplexSolver.java-ca-46-3
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 56
+
+SimplexTableau.java-ca-18-10 SimplexTableau.java-ca-18-10
+
+SimplexTableau.java-ca-29-23 SimplexTableau.java-ca-29-23
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-2-5 SimplexTableau.java-ca-2-5
+
+SimplexTableau.java-ca-45-4 SimplexTableau.java-ca-45-4
+     [java] Generate 3 candidates for the type class [D: [coefficients, negativeVarBasicRow, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-34-15 SimplexTableau.java-ca-34-15
+     [java] Generate 3 candidates for the type class [D: [coefficients, negativeVarBasicRow, null]
+     [java] Space: 20
+
+SimplexTableau.java-mem-39-4 SimplexTableau.java-mem-39-4
+
+SimplexTableau.java-am-12-2 SimplexTableau.java-am-12-2
+
+SimplexTableau.java-ca-32-5 SimplexTableau.java-ca-32-5
+
+SimplexTableau.java-ca-41-8 SimplexTableau.java-ca-41-8
+
+SimplexTableau.java-ca-29-12 SimplexTableau.java-ca-29-12
+
+SimplexTableau.java-mem-24-5 SimplexTableau.java-mem-24-5
+
+SimplexTableau.java-ca-31-8 SimplexTableau.java-ca-31-8
+
+LinearObjectiveFunction.java-ca-35-5 LinearObjectiveFunction.java-ca-35-5
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type double: [constantTerm, 0]
+     [java] Space: 32
+
+SimplexTableau.java-ca-21-16 SimplexTableau.java-ca-21-16
+
+SimplexTableau.java-am-24-4 SimplexTableau.java-am-24-4
+
+SimplexTableau.java-cm-20-1 SimplexTableau.java-cm-20-1
+
+SimplexTableau.java-ca-37-12 SimplexTableau.java-ca-37-12
+
+SimplexTableau.java-ca-10-12 SimplexTableau.java-ca-10-12
+
+SimplexTableau.java-ca-17-21 SimplexTableau.java-ca-17-21
+
+SimplexSolver.java-ca-48-0 SimplexSolver.java-ca-48-0
+     [java] Generate 5 candidates for the type double: [entry, minValue, epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 152
+
+SimplexTableau.java-ca-10-0 SimplexTableau.java-ca-10-0
+
+SimplexTableau.java-ca-42-13 SimplexTableau.java-ca-42-13
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-18-20 SimplexTableau.java-ca-18-20
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-40-9 SimplexTableau.java-ca-40-9
+
+SimplexTableau.java-ca-23-19 SimplexTableau.java-ca-23-19
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexSolver.java-cm-33-3 SimplexSolver.java-cm-33-3
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-42-14 SimplexTableau.java-ca-42-14
+
+SimplexTableau.java-ca-14-9 SimplexTableau.java-ca-14-9
+
+SimplexTableau.java-ca-25-1 SimplexTableau.java-ca-25-1
+
+SimplexTableau.java-cm-36-15 SimplexTableau.java-cm-36-15
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-24-21 SimplexTableau.java-ca-24-21
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-mem-4-2 SimplexTableau.java-mem-4-2
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 4
+
+SimplexTableau.java-ca-29-8 SimplexTableau.java-ca-29-8
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 4
+
+SimplexTableau.java-ca-24-13 SimplexTableau.java-ca-24-13
+
+SimplexTableau.java-mem-5-0 SimplexTableau.java-mem-5-0
+
+SimplexTableau.java-cm-24-12 SimplexTableau.java-cm-24-12
+
+SimplexTableau.java-ca-17-5 SimplexTableau.java-ca-17-5
+
+SimplexTableau.java-am-39-9 SimplexTableau.java-am-39-9
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 3
+
+SimplexTableau.java-ca-7-10 SimplexTableau.java-ca-7-10
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 3
+
+SimplexTableau.java-ca-12-9 SimplexTableau.java-ca-12-9
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-cm-39-2 SimplexTableau.java-cm-39-2
+     [java] Generate 10 candidates for the type int: [basicRow, colIndex, i, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 602
+
+SimplexTableau.java-ca-19-3 SimplexTableau.java-ca-19-3
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Space: 26
+
+SimplexTableau.java-cm-23-9 SimplexTableau.java-cm-23-9
+
+SimplexTableau.java-am-20-1 SimplexTableau.java-am-20-1
+
+SimplexTableau.java-ca-4-1 SimplexTableau.java-ca-4-1
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 356
+
+SimplexTableau.java-ca-42-17 SimplexTableau.java-ca-42-17
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-23-8 SimplexTableau.java-cm-23-8
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 10
+
+SimplexTableau.java-cm-39-23 SimplexTableau.java-cm-39-23
+     [java] Generate 4 candidates for the type class java.lang.String: [basicRow, negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 34
+
+SimplexTableau.java-cm-23-13 SimplexTableau.java-cm-23-13
+
+SimplexTableau.java-ca-2-11 SimplexTableau.java-ca-2-11
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, negativeVarBasicRow, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-9-4 SimplexTableau.java-ca-9-4
+
+SimplexTableau.java-ca-17-16 SimplexTableau.java-ca-17-16
+
+SimplexTableau.java-ca-37-2 SimplexTableau.java-ca-37-2
+
+SimplexTableau.java-ca-17-4 SimplexTableau.java-ca-17-4
+
+SimplexTableau.java-ca-40-13 SimplexTableau.java-ca-40-13
+
+SimplexSolver.java-am-49-3 SimplexSolver.java-am-49-3
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-mem-23-2 SimplexTableau.java-mem-23-2
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-7-2 SimplexTableau.java-ca-7-2
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, tableau, null]
+     [java] Space: 100
+
+SimplexTableau.java-ca-21-15 SimplexTableau.java-ca-21-15
+
+SimplexTableau.java-cm-36-4 SimplexTableau.java-cm-36-4
+
+SimplexTableau.java-ca-34-1 SimplexTableau.java-ca-34-1
+
+SimplexTableau.java-ca-34-3 SimplexTableau.java-ca-34-3
+
+SimplexTableau.java-ca-27-10 SimplexTableau.java-ca-27-10
+
+SimplexTableau.java-ca-45-15 SimplexTableau.java-ca-45-15
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 100
+
+SimplexTableau.java-ca-9-12 SimplexTableau.java-ca-9-12
+
+SimplexTableau.java-ca-7-22 SimplexTableau.java-ca-7-22
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Space: 100
+
+SimplexSolver.java-cm-49-0 SimplexSolver.java-cm-49-0
+     [java] Generate 4 candidates for the type int: [cmp, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 98
+
+SimplexTableau.java-mem-34-0 SimplexTableau.java-mem-34-0
+
+SimplexTableau.java-ca-45-7 SimplexTableau.java-ca-45-7
+
+SimplexSolver.java-ca-49-1 SimplexSolver.java-ca-49-1
+
+SimplexTableau.java-ca-34-21 SimplexTableau.java-ca-34-21
+
+SimplexTableau.java-cm-39-7 SimplexTableau.java-cm-39-7
+
+SimplexTableau.java-ca-20-8 SimplexTableau.java-ca-20-8
+
+SimplexTableau.java-mem-39-2 SimplexTableau.java-mem-39-2
+
+SimplexTableau.java-cm-24-1 SimplexTableau.java-cm-24-1
+
+SimplexTableau.java-ca-32-3 SimplexTableau.java-ca-32-3
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 70
+
+SimplexTableau.java-ca-32-20 SimplexTableau.java-ca-32-20
+
+SimplexTableau.java-ca-29-5 SimplexTableau.java-ca-29-5
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [objectiveCoefficients, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-14-3 SimplexTableau.java-ca-14-3
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.RealVector: [objectiveCoefficients, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-cm-39-14 SimplexTableau.java-cm-39-14
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-25-0 SimplexTableau.java-ca-25-0
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-32-19 SimplexTableau.java-ca-32-19
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 32
+
+SimplexTableau.java-ca-36-12 SimplexTableau.java-ca-36-12
+
+SimplexSolver.java-cm-33-2 SimplexSolver.java-cm-33-2
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-12-5 SimplexTableau.java-ca-12-5
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-am-31-0 SimplexTableau.java-am-31-0
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-40-19 SimplexTableau.java-ca-40-19
+
+SimplexTableau.java-ca-26-14 SimplexTableau.java-ca-26-14
+
+SimplexTableau.java-am-4-0 SimplexTableau.java-am-4-0
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 4
+
+SimplexTableau.java-ca-26-4 SimplexTableau.java-ca-26-4
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, constraints, tableau, null]
+     [java] Space: 4
+
+SimplexTableau.java-mem-15-0 SimplexTableau.java-mem-15-0
+
+SimplexTableau.java-am-16-1 SimplexTableau.java-am-16-1
+
+SimplexTableau.java-ca-22-1 SimplexTableau.java-ca-22-1
+
+SimplexTableau.java-ca-16-9 SimplexTableau.java-ca-16-9
+
+SimplexTableau.java-cm-36-7 SimplexTableau.java-cm-36-7
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-21-9 SimplexTableau.java-ca-21-9
+
+SimplexTableau.java-am-20-0 SimplexTableau.java-am-20-0
+
+SimplexTableau.java-ca-8-8 SimplexTableau.java-ca-8-8
+
+SimplexTableau.java-ca-26-18 SimplexTableau.java-ca-26-18
+
+SimplexTableau.java-ca-26-19 SimplexTableau.java-ca-26-19
+
+SimplexTableau.java-ca-45-13 SimplexTableau.java-ca-45-13
+
+SimplexTableau.java-am-39-8 SimplexTableau.java-am-39-8
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 3
+
+SimplexTableau.java-ca-40-0 SimplexTableau.java-ca-40-0
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 3
+
+SimplexTableau.java-ca-27-19 SimplexTableau.java-ca-27-19
+
+SimplexTableau.java-ca-24-19 SimplexTableau.java-ca-24-19
+
+SimplexTableau.java-ca-24-5 SimplexTableau.java-ca-24-5
+
+SimplexTableau.java-mem-39-9 SimplexTableau.java-mem-39-9
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 3
+
+SimplexTableau.java-ca-1-8 SimplexTableau.java-ca-1-8
+     [java] Generate 3 candidates for the type double: [mostNegative, epsilon, 0]
+     [java] Space: 3
+
+SimplexTableau.java-ca-24-1 SimplexTableau.java-ca-24-1
+
+SimplexTableau.java-cm-20-19 SimplexTableau.java-cm-20-19
+
+SimplexTableau.java-ca-27-13 SimplexTableau.java-ca-27-13
+
+SimplexTableau.java-ca-5-3 SimplexTableau.java-ca-5-3
+     [java] Generate 7 candidates for the type int: [i, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 296
+
+SimplexSolver.java-am-49-5 SimplexSolver.java-am-49-5
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-ca-19-1 SimplexTableau.java-ca-19-1
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-mem-39-5 SimplexTableau.java-mem-39-5
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-cm-39-8 SimplexTableau.java-cm-39-8
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+SimplexTableau.java-cm-39-19 SimplexTableau.java-cm-39-19
+     [java] Generate 4 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [basicRow, negativeVarBasicRow, f, null]
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 170
+
+SimplexTableau.java-ca-11-4 SimplexTableau.java-ca-11-4
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 50
+
+SimplexSolver.java-am-33-1 SimplexSolver.java-am-33-1
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexSolver.java-mem-49-0 SimplexSolver.java-mem-49-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-5-15 SimplexTableau.java-ca-5-15
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-17-19 SimplexTableau.java-ca-17-19
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 10
+
+SimplexSolver.java-cm-33-1 SimplexSolver.java-cm-33-1
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-12-13 SimplexTableau.java-ca-12-13
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-36-6 SimplexTableau.java-ca-36-6
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-34-7 SimplexTableau.java-ca-34-7
+
+SimplexTableau.java-ca-11-17 SimplexTableau.java-ca-11-17
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-23-18 SimplexTableau.java-ca-23-18
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexTableau.java-cr-24-0 SimplexTableau.java-cr-24-0
+
+SimplexTableau.java-cm-1-1 SimplexTableau.java-cm-1-1
+
+SimplexTableau.java-ca-32-14 SimplexTableau.java-ca-32-14
+
+SimplexTableau.java-ca-18-21 SimplexTableau.java-ca-18-21
+
+SimplexTableau.java-cm-36-21 SimplexTableau.java-cm-36-21
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-am-39-3 SimplexTableau.java-am-39-3
+
+SimplexTableau.java-ca-17-10 SimplexTableau.java-ca-17-10
+
+SimplexTableau.java-ca-17-8 SimplexTableau.java-ca-17-8
+
+SimplexTableau.java-ca-16-15 SimplexTableau.java-ca-16-15
+
+SimplexTableau.java-ca-31-5 SimplexTableau.java-ca-31-5
+
+SimplexTableau.java-ca-41-2 SimplexTableau.java-ca-41-2
+     [java] Generate 9 candidates for the type int: [i, row, col, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 488
+
+SimplexTableau.java-cm-36-17 SimplexTableau.java-cm-36-17
+
+SimplexTableau.java-ca-25-21 SimplexTableau.java-ca-25-21
+
+SimplexSolver.java-ca-49-4 SimplexSolver.java-ca-49-4
+
+SimplexTableau.java-ca-22-11 SimplexTableau.java-ca-22-11
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-18-8 SimplexTableau.java-ca-18-8
+
+SimplexTableau.java-ca-29-2 SimplexTableau.java-ca-29-2
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearConstraint: [constraint, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-cm-36-16 SimplexTableau.java-cm-36-16
+
+SimplexTableau.java-cm-23-7 SimplexTableau.java-cm-23-7
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-41-7 SimplexTableau.java-ca-41-7
+     [java] Generate 2 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-4-0 SimplexTableau.java-ca-4-0
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 218
+
+SimplexTableau.java-cm-20-9 SimplexTableau.java-cm-20-9
+
+SimplexTableau.java-ca-17-6 SimplexTableau.java-ca-17-6
+
+SimplexTableau.java-mem-21-0 SimplexTableau.java-mem-21-0
+
+SimplexTableau.java-cm-24-11 SimplexTableau.java-cm-24-11
+
+SimplexTableau.java-ca-20-5 SimplexTableau.java-ca-20-5
+
+SimplexTableau.java-ca-31-1 SimplexTableau.java-ca-31-1
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 508
+
+SimplexTableau.java-cm-36-1 SimplexTableau.java-cm-36-1
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 386
+
+SimplexTableau.java-ca-27-16 SimplexTableau.java-ca-27-16
+
+SimplexTableau.java-ca-20-9 SimplexTableau.java-ca-20-9
+
+SimplexTableau.java-ca-8-16 SimplexTableau.java-ca-8-16
+
+SimplexSolver.java-am-49-4 SimplexSolver.java-am-49-4
+
+SimplexTableau.java-ca-1-21 SimplexTableau.java-ca-1-21
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 32
+
+SimplexSolver.java-ca-43-5 SimplexSolver.java-ca-43-5
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 1 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [null]
+     [java] Space: 56
+
+SimplexTableau.java-cm-36-8 SimplexTableau.java-cm-36-8
+
+SimplexTableau.java-ca-17-1 SimplexTableau.java-ca-17-1
+
+SimplexSolver.java-ca-30-3 SimplexSolver.java-ca-30-3
+
+SimplexTableau.java-ca-11-0 SimplexTableau.java-ca-11-0
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 218
+
+SimplexTableau.java-ca-2-4 SimplexTableau.java-ca-2-4
+
+SimplexTableau.java-ca-31-4 SimplexTableau.java-ca-31-4
+
+SimplexTableau.java-ca-14-13 SimplexTableau.java-ca-14-13
+
+SimplexTableau.java-ca-11-8 SimplexTableau.java-ca-11-8
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-36-2 SimplexTableau.java-ca-36-2
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 20
+
+SimplexTableau.java-ca-42-8 SimplexTableau.java-ca-42-8
+
+SimplexSolver.java-am-33-0 SimplexSolver.java-am-33-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-9-6 SimplexTableau.java-ca-9-6
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-18-1 SimplexTableau.java-ca-18-1
+
+SimplexTableau.java-ca-11-16 SimplexTableau.java-ca-11-16
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 20
+
+SimplexSolver.java-cr-49-1 SimplexSolver.java-cr-49-1
+
+SimplexSolver.java-cm-49-5 SimplexSolver.java-cm-49-5
+
+SimplexTableau.java-ca-16-0 SimplexTableau.java-ca-16-0
+
+SimplexTableau.java-ca-11-6 SimplexTableau.java-ca-11-6
+
+SimplexTableau.java-cm-24-18 SimplexTableau.java-cm-24-18
+
+SimplexTableau.java-ca-24-12 SimplexTableau.java-ca-24-12
+
+SimplexTableau.java-ca-34-17 SimplexTableau.java-ca-34-17
+
+SimplexTableau.java-ca-6-19 SimplexTableau.java-ca-6-19
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-16-11 SimplexTableau.java-ca-16-11
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 28
+
+SimplexTableau.java-ca-2-18 SimplexTableau.java-ca-2-18
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-23-9 SimplexTableau.java-ca-23-9
+
+SimplexTableau.java-ca-6-18 SimplexTableau.java-ca-6-18
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-8-2 SimplexTableau.java-ca-8-2
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-10-8 SimplexTableau.java-ca-10-8
+
+SimplexTableau.java-ca-2-13 SimplexTableau.java-ca-2-13
+
+SimplexTableau.java-ca-34-5 SimplexTableau.java-ca-34-5
+
+SimplexTableau.java-ca-16-21 SimplexTableau.java-ca-16-21
+
+SimplexTableau.java-ca-12-18 SimplexTableau.java-ca-12-18
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-am-14-1 SimplexTableau.java-am-14-1
+
+SimplexTableau.java-am-29-0 SimplexTableau.java-am-29-0
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-27-12 SimplexTableau.java-ca-27-12
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.linear.Array2DRowRealMatrix: [matrix, tableau, null]
+     [java] Space: 3
+
+SimplexTableau.java-ca-5-8 SimplexTableau.java-ca-5-8
+
+SimplexTableau.java-mem-18-3 SimplexTableau.java-mem-18-3
+
+SimplexTableau.java-ca-38-3 SimplexTableau.java-ca-38-3
+
+SimplexTableau.java-ca-5-9 SimplexTableau.java-ca-5-9
+
+SimplexTableau.java-am-12-1 SimplexTableau.java-am-12-1
+
+SimplexTableau.java-ca-4-11 SimplexTableau.java-ca-4-11
+
+SimplexTableau.java-ca-21-10 SimplexTableau.java-ca-21-10
+
+SimplexTableau.java-ca-34-12 SimplexTableau.java-ca-34-12
+
+SimplexTableau.java-ca-4-2 SimplexTableau.java-ca-4-2
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Space: 26
+
+SimplexTableau.java-ca-29-0 SimplexTableau.java-ca-29-0
+     [java] Generate 2 candidates for the type double: [epsilon, 0]
+     [java] Space: 26
+
+SimplexTableau.java-ca-9-2 SimplexTableau.java-ca-9-2
+
+SimplexSolver.java-cm-33-0 SimplexSolver.java-cm-33-0
+     [java] Generate 3 candidates for the type int: [DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 56
+
+SimplexTableau.java-ca-12-15 SimplexTableau.java-ca-12-15
+
+SimplexTableau.java-am-23-3 SimplexTableau.java-am-23-3
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 6
+
+SimplexTableau.java-cm-39-4 SimplexTableau.java-cm-39-4
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 6
+
+SimplexTableau.java-ca-41-5 SimplexTableau.java-ca-41-5
+
+SimplexTableau.java-ca-23-13 SimplexTableau.java-ca-23-13
+
+SimplexTableau.java-om-23-0 SimplexTableau.java-om-23-0
+
+SimplexTableau.java-cr-1-0 SimplexTableau.java-cr-1-0
+
+SimplexTableau.java-ca-32-10 SimplexTableau.java-ca-32-10
+
+SimplexTableau.java-cr-39-0 SimplexTableau.java-cr-39-0
+
+LinearObjectiveFunction.java-ca-35-0 LinearObjectiveFunction.java-ca-35-0
+
+SimplexTableau.java-ca-21-8 SimplexTableau.java-ca-21-8
+
+SimplexTableau.java-ca-26-13 SimplexTableau.java-ca-26-13
+
+SimplexTableau.java-am-39-6 SimplexTableau.java-am-39-6
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 3
+
+Precision.java-ca-47-3 Precision.java-ca-47-3
+     [java] Generate 3 candidates for the type long: [SGN_MASK, EXPONENT_OFFSET, null]
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 168
+
+SimplexTableau.java-ca-6-10 SimplexTableau.java-ca-6-10
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 20
+
+SimplexSolver.java-mem-43-0 SimplexSolver.java-mem-43-0
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-cm-36-12 SimplexTableau.java-cm-36-12
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+SimplexTableau.java-ca-37-22 SimplexTableau.java-ca-37-22
+
+SimplexTableau.java-cm-36-18 SimplexTableau.java-cm-36-18
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [negativeVarBasicRow, f, null]
+     [java] Space: 21
+
+SimplexTableau.java-ca-24-7 SimplexTableau.java-ca-24-7
+
+SimplexTableau.java-ca-20-13 SimplexTableau.java-ca-20-13
+
+SimplexTableau.java-mem-20-2 SimplexTableau.java-mem-20-2
+
+SimplexTableau.java-ca-36-22 SimplexTableau.java-ca-36-22
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Generate 3 candidates for the type class java.lang.String: [negativeVarBasicRow, NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 21
+
+SimplexSolver.java-mem-49-4 SimplexSolver.java-mem-49-4
+
+SimplexTableau.java-ca-24-4 SimplexTableau.java-ca-24-4
+
+SimplexTableau.java-ca-8-17 SimplexTableau.java-ca-8-17
+
+SimplexTableau.java-ca-9-13 SimplexTableau.java-ca-9-13
+
+SimplexTableau.java-ca-14-16 SimplexTableau.java-ca-14-16
+
+SimplexTableau.java-mem-16-1 SimplexTableau.java-mem-16-1
+
+SimplexTableau.java-ca-21-18 SimplexTableau.java-ca-21-18
+
+SimplexTableau.java-ca-7-18 SimplexTableau.java-ca-7-18
+     [java] Generate 3 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, tableau, null]
+     [java] Space: 20
+
+SimplexTableau.java-ca-19-12 SimplexTableau.java-ca-19-12
+
+SimplexTableau.java-ca-12-3 SimplexTableau.java-ca-12-3
+     [java] Generate 9 candidates for the type int: [zIndex, height, width, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [matrix, tableau, null]
+     [java] Space: 766
+
+SimplexTableau.java-am-36-0 SimplexTableau.java-am-36-0
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 8
+
+SimplexTableau.java-ca-23-1 SimplexTableau.java-ca-23-1
+     [java] Generate 8 candidates for the type int: [colIndex, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Space: 8
+
+SimplexTableau.java-ca-9-17 SimplexTableau.java-ca-9-17
+
+SimplexTableau.java-ca-12-21 SimplexTableau.java-ca-12-21
+     [java] Generate 3 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, tableau, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexSolver.java-mem-33-2 SimplexSolver.java-mem-33-2
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 3
+
+SimplexTableau.java-ca-41-0 SimplexTableau.java-ca-41-0
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 3
+
+SimplexTableau.java-am-24-0 SimplexTableau.java-am-24-0
+
+SimplexTableau.java-ca-34-22 SimplexTableau.java-ca-34-22
+
+SimplexTableau.java-ca-32-18 SimplexTableau.java-ca-32-18
+
+SimplexTableau.java-ca-34-8 SimplexTableau.java-ca-34-8
+
+SimplexTableau.java-ca-19-9 SimplexTableau.java-ca-19-9
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 41
+
+SimplexTableau.java-ca-24-14 SimplexTableau.java-ca-24-14
+
+SimplexTableau.java-ca-37-20 SimplexTableau.java-ca-37-20
+
+SimplexTableau.java-ca-42-2 SimplexTableau.java-ca-42-2
+
+SimplexTableau.java-ca-10-7 SimplexTableau.java-ca-10-7
+
+SimplexTableau.java-ca-22-4 SimplexTableau.java-ca-22-4
+
+SimplexTableau.java-ca-42-11 SimplexTableau.java-ca-42-11
+
+SimplexTableau.java-ca-15-14 SimplexTableau.java-ca-15-14
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.linear.LinearObjectiveFunction: [f, null]
+     [java] Space: 21
+
+SimplexTableau.java-cm-20-5 SimplexTableau.java-cm-20-5
+
+SimplexTableau.java-ca-6-16 SimplexTableau.java-ca-6-16
+
+SimplexTableau.java-ca-31-6 SimplexTableau.java-ca-31-6
+
+SimplexSolver.java-ca-44-3 SimplexSolver.java-ca-44-3
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 56
+
+SimplexTableau.java-mem-4-0 SimplexTableau.java-mem-4-0
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Space: 56
+
+SimplexTableau.java-mem-39-6 SimplexTableau.java-mem-39-6
+     [java] Generate 3 candidates for the type double: [epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java] Space: 168
+
+SimplexTableau.java-ca-38-9 SimplexTableau.java-ca-38-9
+
+SimplexSolver.java-ca-43-4 SimplexSolver.java-ca-43-4
+
+SimplexTableau.java-ca-26-5 SimplexTableau.java-ca-26-5
+
+SimplexTableau.java-ca-14-11 SimplexTableau.java-ca-14-11
+
+SimplexTableau.java-om-36-0 SimplexTableau.java-om-36-0
+
+SimplexTableau.java-ca-36-8 SimplexTableau.java-ca-36-8
+
+SimplexSolver.java-ca-49-5 SimplexSolver.java-ca-49-5
+
+SimplexTableau.java-ca-14-10 SimplexTableau.java-ca-14-10
+
+SimplexTableau.java-ca-2-20 SimplexTableau.java-ca-2-20
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+SimplexTableau.java-ca-9-7 SimplexTableau.java-ca-9-7
+
+SimplexTableau.java-ca-31-20 SimplexTableau.java-ca-31-20
+
+SimplexTableau.java-ca-16-16 SimplexTableau.java-ca-16-16
+
+SimplexTableau.java-ca-38-7 SimplexTableau.java-ca-38-7
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, negativeVarBasicRow, null]
+     [java] Generate 2 candidates for the type class org.apache.commons.math3.optimization.PointValuePair: [negativeVarBasicRow, null]
+     [java] Space: 25
+
+SimplexTableau.java-ca-7-11 SimplexTableau.java-ca-7-11
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Generate 3 candidates for the type interface org.apache.commons.math3.linear.RealMatrix: [tableau, matrix, null]
+     [java] Space: 28
+
+SimplexTableau.java-mem-37-0 SimplexTableau.java-mem-37-0
+
+SimplexTableau.java-ca-19-14 SimplexTableau.java-ca-19-14
+
+SimplexTableau.java-ca-19-17 SimplexTableau.java-ca-19-17
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexTableau.java-ca-8-9 SimplexTableau.java-ca-8-9
+     [java] Generate 2 candidates for the type class java.lang.String: [NEGATIVE_VAR_COLUMN_LABEL, null]
+     [java] Space: 10
+
+SimplexTableau.java-om-20-0 SimplexTableau.java-om-20-0
+
+SimplexTableau.java-ca-26-2 SimplexTableau.java-ca-26-2
+
+SimplexTableau.java-ca-42-10 SimplexTableau.java-ca-42-10
+
+SimplexSolver.java-ca-43-2 SimplexSolver.java-ca-43-2
+
+SimplexSolver.java-cm-49-4 SimplexSolver.java-cm-49-4
+
+SimplexTableau.java-ca-16-6 SimplexTableau.java-ca-16-6
+
+SimplexTableau.java-ca-26-1 SimplexTableau.java-ca-26-1
+
+SimplexTableau.java-ca-22-10 SimplexTableau.java-ca-22-10
+
+SimplexTableau.java-ca-27-4 SimplexTableau.java-ca-27-4
+
